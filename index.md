@@ -14,14 +14,14 @@ sections:
       button: Contact Us
       url: mailto:cscollege_ilod@cscollege.gov.sg
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: RESOURCES
+          description: Guides, Tips & Frameworks
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: Professional Development
+          description: Your OD Developmental Journey
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: Newbies Corner
+          description: New to OD? Find out more
           url: /privacy/
   - infobar:
       title: Infobar title

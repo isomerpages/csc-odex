@@ -50,4 +50,12 @@ sections:
       title: Media
       subtitle: Learn more
       button: View More
+  - infopic:
+      title: Organisation Design
+      subtitle: Specialisations / Electives
+      description: What are the two lenses to look at the role of an organisation
+        design practitioner - informal and formal.
+      button: LEARN more
+      url: www.csc.gov.sg
+      alt: Image alt text
 ---

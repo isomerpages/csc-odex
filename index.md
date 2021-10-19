@@ -34,4 +34,12 @@ sections:
       title: Media
       subtitle: Learn more
       button: View More
+  - infopic:
+      title: Employee Engagement
+      subtitle: CORE
+      description: " More than just about feeling satisfied or happy at work"
+      button: Learn more
+      url: test
+      image: /images/EE.JPG
+      alt: Image alt text
 ---

@@ -41,10 +41,11 @@ sections:
   - infopic:
       title: Team Development
       subtitle: Specialisations / Electives
-      description: Infopic description
+      description: Develop teams that work
       button: LEARN more
       url: www.register.csc.gov.sg
       alt: Image alt text
+      image: /images/Team%20development.JPG
   - resources:
       title: Media
       subtitle: Learn more

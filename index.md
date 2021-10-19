@@ -30,16 +30,23 @@ sections:
         practitioners in your work and professional development."
       button: Learn more
       url: www.csc.gov.sg
-  - resources:
-      title: Media
-      subtitle: Learn more
-      button: View More
   - infopic:
       title: Employee Engagement
-      subtitle: CORE
+      subtitle: Specialisations / Electives
       description: " More than just about feeling satisfied or happy at work"
       button: Learn more
       url: test
       image: /images/EE.JPG
       alt: Image alt text
+  - infopic:
+      title: Team Development
+      subtitle: Specialisations / Electives
+      description: Infopic description
+      button: LEARN more
+      url: www.register.csc.gov.sg
+      alt: Image alt text
+  - resources:
+      title: Media
+      subtitle: Learn more
+      button: View More
 ---

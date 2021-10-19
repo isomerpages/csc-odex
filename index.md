@@ -8,11 +8,11 @@ notification: "Welcome to ODEx! This self-help resource portal is designed to
   support OD practitioners in your work and professional development. "
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
+      title: ODEx
+      subtitle: Organisation Development Experience
+      background: /images/OD%20microsite%20-%20placeholder_logo.jpg
       button: Contact Us
-      url: /contact-us/
+      url: mailto:cscollege_ilod@cscollege.gov.sg
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important

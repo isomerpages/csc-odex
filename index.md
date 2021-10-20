@@ -46,10 +46,6 @@ sections:
       url: www.register.csc.gov.sg
       alt: Image alt text
       image: /images/Team%20development.JPG
-  - resources:
-      title: Media
-      subtitle: Learn more
-      button: View More
   - infopic:
       title: Organisation Design
       subtitle: Specialisations / Electives
@@ -58,4 +54,8 @@ sections:
       button: LEARN more
       url: www.csc.gov.sg
       alt: Image alt text
+  - resources:
+      title: Media
+      subtitle: Learn more
+      button: View More
 ---

@@ -1,5 +1,4 @@
 collections:
   professional-development:
     output: true
-    order:
-      - page-test.md
+    order: []

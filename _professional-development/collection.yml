@@ -1,5 +1,4 @@
 collections:
   professional-development:
     output: true
-    order:
-      - Landing page.md
+    order: []

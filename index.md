@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: ODEx
+description: A self-help resource portal is designed to support your OD practice.
 image: /images/isomer-logo.svg
 permalink: /
 notification: "Welcome to ODEx! This self-help resource portal is designed to

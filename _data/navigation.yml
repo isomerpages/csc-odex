@@ -2,8 +2,8 @@ logo: /images/Black.png
 links:
   - title: Resource
     resource_room: true
-  - title: Professional Development
-    collection: collection
+  - title: Professional Development 1
+    collection: professional-development-1
   - title: Newbie Corner
     url: /page-test/
   - title: Contact Us

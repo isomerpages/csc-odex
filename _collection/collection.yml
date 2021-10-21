@@ -2,5 +2,6 @@ collections:
   collection:
     output: true
     order:
+      - Subfolder/Professional Development.md
       - Subfolder/.keep
       - page.md

@@ -1,5 +1,5 @@
 collections:
-  collection:
+  professional-development-1:
     output: true
     order:
       - Subfolder/page.md

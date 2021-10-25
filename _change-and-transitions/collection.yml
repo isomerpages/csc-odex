@@ -2,4 +2,5 @@ collections:
   change-and-transitions:
     output: true
     order:
+      - Change and Transition Infographics.md
       - List of resources.md

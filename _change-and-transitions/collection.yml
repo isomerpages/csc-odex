@@ -1,4 +1,5 @@
 collections:
   change-and-transitions:
     output: true
-    order: []
+    order:
+      - List of resources.md

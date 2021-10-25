@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Infographic/.keep
-      - Change and Transition Infographics.md
       - List of resources.md

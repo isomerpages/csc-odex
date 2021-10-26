@@ -1,5 +1,5 @@
 collections:
-  professional-development-1:
+  professional-development:
     output: true
     order:
       - Professional Development.md

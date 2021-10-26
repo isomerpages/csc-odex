@@ -8,3 +8,5 @@ links:
     url: /page-test/
   - title: Contact Us
     url: /contact-us/
+  - title: Newbie Corner
+    collection: newbie-corner

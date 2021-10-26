@@ -1,5 +1,4 @@
 collections:
   professional-development-1:
     output: true
-    order:
-      - Subfolder/.keep
+    order: []

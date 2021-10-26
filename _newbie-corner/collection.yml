@@ -2,4 +2,4 @@ collections:
   newbie-corner:
     output: true
     order:
-      - Newbie Corner.md
+      - Terms of Use.md

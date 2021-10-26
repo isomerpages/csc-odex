@@ -9,14 +9,8 @@ Are you a fresh graduate? Or have you just transferred to the OD unit from anoth
 
 
 
-
-| ![Alt text for image on Isomer site](/images/Team%20development.JPG) | How well an organisation can perform depends on how effectively individual staff can work collectively as one. This is where OD comes in. Find out about the roles an OD practitioner needs to play to enable the organisation to be effective.
- |
+| ![Alt text for image on Isomer site](/images/Black.png) | How well an organisation can perform depends on how effectively individual staff can work collectively as one. This is where OD comes in. Find out about the roles an OD practitioner needs to play to enable the organisation to be effective.
+ | Column 3 |
 | -------- | -------- | -------- |
-| ![Alt text for image on Isomer site](/images/Team%20development.JPG) | Thinkpiece: Understanding OD and its Role: A Think Piece on Organisation Development
-
-Download here.| 
-
-
-
+| ![Alt text for image on Isomer site](/images/Black.png)    | Thinkpiece: Understanding OD and its Role: A Think Piece on Organisation Development     | Text     |
 

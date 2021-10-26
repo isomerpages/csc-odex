@@ -5,8 +5,6 @@ links:
   - title: Professional Development
     collection: professional-development
   - title: Newbie Corner
-    url: /page-test/
+    url: /Newbie-Corner
   - title: Contact Us
-    url: /contact-us/
-  - title: Newbie Corner
-    collection: newbie-corner
+    url: /Contact-Us

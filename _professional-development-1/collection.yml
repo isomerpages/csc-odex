@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Subfolder/page.md
-      - Subfolder/Professional Development.md
       - Subfolder/.keep

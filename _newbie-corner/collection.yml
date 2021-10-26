@@ -1,5 +1,4 @@
 collections:
   newbie-corner:
     output: true
-    order:
-      - Newbie Corner.md
+    order: []

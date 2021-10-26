@@ -26,9 +26,9 @@ permalink: /Professional-Development
     </h3><br><br>Find out more </td>
     <td><img src="https://go.gov.sg/ilod-microsite-test-thumbnail"></a></td>
   
-<tr> ![Alt text for image on Isomer site](/images/ODJourneyTest.jpg)
-	</tr>
+
 </table>
 
 </body>
 </html>
+<br><br>![Alt text for image on Isomer site](/images/ODJourneyTest.jpg)

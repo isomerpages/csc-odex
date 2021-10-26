@@ -1,5 +1,4 @@
 collections:
   newbie-corner:
     output: true
-    order:
-      - Hello Newbie.md
+    order: []

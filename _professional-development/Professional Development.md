@@ -31,4 +31,4 @@ permalink: /Professional-Development
 
 </body>
 </html>
-<br><br>![Alt text for image on Isomer site](/images/ODJourneyTest.jpg)
+<br><a href="https://go.gov.sg/od-journey-test"></a>

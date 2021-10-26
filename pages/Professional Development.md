@@ -4,8 +4,6 @@ permalink: /Professional-Development
 ---
 ```
 <html>
-
-
 <body>
 <table width="400" border="1" cellpadding="1">
   <tr>
@@ -33,4 +31,3 @@ permalink: /Professional-Development
 
 </body>
 </html>
-```

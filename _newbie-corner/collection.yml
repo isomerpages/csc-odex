@@ -2,4 +2,5 @@ collections:
   newbie-corner:
     output: true
     order:
+      - faq.md
       - Newbie Corner.md

@@ -61,7 +61,7 @@ sections:
   - infobar:
       title: Mailing List
       subtitle: OD practitioners
-      description: Get update with useful resources, upcoming events and programmes
+      description: Get updated with useful resources, upcoming events and programmes
       button: Subscribe now
       url: mailto:cscollege_ilod@cscollege.gov.sg
 ---

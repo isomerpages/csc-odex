@@ -2,9 +2,7 @@
 title: Professional Development
 permalink: /Professional-Development
 ---
-
-
- ![Alt text for image on Isomer site](/images/ODjourneytest.jpg)
+![Alt text for image on Isomer site](/images/ODjourneytest.jpg)
 <br>![Alt text for image on Isomer site](/images/ODJourneyTest.jpg)
 <br> ![Alt text for image on Isomer site](/images/ODJourneyTest.jpg)
 

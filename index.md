@@ -55,7 +55,13 @@ sections:
       url: www.csc.gov.sg
       alt: Image alt text
   - resources:
-      title: Media
+      title: Resources
       subtitle: Learn more
       button: View More
+  - infobar:
+      title: Mailing List
+      subtitle: OD practitioners
+      description: Get update with useful resources, upcoming events and programmes
+      button: Subscribe now
+      url: mailto:cscollege_ilod@cscollege.gov.sg
 ---

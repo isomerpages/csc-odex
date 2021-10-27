@@ -19,10 +19,10 @@ sections:
           url: https://google.com
         - title: Professional Development
           description: Your OD Developmental Journey
-          url: https://gmail.com
+          url: Professional-Development
         - title: Newbies Corner
           description: New to OD? Find out more
-          url: /privacy/
+          url: /Newbie-Corner
   - infobar:
       title: What's ODEx?
       subtitle: hello there

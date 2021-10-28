@@ -2,4 +2,4 @@ collections:
   employee-engagement:
     output: true
     order:
-      - Employee Engagement Resources.md
+      - Resources.md

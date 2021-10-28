@@ -43,7 +43,7 @@ sections:
       subtitle: Specialisations / Electives
       description: Develop teams that work
       button: LEARN more
-      url: www.register.csc.gov.sg
+      url: /Team-Development
       alt: Image alt text
       image: /images/Team%20Development.jpg
   - infopic:

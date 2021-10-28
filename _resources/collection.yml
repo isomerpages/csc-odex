@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - Electives and Specialisations/.keep
+      - Core/Resources Core.md
       - Core/.keep

@@ -2,5 +2,6 @@ collections:
   employee-engagement:
     output: true
     order:
+      - Videos/.keep
       - "Odyssey Lesley Brown: Use of Engagement Surveys.md"
       - Employee Engagement Resources.md

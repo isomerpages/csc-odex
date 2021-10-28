@@ -1,7 +1,0 @@
-collections:
-  change-and-transitions:
-    output: true
-    order:
-      - Infographic/Change and Transition Infographics.md
-      - Infographic/.keep
-      - List of resources.md

@@ -1,4 +1,5 @@
 collections:
   employee-engagement:
     output: true
-    order: []
+    order:
+      - Employee Engagement Resources.md

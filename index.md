@@ -36,7 +36,7 @@ sections:
       description: " More than just about feeling satisfied or happy at work"
       button: Learn more
       url: test
-      image: /images/EE.JPG
+      image: /images/Employee%20Engagement.jpg
       alt: Image alt text
   - infopic:
       title: Team Development
@@ -45,7 +45,7 @@ sections:
       button: LEARN more
       url: www.register.csc.gov.sg
       alt: Image alt text
-      image: /images/Team%20development.JPG
+      image: /images/Team%20Development.jpg
   - infopic:
       title: Organisation Design
       subtitle: Specialisations / Electives
@@ -54,6 +54,7 @@ sections:
       button: LEARN more
       url: www.csc.gov.sg
       alt: Image alt text
+      image: /images/Organisation%20Design.jpg
   - resources:
       title: Resources
       subtitle: Learn more

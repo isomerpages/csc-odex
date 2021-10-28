@@ -2,4 +2,5 @@ collections:
   resources:
     output: true
     order:
+      - Electives and Specialisations/.keep
       - Core/.keep

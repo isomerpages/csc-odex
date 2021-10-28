@@ -1,12 +1,15 @@
 logo: /images/Black.png
 links:
-  - title: Resource
-    resource_room: true
+  - title: Resources
+    url: /Resources
+    sublinks:
+      - title: Core
+        url: /resources-core
+      - title: Electives/Specialisations
+        url: /electives-specialisations
+  - title: Professional Development
+    url: /professional-development
   - title: Newbie Corner
     url: /Newbie-Corner
   - title: Contact Us
     url: /Contact-Us
-  - title: Employee Engagement
-    collection: employee-engagement
-  - title: Resources
-    collection: resources

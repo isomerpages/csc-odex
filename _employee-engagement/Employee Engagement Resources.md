@@ -2,7 +2,6 @@
 title: Employee Engagement Resources
 permalink: /employee-engagement/resources
 ---
-
 ### Articles 
 
 
@@ -13,15 +12,15 @@ permalink: /employee-engagement/resources
 
 ### Infographic
 
-* Keeping Your Employees Energised at Work  [[Download here](https://go.gov.sg/roleofmanagersinee )]<br><br>As managers, how can we energise employees to maintain their engagement levels and productivity in the long run? Targeting the core elements of an energised employee: Physical, Intellectual, Emotional, and Spiritual.
+* **Keeping Your Employees Energised at Work  [[Download here](https://go.gov.sg/roleofmanagersinee )]**<br><br>As managers, how can we energise employees to maintain their engagement levels and productivity in the long run? Targeting the core elements of an energised employee: Physical, Intellectual, Emotional, and Spiritual.
 Sustaining employee engagement (EE) goes beyond administering the EE surveys. According to a research study done by the Civil Service College, there are three key drivers to sustaining EE levels over time - ***(1) Teamwork, (2) Leadership and Culture, and (3) Job Motivation and Growth***. So what can you do for each area to sustain EE levels and yield maximum productivity for your organisation.<br><br>
-* Odyssey: Going the Distance with Employee Engagement [[Download here](https://go.gov.sg/roleofmanagersinee )]<br><br>Sustaining employee engagement (EE) goes beyond administering the EE surveys. According to a research study done by the Civil Service College, there are three key drivers to sustaining EE levels over time - ***(1) Teamwork, (2) Leadership and Culture, and (3) Job Motivation and Growth***. So what can you do for each area to sustain EE levels and yield maximum productivity for your organisation.
+* **Odyssey: Going the Distance with Employee Engagement [[Download here](https://go.gov.sg/roleofmanagersinee )]**<br><br>Sustaining employee engagement (EE) goes beyond administering the EE surveys. According to a research study done by the Civil Service College, there are three key drivers to sustaining EE levels over time - ***(1) Teamwork, (2) Leadership and Culture, and (3) Job Motivation and Growth***. So what can you do for each area to sustain EE levels and yield maximum productivity for your organisation.
 
 ### Video
 ### 
-* ##### Odyssey Lesley Brown: Use of Engagement Surveys <br><br>
+* <strong>Odyssey Lesley Brown: Use of Engagement Surveys</strong> <br><br>
 How can we optimize the use of engagement surveys to boost employee engagement in our organizations? Hear from Lesley Brown as she shares on 3 key areas that practitioners should pay attention to when conducting the employee engagement survey. ***[Duration: 4.10mins]***<br><br>
-* #####  Odyssey Lewis Garrad: Making EE a Way of Life in Organisations<br><br>
+* <strong>  Odyssey Lewis Garrad: Making EE a Way of Life in Organisations</strong><br><br>
 Lewis Garrad shares insights to creating highly engaging organisations and highlights some actions HR/OD practitioners can take to help leaders make engagement a way of life in our agencies. ***[Duration: 6.53 mins]***<br><br>
-*##### EE: SPACE & the Manager's Role in EE<br><br>
+*<strong>EE: SPACE & the Manager's Role in EE</strong><br><br>
 As a manager, you play a part in fostering the conditions that help your staff to stay engaged at work. Find out how to create SPACE, (Safety, Purpose, Autonomy, Connectedness, and Expertise) for this! **[Duration:  2.40 mins]**

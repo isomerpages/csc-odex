@@ -1,4 +1,5 @@
 collections:
   professional-development:
     output: true
-    order: []
+    order:
+      - Professional Development.md

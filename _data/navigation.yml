@@ -8,10 +8,8 @@ links:
       - title: Electives/Specialisations
         url: /electives-specialisations
   - title: Professional Development
-    url: /professional-development
+    collection: professional-development
   - title: Newbie Corner
     url: /Newbie-Corner
   - title: Contact Us
     url: /Contact-Us
-  - title: Professional Development
-    collection: professional-development

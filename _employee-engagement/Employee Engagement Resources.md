@@ -20,7 +20,7 @@ Sustaining employee engagement (EE) goes beyond administering the EE surveys. Ac
 ### 
 * <strong>Odyssey Lesley Brown: Use of Engagement Surveys</strong> <br><br>
 How can we optimize the use of engagement surveys to boost employee engagement in our organizations? Hear from Lesley Brown as she shares on 3 key areas that practitioners should pay attention to when conducting the employee engagement survey. ***[Duration: 4.10mins]***<br><br>
-* <strong>  Odyssey Lewis Garrad: Making EE a Way of Life in Organisations</strong><br><br>
+***Odyssey Lewis Garrad: Making EE a Way of Life in Organisations**<br><br>
 Lewis Garrad shares insights to creating highly engaging organisations and highlights some actions HR/OD practitioners can take to help leaders make engagement a way of life in our agencies. ***[Duration: 6.53 mins]***<br><br>
-*<strong>EE: SPACE & the Manager's Role in EE</strong><br><br>
+***EE: SPACE & the Manager's Role in EE**<br><br>
 As a manager, you play a part in fostering the conditions that help your staff to stay engaged at work. Find out how to create SPACE, (Safety, Purpose, Autonomy, Connectedness, and Expertise) for this! **[Duration:  2.40 mins]**

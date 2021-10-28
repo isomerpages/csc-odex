@@ -16,7 +16,7 @@ permalink: /employee-engagement/resources
 Sustaining employee engagement (EE) goes beyond administering the EE surveys. According to a research study done by the Civil Service College, there are three key drivers to sustaining EE levels over time - ***(1) Teamwork, (2) Leadership and Culture, and (3) Job Motivation and Growth***. So what can you do for each area to sustain EE levels and yield maximum productivity for your organisation.<br><br>
 * **Odyssey: Going the Distance with Employee Engagement [[Download here](https://go.gov.sg/roleofmanagersinee )]**<br><br>Sustaining employee engagement (EE) goes beyond administering the EE surveys. According to a research study done by the Civil Service College, there are three key drivers to sustaining EE levels over time - ***(1) Teamwork, (2) Leadership and Culture, and (3) Job Motivation and Growth***. So what can you do for each area to sustain EE levels and yield maximum productivity for your organisation.
 
-### Video
+### Videos
 ### 
 * <strong>Odyssey Lesley Brown: Use of Engagement Surveys</strong> <br><br>
 How can we optimize the use of engagement surveys to boost employee engagement in our organizations? Hear from Lesley Brown as she shares on 3 key areas that practitioners should pay attention to when conducting the employee engagement survey. ***[Duration: 4.10mins]***<br><br>

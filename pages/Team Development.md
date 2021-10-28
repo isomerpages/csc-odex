@@ -2,25 +2,13 @@
 title: Team Development
 permalink: /Team-Development
 ---
-### Articles 
-
-
- * **Odyssey: Reaching Out Everyday (OD in Action 04**) [ [Download here](https://go.gov.sg/reachingouteveryday )]<br><br>Chua Mui Yim shares her thoughts on being an OD practitioner for over 24 years now, both in the public and private sector, including organizations in the US. She believes that OD is a lifelong passion and is very important if all organizations want to grow and be strong and aspire to build great work places for their employees.*<br><br>
-* **Thinkpiece: Role of Manager's in Employee Engagement** [[Download here](https://go.gov.sg/roleofmanagersinee )]
-<br><br>As the Singapore Public Service constantly evolves to stay relevant and future-ready, we need engaged officers who can put in discretionary effort to meet the challenges of new work demands, and go the extra mile to meet citizens’ needs. To strengthen staff engagement, managers must be able to effectively set goals, motivate, coach, and provide adequate training and learning opportunities for their troops. Here are some ideas and practical tips on how you, as a manager, can better engage your staff.
-
-
-### Infographic
-
-* Keeping Your Employees Energised at Work  [[Download here](https://go.gov.sg/roleofmanagersinee )]<br><br>As managers, how can we energise employees to maintain their engagement levels and productivity in the long run? Targeting the core elements of an energised employee: Physical, Intellectual, Emotional, and Spiritual.
-Sustaining employee engagement (EE) goes beyond administering the EE surveys. According to a research study done by the Civil Service College, there are three key drivers to sustaining EE levels over time - ***(1) Teamwork, (2) Leadership and Culture, and (3) Job Motivation and Growth***. So what can you do for each area to sustain EE levels and yield maximum productivity for your organisation.<br><br>
-* Odyssey: Going the Distance with Employee Engagement [[Download here](https://go.gov.sg/roleofmanagersinee )]<br><br>Sustaining employee engagement (EE) goes beyond administering the EE surveys. According to a research study done by the Civil Service College, there are three key drivers to sustaining EE levels over time - ***(1) Teamwork, (2) Leadership and Culture, and (3) Job Motivation and Growth***. So what can you do for each area to sustain EE levels and yield maximum productivity for your organisation.
 
 ### Video
-### 
-* ##### Odyssey Lesley Brown: Use of Engagement Surveys <br><br>
-How can we optimize the use of engagement surveys to boost employee engagement in our organizations? Hear from Lesley Brown as she shares on 3 key areas that practitioners should pay attention to when conducting the employee engagement survey. ***[Duration: 4.10mins]***<br><br>
-* #####  Odyssey Lewis Garrad: Making EE a Way of Life in Organisations<br><br>
-Lewis Garrad shares insights to creating highly engaging organisations and highlights some actions HR/OD practitioners can take to help leaders make engagement a way of life in our agencies. ***[Duration: 6.53 mins]***<br><br>
-*##### EE: SPACE & the Manager's Role in EE<br><br>
-As a manager, you play a part in fostering the conditions that help your staff to stay engaged at work. Find out how to create SPACE, (Safety, Purpose, Autonomy, Connectedness, and Expertise) for this! **[Duration:  2.40 mins]**
+* ##### Odyssey Mary Ann: Attending to Group Dynamics in Teams<br><br>
+As OD practitioners, understanding group dynamics is important to us as most work in organisations happen in teams. 
+<br><br>
+Hear from Dr Mary Ann Rainey, as she shares some ways to observe group dynamics and help teams in your organisation to work better. <br><br>***[Duration: 8 mins][Click [here](https://vimeo.com/130939928) to watch.]***<br><br>
+* #####  An exclusive interview on effective teams with Dr Ruth Wageman<br><br>
+Why are teams lousy at creative tasks? What can a team do together and more importantly, when should they go solo? Find out more from Dr. Ruth Wageman, Visiting Scholar at the Department of Psychology at Harvard University and a globally recognised thought leader in the field of team effectiveness, as she shares on what makes effective teams. <br>***[Duration: 5.10 mins] [Click [here](https://vimeo.com/39463182) to watch]***<br><br>
+*##### Dr Ruth Wageman, a thought leader on team effectiveness, on how effective teams can be formed and managed<br><br>
+Dr. Ruth Wageman, Visiting Scholar at the Department of Psychology at Harvard University and a globally recognised thought leader in the field of team effectiveness, shares three key criteria to consider before forming a team. **[Duration:  4.50 mins] [Click [here](https://vimeo.com/39463181) to watch.]** 

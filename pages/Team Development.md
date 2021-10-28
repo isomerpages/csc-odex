@@ -2,7 +2,8 @@
 title: Team Development
 permalink: /Team-Development
 ---
-### VIDEOS
+
+### VIDEOS 
 * ##### Odyssey Mary Ann: Attending to Group Dynamics in Teams<br>
 As OD practitioners, understanding group dynamics is important to us as most work in organisations happen in teams. <br><br>
 Hear from Dr Mary Ann Rainey, as she shares some ways to observe group dynamics and help teams in your organisation to work better. </br><br>***[Duration: 8 mins][Click [here](https://vimeo.com/130939928) to watch.]***

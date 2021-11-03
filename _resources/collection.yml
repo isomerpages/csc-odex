@@ -4,5 +4,6 @@ collections:
     order:
       - Electives and Specialisations/Electives and Specialisation Resources.md
       - Electives and Specialisations/.keep
+      - Core/core test.md
       - Core/Resources Core.md
       - Core/.keep

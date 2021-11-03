@@ -3,7 +3,7 @@ title: "All "
 permalink: /resources/all
 description: ""
 ---
-![Alt text for image on Isomer site](/images/Employee%20Engagement_transparent.png)##### Click on each category title to access the resources.<br><br>
+##### Click on each category title to access the resources.<br><br>
 
 # CORE
 
@@ -15,20 +15,21 @@ description: ""
 # Electives and Specialisations
 <table>
   <tr>
-    <td><a href=https://cscollege-test-staging.netlify.app/employee-engagement/resources>
+		<td><h6>Origins and Evolutions of OD</h6><a href=https://cscollege-test-staging.netlify.app/employee-engagement/resources>
   <img src="/images/Group-dynamics.png" alt="employee engagement" >
                 </a></td>
-    <td><a href=https://cscollege-test-staging.netlify.app/employee-engagement/resources>
-  <img src="/images/Group-dynamics.png" alt="group dynamics" ></td><td><a href=https://cscollege-test-staging.netlify.app/employee-engagement/resources>
+		<td><H6>Team Development</H6><a href=https://cscollege-test-staging.netlify.app/employee-engagement/resources>
+			<img src="/images/Group-dynamics.png" alt="group dynamics" ></td><td><H6>Employee Engagement</H6><a href=https://cscollege-test-staging.netlify.app/employee-engagement/resources>
   <img src="/images/Group-dynamics.png" alt="group dynamics" ></td>
   </tr>
   <tr>
-    <td><a href=https://cscollege-test-staging.netlify.app/employee-engagement/resources>
+		<td><h6>Organisation Design</h6><a href=https://cscollege-test-staging.netlify.app/employee-engagement/resources>
   <img src="/images/org%20design_transparent.png" alt="employee engagement" >
                 </a></td>
-    <td><a href=https://cscollege-test-staging.netlify.app/employee-engagement/resources>
-  <img src="/images/org%20design_transparent.png" alt="group dynamics" ></td><td><a href=https://cscollege-test-staging.netlify.app/employee-engagement/resources>
+    <td><h6>Coming Soon</h6><a href=https://cscollege-test-staging.netlify.app/employee-engagement/resources>
+  <img src="/images/org%20design_transparent.png" alt="group dynamics" ></td><td><h6>Coming Soon</h6><a href=https://cscollege-test-staging.netlify.app/employee-engagement/resources>
   <img src="/images/org%20design_transparent.png" alt="group dynamics" ></td>
   </tr>
 </table>
 
+<br><br>![Alt text for image on Isomer site](

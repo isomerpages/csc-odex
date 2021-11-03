@@ -10,7 +10,7 @@ sections:
   - hero:
       title: ODEx
       subtitle: Organisation Development Experience
-      background: /images/hero-banner.png
+      background: /images/Header-01.jpg
       button: Contact Us
       url: mailto:cscollege_ilod@cscollege.gov.sg
       key_highlights:

@@ -13,10 +13,10 @@ description: ""
 | **Business Context Acumen**  ![Alt text for image on Isomer site](/images/business.png)   | **Ethics and Values** ![Alt text for image on Isomer site](/images/Ethnics.png)    | **Systems Thinking** ![Alt text for image on Isomer site](/images/Systems.png) |
 <br><br>
 # Electives and Specialisations
+```
 <table>
   <tr>
-		<td><h6>Origins and Evolutions of OD</h6><a href=https://cscollege-test-staging.netlify.app/employee-engagement/resources>
-  <img src="/images/Group-dynamics.png" alt="employee engagement" >
+		<td><h6>Origins and Evolutions of OD</h6>!Alt text for image on Isomer site](/images/Org%20Design.png)
                 </a></td>
 		<td><H6>Team Development</H6><a href=https://cscollege-test-staging.netlify.app/employee-engagement/resources>
 			<img src="/images/Group-dynamics.png" alt="group dynamics" ></td><td><H6>Employee Engagement</H6><a href=https://cscollege-test-staging.netlify.app/employee-engagement/resources>
@@ -31,5 +31,5 @@ description: ""
   <img src="/images/org%20design_transparent.png" alt="group dynamics" ></td>
   </tr>
 </table>
+```
 
-<br><br>![Alt text for image on Isomer site](

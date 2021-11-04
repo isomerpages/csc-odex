@@ -2,8 +2,8 @@ title: ODEx
 url: ""
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#fe605e"
-  secondary-color: "#fe8414"
+  primary-color: "#fe8414"
+  secondary-color: "#8b572a"
   media-colors:
     - title: media-color-one
       color: "#49759a"

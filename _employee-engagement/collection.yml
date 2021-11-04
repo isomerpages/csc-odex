@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - EE test.md
-      - Employee Engagement Resources.md

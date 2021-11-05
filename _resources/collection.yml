@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - All .md
+      - Electives and Specialisations/test.md
       - Electives and Specialisations/Team Development.md
       - Electives and Specialisations/Employee Engagement Resources.md
       - Electives and Specialisations/Electives and Specialisation Resources.md

@@ -6,17 +6,17 @@ third_nav_title: Electives and Specialisations
 ---
 <div class="gallery">
     <div class="thumbnail"> <a href="https://go.gov.sg/reachingouteveryday"><img src="/images/Origins-2.png" alt="" width="250" class="cards"/></a>
-		<h4><a href="https://go.gov.sg/reachingouteveryday">Odyssey: Reaching Out Everyday</h4></a>
+	    <h4><a href="https://go.gov.sg/reachingouteveryday">Odyssey: Reaching Out Everyday</a></h4>
      
       <p class="text_column">Chua Mui Yim shares her thoughts on being an OD practitioner for over 24 years now, both in the public and private sector, including organizations in the US. She believes that OD is a lifelong passion and is very important if all organizations want to grow and be strong and aspire to build great work places for their employees.</p>
     </div>
     <div class="thumbnail"> <a href="https://go.gov.sg/reachingouteveryday"><img src="/images/Origins-2.png" alt="" width="250" class="cards"/></a>
-		<h4><a href="https://go.gov.sg/reachingouteveryday">Odyssey: Reaching Out Everyday</h4></a>
+		<h4><a href="https://go.gov.sg/reachingouteveryday">Odyssey: Reaching Out Everyday</a></h4>
      
       <p class="text_column">Chua Mui Yim shares her thoughts on being an OD practitioner for over 24 years now, both in the public and private sector, including organizations in the US. She believes that OD is a lifelong passion and is very important if all organizations want to grow and be strong and aspire to build great work places for their employees.</p>
     </div>
     <div class="thumbnail"> <a href="https://go.gov.sg/reachingouteveryday"><img src="/images/Origins-2.png" alt="" width="250" class="cards"/></a>
-		<h4><a href="https://go.gov.sg/reachingouteveryday">Odyssey: Reaching Out Everyday</h4></a>
+		<h4><a href="https://go.gov.sg/reachingouteveryday">Odyssey: Reaching Out Everyday</a></h4>
      
       <p class="text_column">Chua Mui Yim shares her thoughts on being an OD practitioner for over 24 years now, both in the public and private sector, including organizations in the US. She believes that OD is a lifelong passion and is very important if all organizations want to grow and be strong and aspire to build great work places for their employees.</p>
     </div>

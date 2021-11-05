@@ -20,3 +20,5 @@ third_nav_title: Electives and Specialisations
     <td>$100</td><td>$100</td>
   </tr>
 </table>
+<br><br> 
+<div class="bp-vimeo"><iframe width="560" height="315" src="https://www.youtube.com/embed/3enmP6d5Rto" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

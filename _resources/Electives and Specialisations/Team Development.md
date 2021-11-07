@@ -19,7 +19,7 @@ Dr. Ruth Wageman, Visiting Scholar at the Department of Psychology at Harvard Un
           <div class="col-lg-4 col-md-6 col-12">
             <ul class="list-unstyled">
               <li class="media">
-                <img class="mr-3 rounded-circle" src="/images/article%20icon%20-%202.jpg" alt="Generic placeholder image">
+                <img src="/images/article%20icon%20-%202.jpg" alt="Generic placeholder image">
                 <div class="media-body">
                   <h5 class="mt-0 mb-1">An exclusive interview on </h5>
                   <p class="mb-0">Dr. Ruth Wageman, Visiting Scholar at the Department of Psychology at Harvard University and a globally recognised thought leader in the field of team effectiveness, shares three key criteria to consider before forming a team.</p>

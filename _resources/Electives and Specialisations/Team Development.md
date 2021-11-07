@@ -13,4 +13,16 @@ Why are teams lousy at creative tasks? What can a team do together and more impo
 * ##### Dr Ruth Wageman, a thought leader on team effectiveness, on how effective teams can be formed and managed<br><br>
 Dr. Ruth Wageman, Visiting Scholar at the Department of Psychology at Harvard University and a globally recognised thought leader in the field of team effectiveness, shares three key criteria to consider before forming a team. <br><br>**[Duration:  4.50 mins] [Click [here](https://vimeo.com/39463181) to watch.]**<br><br>
 
-							
+<table>
+<tr><td><h4>Odyssey Mary Ann: Attending to Group Dynamics in Teams</h4>
+	    <img src="/images/Employee%20Engagement.jpg" alt="employee engagement" width="550"><br>As OD practitioners, understanding group dynamics is important to us as most work in organisations happen in teams. <br><br>
+Hear from Dr Mary Ann Rainey, as she shares some ways to observe group dynamics and help teams in your organisation to work better. <br><br><a href="https://vimeo.com/130939928 "> <img src="/images/Download%20button-3.jpg" alt="download button" width="100"></a></td>
+   <td><h4>An exclusive interview on effective teams with Dr Ruth Wageman</h4>
+	    <img src="/images/Employee%20Engagement.jpg" alt="employee engagement" width="550"><br>Why are teams lousy at creative tasks? What can a team do together and more importantly, when should they go solo? Find out more from Dr. Ruth Wageman, Visiting Scholar at the Department of Psychology at Harvard University and a globally recognised thought leader in the field of team effectiveness, as she shares on what makes effective teams. <br><br><a href="https://vimeo.com/39463182 "> <img src="/images/Download%20button-3.jpg" alt="download button" width="100"></a></td>
+
+  </tr>
+  <tr>
+
+
+  </tr>
+</table>

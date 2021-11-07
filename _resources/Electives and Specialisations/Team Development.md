@@ -4,6 +4,8 @@ permalink: /resources/Electives-and-Specialisations/team
 description: ""
 third_nav_title: Electives and Specialisations
 ---
+
+<br><h2>Layout 1- Listing</h2>
 ### VIDEOS 
 * ##### Odyssey Mary Ann: Attending to Group Dynamics in Teams<br>
 As OD practitioners, understanding group dynamics is important to us as most work in organisations happen in teams. <br><br>
@@ -22,8 +24,7 @@ Hear from Dr Mary Ann Rainey, as she shares some ways to observe group dynamics 
 	<tr><td><a href="https://vimeo.com/130939928 "> <img src="/images/Button%20-%20Watch%20now.jpg" alt="watch now button"></a></td><td><a href="https://vimeo.com/130939928 "> <img src="/images/Button%20-%20Watch%20now.jpg" alt="watch now button"></a></td></tr>
 
 
-
-	</tr><tr><br><br></tr>
+<h2>Layout 2 - Table with thumbnails
   <tr><td><h4>Interview with Dr Ruth Wageman - How effective teams can be formed and managed</h4><strong>[Duration: 4.50 mins] </strong><br><br>
 	    <img src="/images/Employee%20Engagement.jpg" alt="employee engagement" width="550"><br><font size="4">Dr. Ruth Wageman shares three key criteria to consider before forming a team. </font><br><br><a href="https://vimeo.com/39463181"> <img src="/images/Button%20-%20Watch%20now.jpg" alt="watch now button"></a></td>
   </tr>

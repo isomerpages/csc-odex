@@ -13,10 +13,42 @@ Why are teams lousy at creative tasks? What can a team do together and more impo
 * ##### Dr Ruth Wageman, a thought leader on team effectiveness, on how effective teams can be formed and managed<br><br>
 Dr. Ruth Wageman, Visiting Scholar at the Department of Psychology at Harvard University and a globally recognised thought leader in the field of team effectiveness, shares three key criteria to consider before forming a team. <br><br>**[Duration:  4.50 mins] [Click [here](https://vimeo.com/39463181) to watch.]**<br><br>
 
-<li class="media">
-                <img class="mr-3 rounded-circle" src="/images/Employee%20Engagement.jpg" alt="Generic placeholder image">
+							
+ <div class="container">
+        <div class="row">
+          <div class="col-lg-4 col-md-6 col-12">
+            <ul class="list-unstyled">
+              <li class="media">
+                <img class="mr-3 rounded-circle" src="/images/article%20icon%20-%202.jpg" alt="Generic placeholder image">
                 <div class="media-body">
-                  <h5 class="mt-0 mb-1">Odyssey: Reaching Out Everyday</h5>
-                  <p class="mb-0">Chua Mui Yim shares her thoughts on being an OD practitioner for over 24 years now, both in the public and private sector, including organizations in the US. She believes that OD is a lifelong passion and is very important if all organizations want to grow and be strong and aspire to build great work places for their employees.</p>
+                  <h5 class="mt-0 mb-1">An exclusive interview on </h5>
+                  <p class="mb-0">Dr. Ruth Wageman, Visiting Scholar at the Department of Psychology at Harvard University and a globally recognised thought leader in the field of team effectiveness, shares three key criteria to consider before forming a team.</p>
                 </div>
               </li>
+            </ul>
+          </div>
+          <div class="col-lg-4 col-md-6 col-12">
+            <ul class="list-unstyled">
+              <li class="media">
+                <img class="mr-3 rounded-circle" src="/images/article%20icon%20-%202.jpg" alt="Generic placeholder image">
+                <div class="media-body ">
+                  <h5 class="mt-0 mb-1">An exclusive interview on </h5>
+                  <p class="mb-0">Dr. Ruth Wageman, Visiting Scholar at the Department of Psychology at Harvard University and a globally recognised thought leader in the field of team effectiveness, shares three key criteria to consider before forming a team.</p>
+                </div>
+              </li>
+            </ul>
+          </div>
+          <div class="col-lg-4 d-md-none d-lg-block">
+            <ul class="list-unstyled">
+              <li class="media">
+                <img class="mr-3 rounded-circle" src="/images/article%20icon%20-%202.jpg" alt="Generic placeholder image">
+                <div class="media-body">
+                  <h5 class="mt-0 mb-1">An exclusive interview on </h5>
+                  <p class="mb-0">Dr. Ruth Wageman, Visiting Scholar at the Department of Psychology at Harvard University and a globally recognised thought leader in the field of team effectiveness, shares three key criteria to consider before forming a team.</p>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>

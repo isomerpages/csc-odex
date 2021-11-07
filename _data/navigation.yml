@@ -1,7 +1,7 @@
 logo: /images/Black.png
 links:
   - title: Resources
-    url: /Resources
+    url: /resources/all
     sublinks:
       - title: Core
         url: /resources-core

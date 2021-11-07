@@ -1,5 +1,4 @@
 collections:
   employee-engagement:
     output: true
-    order:
-      - EE test.md
+    order: []

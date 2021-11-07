@@ -16,7 +16,7 @@ sections:
       key_highlights:
         - title: RESOURCES
           description: Guides, Tips & Frameworks
-          url: https://google.com
+          url: https://cscollege-test-staging.netlify.app/resources/all
         - title: Professional Development
           description: Your OD Developmental Journey
           url: Professional-Development

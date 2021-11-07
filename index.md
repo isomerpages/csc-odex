@@ -35,7 +35,7 @@ sections:
       subtitle: Specialisations / Electives
       description: " More than just about feeling satisfied or happy at work"
       button: Learn more
-      url: /employee-engagement/resources
+      url: https://cscollege-test-staging.netlify.app/resources/electives-and-specialisations/engage
       image: /images/Employee%20Engagement.jpg
       alt: Image alt text
   - infopic:
@@ -43,7 +43,7 @@ sections:
       subtitle: Specialisations / Electives
       description: Develop teams that work
       button: LEARN more
-      url: /Team-Development
+      url: https://cscollege-test-staging.netlify.app/resources/electives-and-specialisations/team
       alt: Image alt text
       image: /images/Team%20Development.jpg
   - infopic:
@@ -52,7 +52,7 @@ sections:
       description: What are the two lenses to look at the role of an organisation
         design practitioner - informal and formal.
       button: LEARN more
-      url: www.csc.gov.sg
+      url: https://cscollege-test-staging.netlify.app/resources/electives-and-specialisations/design
       alt: Image alt text
       image: /images/Organisation%20Design.jpg
   - resources:

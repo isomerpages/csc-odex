@@ -11,4 +11,12 @@ Hear from Dr Mary Ann Rainey, as she shares some ways to observe group dynamics 
 * #####  An exclusive interview on effective teams with Dr Ruth Wageman<br><br>
 Why are teams lousy at creative tasks? What can a team do together and more importantly, when should they go solo? Find out more from Dr. Ruth Wageman, Visiting Scholar at the Department of Psychology at Harvard University and a globally recognised thought leader in the field of team effectiveness, as she shares on what makes effective teams. <br><br>***[Duration: 5.10 mins] [Click [here](https://vimeo.com/39463182) to watch]***<br><br><div class="bp-vimeo"><iframe src="https://player.vimeo.com/video/39463182?h=b72ba33113" width="640" height="480" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><br><br>
 * ##### Dr Ruth Wageman, a thought leader on team effectiveness, on how effective teams can be formed and managed<br><br>
-Dr. Ruth Wageman, Visiting Scholar at the Department of Psychology at Harvard University and a globally recognised thought leader in the field of team effectiveness, shares three key criteria to consider before forming a team. <br><br>**[Duration:  4.50 mins] [Click [here](https://vimeo.com/39463181) to watch.]**<br><br><div class="bp-vimeo"><iframe src="https://player.vimeo.com/video/39463181?h=679002ff99" width="640" height="480" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><br><br>
+Dr. Ruth Wageman, Visiting Scholar at the Department of Psychology at Harvard University and a globally recognised thought leader in the field of team effectiveness, shares three key criteria to consider before forming a team. <br><br>**[Duration:  4.50 mins] [Click [here](https://vimeo.com/39463181) to watch.]**<br><br>
+
+<li class="media">
+                <img class="mr-3 rounded-circle" src="/images/Employee%20Engagement.jpg" alt="Generic placeholder image">
+                <div class="media-body">
+                  <h5 class="mt-0 mb-1">Odyssey: Reaching Out Everyday</h5>
+                  <p class="mb-0">Chua Mui Yim shares her thoughts on being an OD practitioner for over 24 years now, both in the public and private sector, including organizations in the US. She believes that OD is a lifelong passion and is very important if all organizations want to grow and be strong and aspire to build great work places for their employees.</p>
+                </div>
+              </li>

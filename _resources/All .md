@@ -3,14 +3,10 @@ title: "All "
 permalink: /resources/all
 description: ""
 ---
-### Click on each title to access the resources.<br><br>
 
-### CORE
-
-
-|**Change & Transitions** ![Alt text for image on Isomer site](/images/change%20and%20transition.png) |**Use of Self** ![Alt text for image on Isomer site](/images/Use-of-Self.png)| **Group Dynamics** ![Alt text for image on Isomer site](/images/Group-dynamics.png) |
+|**Working with Groups and Teams** ![Alt text for image on Isomer site](/images/change%20and%20transition.png) |**Change and Transitions** ![Alt text for image on Isomer site](![](/images/change%20and%20transition.png)| **Organisation Design** ![Alt text for image on Isomer site](/images/Group-dynamics.png) |
 | -------- | -------- | -------- |
-| **Business Context Acumen**  ![Alt text for image on Isomer site](/images/business.png)   | **Ethics and Values** ![Alt text for image on Isomer site](/images/Ethnics.png)    | **Systems Thinking** ![Alt text for image on Isomer site](/images/Systems.png) |
+| **Employee Engagement**  ![Alt text for image on Isomer site](/images/business.png)   | **Organisation & Systems** ![Alt text for image on Isomer site](/images/Ethnics.png)    | **Resilience and Wellness** ![Alt text for image on Isomer site](/images/Systems.png) |
 
 ### ELECTIVES AND SPECIALISATIONS
 <BR>

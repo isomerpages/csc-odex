@@ -4,18 +4,16 @@ title: ODEx
 description: A self-help resource portal is designed to support your OD practice.
 image: /images/isomer-logo.svg
 permalink: /
-notification: "Welcome to ODEx! This self-help resource portal is designed to
-  support OD practitioners in your work and professional development. "
+notification: ""
 sections:
   - hero:
-      title: ODEx
-      subtitle: Organisation Development Experience
+      title: ODEx Resource Portal
       background: /images/Header-01.jpg
       button: Contact Us
       url: mailto:cscollege_ilod@cscollege.gov.sg
       key_highlights:
         - title: RESOURCES
-          description: Guides, Tips & Frameworks
+          description: Curated Content
           url: https://cscollege-test-staging.netlify.app/resources/all
         - title: Professional Development
           description: Your OD Developmental Journey
@@ -24,12 +22,10 @@ sections:
           description: New to OD? Find out more
           url: /Newbie-Corner
   - infobar:
-      title: What's ODEx?
+      title: What is ODEx Resource Portal?
       subtitle: hello there
-      description: " This self-help resource portal is designed to support OD
-        practitioners in your work and professional development."
-      button: Learn more
-      url: www.csc.gov.sg
+      description: "A self-help platform that consolidates organisation development
+        and leadership resources developed or curated by ILOD. "
   - infopic:
       title: Employee Engagement
       subtitle: Specialisations / Electives

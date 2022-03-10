@@ -16,7 +16,7 @@ sections:
           description: Curated Content
           url: https://cscollege-test-staging.netlify.app/resources/all
         - title: Professional Development
-          description: Your OD Developmental Journey
+          description: Frameworks
           url: Professional-Development
         - title: Newbies Corner
           description: New to OD? Find out more

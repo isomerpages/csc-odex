@@ -15,6 +15,7 @@ permalink: /Newbie-Corner
 
 ### Attend this milestone programme in your first year as a practitioner
 
+![](/images/business.png)
 MSOD101 is a foundational milestone programme, that provides an overview of the OD practice field and the practitioner’s role in supporting organisational health and effectiveness.
 Equip yourself with the knowledge and application of the stages of the Action Research cycle and systems thinking.
 
@@ -25,6 +26,8 @@ Transformation (PST), Organisational Excellence (OE) and organisational change.
 To register, click [here](https://register.csc.gov.sg/course/msod101). 
 
 ### Join our ODEx Community (for Singapore Public Service Officers only)
+
+![](/images/Employee%20Engagement_transparent.png)
 
 The ODEx Community welcomes all OD practitioners and
 members who are interested to be a part of organisational
@@ -39,6 +42,3 @@ each others' growth and challenges.
 Practitioners in our mailing list ([here](https://go.gov.sg/odpracmailinglist)) will gain access to ILOD's
 programmes, community-of-practice sessions, invitations to
 our events, and upcoming resource repository
-
-
-

@@ -9,7 +9,7 @@ permalink: /Newbie-Corner
 <table>
   <tr><td>
 	<img src="/images/Organisation%20Design.jpg" alt="employee engagement" width="450"><br><br><font size="5">Thinkpiece: Understanding OD and its Role: A Think Piece on Organisation Development</font><font size=4"><br><br>Download <a href="https://go.gov.sg/reachingouteveryday ">here</a></font></td><td>
-	<img src="/images/Employee%20Engagement.jpg" alt="employee engagement" width="450"><br><br><font size="5"> An OD Practitioner</a></font><br><br><font size ="4"><br><br> Download <a href="https://vimeo.com/74434435">here </a></font></tr></td>
+	<img src="/images/Employee%20Engagement.jpg" alt="employee engagement" width="450"><br><br><font size="5"> The OD Practitioner</font><br><br><font size ="4"><br><br> Download <a href="https://vimeo.com/74434435">here </a></font></tr></td>
 </table><br><br>
 <font size =5">Attend this milestone programme in your first year as a practitioner.</font>
 							<table><tr><td><br><img src="/images/MSOD101.jpg"></tr></td></table><br><br><font size =5">Join our ODEx Community (for Singapore Public Service Officers only)</font>

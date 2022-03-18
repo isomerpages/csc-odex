@@ -1,15 +1,25 @@
 logo: /images/Black.png
 links:
-  - title: Resources
-    url: /resources/all
-    sublinks:
-      - title: Core
-        url: /resources-core
-      - title: Electives/Specialisations
-        url: /electives-and-specialisations/by-topics
   - title: Professional Development
     collection: professional-development
   - title: Newbie Corner
     url: /Newbie-Corner
+  - title: Resources
+    url: /resources
+    sublinks:
+      - title: Working with Groups and Teams
+        url: /working-with-groups-and-teams
+      - title: Change and Transitions
+        url: /change-and-transitions
+      - title: Organisation Design
+        url: /organisation-design
+      - title: Employee Engagement
+        url: /employee-engagement
+      - title: Organisation & Systems
+        url: /organisation-and-system
+      - title: "Resilience & Wellness "
+        url: /resilience-and-wellness
+      - title: Others
+        url: /others
   - title: Contact Us
     url: /Contact-Us

@@ -11,5 +11,5 @@ description: ""
 
 <tr>
   <tr><td><h4>[Article] Making Change Teams More Effective </h4><br><br>
-	    <img src="/images/Team%20Development.jpg" alt="employee engagement" width="550"><br><font size="4">For change teams to be effective, it is essential that they undergo a team launch. It is only then that roles and expectations can be clarified and group norms set. </font><br><br><a href="https://go.gov.sg/makingchangeteamsmoreeffective"> <img src="/images/Read%20now.jpg" alt="read now button"></a></td>
+	    <img src="/images/Change%20and%20transition.jpg" alt="employee engagement" width="550"><br><font size="4">For change teams to be effective, it is essential that they undergo a team launch. It is only then that roles and expectations can be clarified and group norms set. </font><br><br><a href="https://go.gov.sg/makingchangeteamsmoreeffective"> <img src="/images/Read%20now.jpg" alt="read now button"></a></td>
   </tr></table>

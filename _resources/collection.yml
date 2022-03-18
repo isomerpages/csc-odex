@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Working with Groups and Teams .md
       - All .md
       - Electives and Specialisations/.keep
       - Electives and Specialisations/Employee Engagement Resources.md

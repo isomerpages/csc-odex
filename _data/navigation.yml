@@ -1,9 +1,5 @@
 logo: /images/Black.png
 links:
-  - title: Professional Development
-    collection: professional-development
-  - title: Newbie Corner
-    url: /Newbie-Corner
   - title: Resources
     url: /resources
     sublinks:
@@ -21,5 +17,9 @@ links:
         url: /resilience-and-wellness
       - title: Others
         url: /others
+  - title: Professional Development
+    collection: professional-development
+  - title: Newbie Corner
+    url: /Newbie-Corner
   - title: Contact Us
     url: /Contact-Us

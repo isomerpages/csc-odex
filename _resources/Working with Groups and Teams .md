@@ -13,4 +13,4 @@ Hear from Dr Mary Ann Rainey, as she shares some ways to observe group dynamics 
 <tr>
   <tr><td><h4>Interview with Dr Ruth Wageman - How effective teams can be formed and managed</h4><strong>[Duration: 4:50 mins] </strong><br><br>
 	    <img src="/images/Team%20Development.jpg" alt="employee engagement" width="550"><br><font size="4">Dr. Ruth Wageman, Visiting Scholar at the Department of Psychology at Harvard University and a globally recognised thought leader in the field of team effectiveness, shares three key criteria to consider before forming a team. </font><br><br><a href="https://vimeo.com/39463181"> <img src="/images/watch%20now.jpg" alt="watch now button"></a></td>
-  </tr></table>
+  </tr>

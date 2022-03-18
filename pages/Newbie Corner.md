@@ -13,4 +13,3 @@ permalink: /Newbie-Corner
 </table>
 
 <table><tr><td><font size =5">Attend this milestone programme in your first year as a practitioner.</font><br><img src="/images/MSOD101.jpg">
-	

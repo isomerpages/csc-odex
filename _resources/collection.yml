@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Employee Engagement.md
       - Organisation Design.md
       - test2.md
       - Change and Transitions.md

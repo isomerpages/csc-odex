@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Resilience and Wellness .md
       - Organisation & Systems.md
       - Employee Engagement.md
       - Organisation Design.md

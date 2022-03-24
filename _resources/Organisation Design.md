@@ -45,7 +45,7 @@ description: ""
 <td><h4>[Video]<br>What Advice Do You Have For Leaders Who Are Leading Organisation Design Efforts But Are Not Having An Easy Time Juggling With Multiple Considerations? </h4><strong>[Duration: 1.30 mins] </strong><br><br>
 	<img src="/images/Organisation%20Design.jpg" alt="employee engagement" width="350"></td>
 	
-<td><h4>[Video]<br>As A Practitioner In The Public Service, What Are Some Tensions You Encountered In Your Work With Leaders and Agencies? </h4><br><br><strong>[Duration: 2.50 mins] </strong><br><br>
+<td><h4>[Video]<br>As A Practitioner In The Public Service, What Are Some Tensions You Encountered In Your Work With Leaders and Agencies? </h4><br><br><br><strong>[Duration: 2.50 mins] </strong><br><br>
 	<img src="/images/Organisation%20Design.jpg" alt="employee engagement" width="350"><br></td></tr>
 	
 <tr>
@@ -71,4 +71,3 @@ description: ""
 	
 <td><h4>[Video]<br>How do you design organisations for agility? </h4><strong>[Duration: 4 mins] </strong><br><br>
 	<img src="/images/Organisation%20Design.jpg" alt="employee engagement" width="350"><br></td></tr>
-	

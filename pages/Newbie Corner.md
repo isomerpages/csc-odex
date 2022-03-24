@@ -33,16 +33,11 @@ To register, click [here](https://register.csc.gov.sg/course/msod101).
 
 ![](/images/Employee%20Engagement_transparent.png)
 
-The ODEx Community welcomes all OD practitioners and
-members who are interested to be a part of organisational
-development efforts in their agencies.
+The ODEx Community welcomes all OD practitioners and members who are interested to be a part of organisational development efforts in their agencies.
 
-Join us through the telegram link ([here](https://go.gov.sg/odexcommunity)) where members
-of the community share resources, reflections and support
-each others' growth and challenges.
+Join us through the telegram link ([here](https://go.gov.sg/odexcommunity)) where members of the community share resources, reflections and support each others' growth and challenges.
 
 #### Update your Practitioner Profile here!
 
 Practitioners in our mailing list ([here](https://go.gov.sg/odpracmailinglist)) will gain access to ILOD's
-programmes, community-of-practice sessions, invitations to
-our events, and upcoming resource repository
+programmes, community-of-practice sessions, invitations to our events, and upcoming resource repository

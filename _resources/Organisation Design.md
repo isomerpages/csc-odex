@@ -35,3 +35,9 @@ description: ""
 	
 <td><h4>[Video]<br>Do We Need Organisation Design Practitioners or Should the Skills Be Part of A Leader’s or A Manager’s Skill Set? </h4><strong>[Duration: 1.10 mins] </strong><br><br>
 	<img src="/images/Organisation%20Design.jpg" alt="employee engagement" width="350"><br></td></tr>
+
+<tr>
+<td><font size="4">Organisation design, Organisation development and Change management are 3 different disciplines but there are areas of intersections for us to be aware of. In practice, we cannot be too purist, and we need to adopt a range of tools and approaches across the 3 disciplines, where it's appropriate for the issue or opportunity we are intervening on. <br><br><strong><a href="https://vimeo.com/363214689/a1c3eaf3bd">WATCH NOW</a></strong></font></td>
+	
+<td><font size="4">Find out what Dr Naomi Stanford's views are on this question!<br><br><br><strong><a href="https://vimeo.com/363214359/8926a176fc">WATCH NOW</a></strong></font><br><br></td></tr>
+	

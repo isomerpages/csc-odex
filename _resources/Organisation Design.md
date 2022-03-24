@@ -47,3 +47,9 @@ description: ""
 	
 <td><h4>[Video]<br>As A Practitioner In The Public Service, What Are Some Tensions You Encountered In Your Work With Leaders and Agencies? </h4><br><strong>[Duration: 2.50 mins] </strong><br><br>
 	<img src="/images/Organisation%20Design.jpg" alt="employee engagement" width="350"><br></td></tr>
+	
+<tr>
+<td><font size="4">Leaders have multiple responsibilities on a daily basis. Hear from Naomi on how a practitioner can still support their leader on design work even if there's a limitation to the leader's visibility in the organision design process.<br><br><strong><a href="https://vimeo.com/363214483/60664385a0">WATCH NOW</a></strong></font></td>
+	
+<td><font size="4">There are inevitably challenges and tensions a practitioner face when working with leaders. Hear from Dr Naomi Stanford, the typical tensions she faced when working with her leaders in Public Service.<br><br><br><strong><a href="https://vimeo.com/363214359/8926a176fc">WATCH NOW</a></strong></font><br><br></td></tr>
+	

@@ -57,5 +57,5 @@ description: ""
 <td><h4>[Video]<br>What Value Can Organisation Design Bring If It's Done Well? </h4><strong>[Duration: 1 min] </strong><br><br>
 	<img src="/images/Organisation%20Design.jpg" alt="employee engagement" width="350"></td>
 	
-<td><h4>[Video]<br>Who Do We Involve In The Organisation Design Process? </h4><br><strong>[Duration: 1 min] </strong><br><br>
+<td><h4>[Video]<br>Who Do We Involve In The Organisation Design Process? </h4><strong>[Duration: 1 min] </strong><br><br>
 	<img src="/images/Organisation%20Design.jpg" alt="employee engagement" width="350"><br></td></tr>

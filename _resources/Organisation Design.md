@@ -76,4 +76,4 @@ description: ""
 <td><font size="4">Typically, organisation design or organisation development sits in a HR function, but Dr Naomi Stanford recommends for it to better sit in the Strategy or Operations Planning functions. Key reasons are the "business vs people" narrative attributed by where it sits, and the more effective development and delivery of business strategies for the organisation.<br><br><strong><a href="https://vimeo.com/363214635/bf8847eb28">WATCH NOW</a></strong></font></td>
 	
 <td><font size="4">There is a distinction between building agile teams and agile organisations. Amy nudges us to think of how to create an organisation around the agile teams that enable their agility, and not just agile teams alone. Find out what other ways Amy Kates has for us to  consider when we want to build more agile organisations.
-<br><br><strong><a href="https://vimeo.com/396348025/153ee95571">WATCH NOW</a></strong></font><br><br></td></tr>
+<br><strong><a href="https://vimeo.com/396348025/153ee95571">WATCH NOW</a></strong></font><br><br></td></tr>

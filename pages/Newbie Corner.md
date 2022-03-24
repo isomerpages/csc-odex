@@ -10,16 +10,20 @@ permalink: /Newbie-Corner
 
 | ![](/images/Organisation%20Design.jpg) | ![](/images/Employee%20Engagement.jpg) | |
 | -------- | -------- | |
-| The OD Practitoner |Thinkpiece: Understanding OD and its Role: A Think Piece on Organisation Development|
-[Watch Now](https://vimeo.com/74434435)| [Read Now](https://go.gov.sg/reachingouteveryday )  ||
+| The OD Practitioner <br><br><strong><a href="https://vimeo.com/74434435"> WATCH NOW</a></strong>|Understanding OD and its Role <br><br><strong><a href="https://go.gov.sg/reachingouteveryday"> READ NOW</a></strong>|
+ ||
 
 ### Attend this milestone programme in your first year as a practitioner
 
 ![](/images/business.png)
-MSOD101 is a foundational milestone programme, that provides an overview of the OD practice field and the practitioner’s role in supporting organisational health and effectiveness.
-Equip yourself with the knowledge and application of the stages of the Action Research cycle and systems thinking.
+## OD Practitioner Foundational Programme (MSOD101)
 
-*Pre-requisite for CRDS101, MSIPOVL and ODC01
+MSOD101 is a foundational milestone programme, that provides an overview of the OD practice field and the practitioner’s role in supporting organisational health and effectiveness. Equip yourself with the knowledge and application of the stages of the Action Research cycle and Systems Thinking.
+
+This programme is a pre-requisite for the following programmes:
+* CRDS101 (to confirm programme title)
+* OD Practitioner Intermediate Programme (MSIPOVL)
+* ODC01 (to check for programme title) 
 
 This programme is also recommended for officers involved in the Public Service
 Transformation (PST), Organisational Excellence (OE) and organisational change.

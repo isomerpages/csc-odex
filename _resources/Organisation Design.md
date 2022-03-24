@@ -37,7 +37,6 @@ description: ""
 	<img src="/images/Organisation%20Design.jpg" alt="employee engagement" width="350"><br></td></tr>
 
 <tr>
-<td><font size="4">Organisation design, Organisation development and Change management are 3 different disciplines but there are areas of intersections for us to be aware of. In practice, we cannot be too purist, and we need to adopt a range of tools and approaches across the 3 disciplines, where it's appropriate for the issue or opportunity we are intervening on. <br><br><strong><a href="https://vimeo.com/363214689/a1c3eaf3bd">WATCH NOW</a></strong></font></td>
+<td><font size="4">In practice, we cannot be too purist, and we need to adopt a range of tools and approaches across these three disciplines, where it's appropriate for the issue or opportunity we are intervening on. <br><br><strong><a href="https://vimeo.com/363214689/a1c3eaf3bd">WATCH NOW</a></strong></font></td>
 	
-<td><font size="4">Find out what Dr Naomi Stanford's views are on this question!<br><br><br><strong><a href="https://vimeo.com/363214359/8926a176fc">WATCH NOW</a></strong></font><br><br></td></tr>
-	
+<td><font size="4">Find out what Dr Naomi Stanford's views are on this question!<br><br><br><br><br><strong><a href="https://vimeo.com/363214359/8926a176fc">WATCH NOW</a></strong></font><br><br></td></tr>

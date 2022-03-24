@@ -27,7 +27,7 @@ description: ""
 	
 <td><font size="4">To do well in organisation design, HR, OD and SP functions need to work together closely as they each bring in a different lense and input which contribute to the larger whole system for the organisation.<br><br><strong><a href="http://vimeo.com/258724830">WATCH NOW</a></strong></font></td>
 	
-<td><font size="4">There are two lenses to look at the role of an organisation design practitioner - informal and formal. Check out Dr Naomi Stanford's views on this!<strong><br><a href="https://vimeo.com/363214417/fa15029ab9">WATCH NOW</a></strong></font><br><br></td></tr>
+<td><font size="4">There are two lenses to look at the role of an organisation design practitioner - informal and formal. Check out Dr Naomi Stanford's views on this!<strong><br><br><a href="https://vimeo.com/363214417/fa15029ab9">WATCH NOW</a></strong></font><br><br></td></tr>
 		
 <tr>
 <td><h4>[Video]<br>What Differentiates Between Organisation Design, Organisation Development and Change Management? </h4><strong>[Duration: 3.30 mins] </strong><br><br>

@@ -69,7 +69,7 @@ description: ""
 <td><h4>[Video]<br>Where Will Organisation Design Work Be Best Situated In a Public Agency To Maximise Effectiveness And How Much Formal Assignment or Mandate Might Be Required? </h4><strong>[Duration: 2.30 mins] </strong><br><br>
 	<img src="/images/org%20design_transparent.png" alt="employee engagement" width="350"></td>
 	
-<td><h4>[Video]<br>How Do You Design Organisations For Agility? </h4><br><br><br><br><strong>[Duration: 4 mins] </strong><br><br>
+<td><h4>[Video]<br>How Do You Design Organisations For Agility? </h4><br><br><br><strong>[Duration: 4 mins] </strong><br><br>
 	<img src="/images/org%20design_transparent.png" alt="employee engagement" width="350"><br></td></tr>
 	
 <tr>

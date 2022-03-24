@@ -18,8 +18,8 @@ description: ""
       <td><font size="4">As OD practitioners, understanding group dynamics is important to us as most work in organisations happen in teams. Hear from Dr Mary Ann Rainey, as she shares some ways to observe group dynamics and help teams in your organisation to work better.</font></td>
       <td><font size="4">As OD practitioners, understanding group dynamics is important to us as most work in organisations happen in teams. Hear from Dr Mary Ann Rainey, as she shares some ways to observe group dynamics and help teams in your organisation to work better.</font></td></tr>
 	  <tr>
-	<td><a href="https://vimeo.com/39463182"><STRONG><br><br>WATCH NOW</a></STRONG></td>
-<td><a href="https://vimeo.com/39463182"><STRONG><br><br>WATCH NOW</a></STRONG></td></tr>
+	<td><strong><a href="https://vimeo.com/39463182"><br><br>WATCH NOW</a></strong></td>
+<td><strong><a href="https://vimeo.com/39463182"><br><br>WATCH NOW</a></strong></td></tr>
 	  <tr>
 	  <td><h4>[Video]<br>Odyssey Mary Ann: Attending to Group Dynamics in Teams</h4><strong>[Duration: 8 mins] </strong><br><br></td>
       <td><h4>[Video]<br>Interview on effective teams with Dr Ruth Wageman</h4><strong>[Duration: 5 mins] </strong><br><br>
@@ -52,4 +52,3 @@ description: ""
 <td><a href="https://vimeo.com/39463182"><STRONG><br><br>WATCH NOW</a></STRONG></td></tr>
   </tbody>
 </table>
-

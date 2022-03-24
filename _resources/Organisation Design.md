@@ -53,3 +53,9 @@ description: ""
 	
 <td><font size="4">There are inevitably challenges and tensions a practitioner face when working with leaders. Hear from Dr Naomi Stanford, the typical tensions she faced when working with her leaders in Public Service.<br><br><br><strong><a href="https://vimeo.com/363214359/8926a176fc">WATCH NOW</a></strong></font><br><br></td></tr>
 	
+<tr>
+<td><h4>[Video]<br>What Value Can Organisation Design Bring If It's Done Well? </h4><strong>[Duration: 1 min] </strong><br><br>
+	<img src="/images/Organisation%20Design.jpg" alt="employee engagement" width="350"></td>
+	
+<td><h4>[Video]<br>Who Do We Involve In The Organisation Design Process? </h4><br><strong>[Duration: 1 min] </strong><br><br>
+	<img src="/images/Organisation%20Design.jpg" alt="employee engagement" width="350"><br></td></tr>

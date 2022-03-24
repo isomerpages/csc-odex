@@ -13,7 +13,7 @@ description: ""
 <tr>
 <td><font size="4">Change of leadership every few years is not unusual for all organisations. Find out how practitioners can support and coach their new leaders to look beyond their assessment of the strategy, culture and desired outcomes for the organisation.<br><br><strong><a href="http://vimeo.com/258724867">WATCH NOW</a></strong></font></td>
 	
-<td><font size="4">Frequent restructuring and re-designing are disruptive. Hear from Amy Kates on how we can do periodic checks and make continual adjustments to support our strategic conditions.<br><br><strong><a href="http://vimeo.com/258724775">WATCH NOW</a></strong></font><br><br></td></tr>
+<td><font size="4">Frequent restructuring and re-designing are disruptive. Hear from Amy Kates on how we can do periodic checks and make continual adjustments to support our strategic conditions.<br><br><br><strong><a href="http://vimeo.com/258724775">WATCH NOW</a></strong></font><br><br></td></tr>
 	
 <tr>
 	

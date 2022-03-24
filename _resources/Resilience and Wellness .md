@@ -5,7 +5,7 @@ description: ""
 ---
 <table cellpadding="1" cellspacing="1" border="0" width="200">
   <tbody>
-		<tr></tr><tr><font size="6">Note: Content is placeholder, pending for more resources.</font><br><br></tr>
+		<tr><font size="6">Note: Content is placeholder, pending for more resources.</font><br><br></tr>
       <td><h4>[Video]<br>Odyssey Mary Ann: Attending to Group Dynamics in Teams</h4><strong>[Duration: 8 mins] </strong><br><br></td>
       <td><h4>[Video]<br>Interview on effective teams with Dr Ruth Wageman</h4><strong>[Duration: 5 mins] </strong><br><br>
 </td>

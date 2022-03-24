@@ -7,7 +7,7 @@ description: ""
 <td><h4>[Video]<br>How can HR OD and SP Practitioners Better Support Their New Leaders During Changes of Leadership?</h4><strong>[Duration: 1.40 mins] </strong><br><br>
 	<img src="/images/Organisation%20Design.jpg" alt="employee engagement" width="350"></td>
 	
-<td><h4>[Video]<br>How Can We Check For Alignment of Our Organisation, Even When We Are Not Intending to Do a <br>Re-design?</h4><strong>[Duration: 1.20 mins] </strong><br><br>
+<td><h4>[Video]<br>How Can We Check For Alignment of Our Organisation, Even When We Are Not Intending to Do a Re-design?</h4><strong>[Duration: 1.20 mins] </strong><br><br>
 	<img src="/images/Organisation%20Design.jpg" alt="employee engagement" width="350"><br></td></tr>
 	
 <tr>

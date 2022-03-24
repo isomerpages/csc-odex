@@ -3,7 +3,7 @@ title: "Resilience and Wellness "
 permalink: /resources/resilience-and-wellness
 description: ""
 ---
-<table width="200" border="0" cellspacing="1" cellpadding="1">
+<table cellpadding="1" cellspacing="1" border="0" width="200">
   <tbody>
     <tr>
       <td><h4>[Video]<br>Odyssey Mary Ann: Attending to Group Dynamics in Teams</h4><strong>[Duration: 8 mins] </strong><br><br></td>
@@ -11,8 +11,8 @@ description: ""
 </td>
     </tr>
     <tr>
-      <td><img src="/images/Team%20Development.jpg" alt="employee engagement" width="250"></td>
-      <td><img src="/images/Team%20Development.jpg" alt="employee engagement" width="250"></td>
+      <td><img width="250" alt="employee engagement" src="/images/Team%20Development.jpg"></td>
+      <td><img width="250" alt="employee engagement" src="/images/Team%20Development.jpg"></td>
     </tr>
     <tr>
       <td><font size="4">As OD practitioners, understanding group dynamics is important to us as most work in organisations happen in teams. Hear from Dr Mary Ann Rainey, as she shares some ways to observe group dynamics and help teams in your organisation to work better.</font></td>
@@ -26,29 +26,29 @@ description: ""
 </td>
     </tr>
     <tr>
-      <td><img src="/images/Team%20Development.jpg" alt="employee engagement" width="250"></td>
-      <td><img src="/images/Team%20Development.jpg" alt="employee engagement" width="250"></td>
+      <td><img width="250" alt="employee engagement" src="/images/Team%20Development.jpg"></td>
+      <td><img width="250" alt="employee engagement" src="/images/Team%20Development.jpg"></td>
     </tr>
     <tr>
       <td><font size="4">As OD practitioners, understanding group dynamics is important to us as most work in organisations happen in teams. Hear from Dr Mary Ann Rainey, as she shares some ways to observe group dynamics and help teams in your organisation to work better.</font></td>
       <td><font size="4">As OD practitioners, understanding group dynamics is important to us as most work in organisations happen in teams. Hear from Dr Mary Ann Rainey, as she shares some ways to observe group dynamics and help teams in your organisation to work better.</font></td></tr>
 	  <tr>
-	<td><a href="https://vimeo.com/39463182"><STRONG><br><br>WATCH NOW</a></STRONG></td>
-<td><a href="https://vimeo.com/39463182"><STRONG><br><br>WATCH NOW</a></STRONG></td></tr>
+	<td><strong><br><br><a href="https://vimeo.com/39463182">WATCH NOW</a></strong></td>
+<td><br><br><a href="https://vimeo.com/39463182">WATCH NOW</a></td></tr>
 	  <tr>
 	  <td><h4>[Video]<br>Odyssey Mary Ann: Attending to Group Dynamics in Teams</h4><strong>[Duration: 8 mins] </strong><br><br></td>
       <td><h4>[Video]<br>Interview on effective teams with Dr Ruth Wageman</h4><strong>[Duration: 5 mins] </strong><br><br>
 </td>
     </tr>
     <tr>
-      <td><img src="/images/Team%20Development.jpg" alt="employee engagement" width="250"></td>
-      <td><img src="/images/Team%20Development.jpg" alt="employee engagement" width="250"></td>
+      <td><img width="250" alt="employee engagement" src="/images/Team%20Development.jpg"></td>
+      <td><img width="250" alt="employee engagement" src="/images/Team%20Development.jpg"></td>
     </tr>
     <tr>
       <td><font size="4">As OD practitioners, understanding group dynamics is important to us as most work in organisations happen in teams. Hear from Dr Mary Ann Rainey, as she shares some ways to observe group dynamics and help teams in your organisation to work better.</font></td>
       <td><font size="4">As OD practitioners, understanding group dynamics is important to us as most work in organisations happen in teams. Hear from Dr Mary Ann Rainey, as she shares some ways to observe group dynamics and help teams in your organisation to work better.</font></td></tr>
 	  <tr>
-	<td><a href="https://vimeo.com/39463182"><STRONG><br><br>WATCH NOW</a></STRONG></td>
-<td><a href="https://vimeo.com/39463182"><STRONG><br><br>WATCH NOW</a></STRONG></td></tr>
+	<td><br><br><strong><a href="https://vimeo.com/39463182">WATCH NOW</a></strong></td>
+<td><br><br><strong><a href="https://vimeo.com/39463182">WATCH NOW</a></strong></td></tr>
   </tbody>
 </table>

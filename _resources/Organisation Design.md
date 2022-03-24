@@ -17,7 +17,7 @@ description: ""
 	
 <tr>
 	
-<td><h4>[Video]<br>What Are The Respective Roles of Human Resource, Organisation Development and Strategic Planning In Organisation Design?</h4><br><strong>[Duration: 1.30 mins] </strong><br><br>
+<td><h4>[Video]<br>What Are The Respective Roles of Human Resource, Organisation Development and Strategic Planning In Organisation Design?</h4><strong>[Duration: 1.30 mins] </strong><br><br>
 	<img src="/images/Organisation%20Design.jpg" alt="employee engagement" width="350"></td>
 	
 <td><h4>[Video]<br>What Is An Organisation Design Practitioner’s Core Responsibility? What Does He Need To Know and Be Able To Do? </h4><strong>[Duration: 1.30 mins] </strong><br><br>

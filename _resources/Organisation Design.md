@@ -28,14 +28,7 @@ description: ""
 <td><font size="4">To do well in organisation design, HR, OD and SP functions need to work together closely as they each bring in a different lense and input which contribute to the larger whole system for the organisation.<br><br><strong><a href="http://vimeo.com/258724830">WATCH NOW</a></strong></font></td>
 	
 <td><font size="4">There are two lenses to look at the role of an organisation design practitioner - informal and formal. Check out Dr Naomi Stanford's views on this!<br><br><br><strong><a href="https://vimeo.com/363214417/fa15029ab9">WATCH NOW</a></strong></font><br><br></td></tr>
-	
-<tr><h4>[Video]<br>What Advice Do You Have For Leaders Who Are Leading Organisation Design Efforts But Are Not Having An Easy Time Juggling With Multiple Considerations? </h4><strong>[Duration: 1.30 mins] </strong><br><br>
-	<img src="/images/Organisation%20Design.jpg" alt="employee engagement" width="350"></td>
-	
-<td><h4>[Video]<br>As A Practitioner In The Public Service, What Are Some Tensions You Encountered In Your Work With Leaders and Agencies? </h4><strong>[Duration: 2.50 mins] </strong><br><br>
-	<img src="/images/Organisation%20Design.jpg" alt="employee engagement" width="350"><br></td></tr>
-
-	
+		
 <tr>
 <td><h4>[Video]<br>What Differentiates Between Organisation Design, Organisation Development and Change Management? </h4><strong>[Duration: 3.30 mins] </strong><br><br>
 	<img src="/images/Organisation%20Design.jpg" alt="employee engagement" width="350"></td>
@@ -47,3 +40,10 @@ description: ""
 <td><font size="4">In practice, we cannot be too purist, and we need to adopt a range of tools and approaches across these three disciplines, where it's appropriate for the issue or opportunity we are intervening on. <br><br><strong><a href="https://vimeo.com/363214689/a1c3eaf3bd">WATCH NOW</a></strong></font></td>
 	
 <td><font size="4">Find out what Dr Naomi Stanford's views are on this question!<br><br><br><strong><a href="https://vimeo.com/363214359/8926a176fc">WATCH NOW</a></strong></font><br><br></td></tr>
+	
+<tr>
+<td><h4>[Video]<br>What Advice Do You Have For Leaders Who Are Leading Organisation Design Efforts But Are Not Having An Easy Time Juggling With Multiple Considerations? </h4><strong>[Duration: 1.30 mins] </strong><br><br>
+	<img src="/images/Organisation%20Design.jpg" alt="employee engagement" width="350"></td>
+	
+<td><h4>[Video]<br>As A Practitioner In The Public Service, What Are Some Tensions You Encountered In Your Work With Leaders and Agencies? </h4><br><strong>[Duration: 2.50 mins] </strong><br><br>
+	<img src="/images/Organisation%20Design.jpg" alt="employee engagement" width="350"><br></td></tr>

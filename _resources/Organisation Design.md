@@ -60,16 +60,16 @@ description: ""
 <td><h4>[Video]<br>Who Do We Involve In The Organisation Design Process? </h4><strong>[Duration: 1 min] </strong><br><br>
 	<img src="/images/Organisation%20Design.jpg" alt="employee engagement" width="350"><br></td></tr>
 	
-	<tr>
+<tr>
 <td><font size="4">The greatest value Organisation Design brings, if done well, is alignment. Hear from Amy Kates why that is so.<br><br><strong><a href="http://vimeo.com/258724749">WATCH NOW</a></strong></font></td>
 	
 <td><font size="4">In an organisation design process, we need both the leaders and people closer to the work to be involved. Find out why in this video!<br><br><strong><a href="https://vimeo.com/396844460/9ecf9c0555">WATCH NOW</a></strong></font><br><br></td></tr>
 	
 <tr>
-<td><h4>[Video]<br>Where Will The Organisation Design Practitioner and The Organisation Design Work Be Best Situated In a Public Agency To Maximise Effectiveness? And How Much Formal Assignment or Mandate Might Be Required? </h4><strong>[Duration: 2.30 mins] </strong><br><br>
+<td><h4>[Video]<br>Where Will Organisation Design Work Be Best Situated In a Public Agency To Maximise Effectiveness And How Much Formal Assignment or Mandate Might Be Required? </h4><strong>[Duration: 2.30 mins] </strong><br><br>
 	<img src="/images/Organisation%20Design.jpg" alt="employee engagement" width="350"></td>
 	
-<td><h4>[Video]<br>How do you design organisations for agility? </h4><strong>[Duration: 4 mins] </strong><br><br>
+<td><h4>[Video]<br>How Do You Design Organisations For Agility? </h4><br><br><br><br><br><strong>[Duration: 4 mins] </strong><br><br>
 	<img src="/images/Organisation%20Design.jpg" alt="employee engagement" width="350"><br></td></tr>
 	
 <tr>

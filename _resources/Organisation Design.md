@@ -29,10 +29,10 @@ description: ""
 	
 <td><font size="4">There are two lenses to look at the role of an organisation design practitioner - informal and formal. Check out Dr Naomi Stanford's views on this!<br><br><br><strong><a href="https://vimeo.com/363214417/fa15029ab9">WATCH NOW</a></strong></font><br><br></td></tr>
 	
-<tr><h4>[Video]<br>What Are The Respective Roles of Human Resource, Organisation Development and Strategic Planning In Organisation Design?</h4><strong>[Duration: 1.30 mins] </strong><br><br>
+<tr><h4>[Video]<br>What Advice Do You Have For Leaders Who Are Leading Organisation Design Efforts But Are Not Having An Easy Time Juggling With Multiple Considerations? </h4><strong>[Duration: 1.30 mins] </strong><br><br>
 	<img src="/images/Organisation%20Design.jpg" alt="employee engagement" width="350"></td>
 	
-<td><h4>[Video]<br>What Is An Organisation Design Practitioner’s Core Responsibility? What Does He Need To Know and Be Able To Do? </h4><strong>[Duration: 1.30 mins] </strong><br><br>
+<td><h4>[Video]<br>As A Practitioner In The Public Service, What Are Some Tensions You Encountered In Your Work With Leaders and Agencies? </h4><strong>[Duration: 2.50 mins] </strong><br><br>
 	<img src="/images/Organisation%20Design.jpg" alt="employee engagement" width="350"><br></td></tr>
 
 	

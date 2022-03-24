@@ -78,4 +78,3 @@ description: ""
 <td><font size="4">There is a distinction between building agile teams and agile organisations. Amy nudges us to think of how to create an organisation around the agile teams that enable their agility, and not just agile teams alone. Find out what other ways Amy Kates has for us to  consider when we want to build more agile organisations.
 <br><br><strong><a href="https://vimeo.com/396348025/153ee95571">WATCH NOW</a></strong></font><br><br></td></tr>
 	
-	![](/images/org%20design_transparent.png)

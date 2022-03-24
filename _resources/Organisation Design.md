@@ -13,7 +13,7 @@ description: ""
 <tr>
 <td><font size="4">Change of leadership every few years is not unusual for all organisations. Find out how practitioners can support and coach their new leaders to look beyond their assessment of the strategy, culture and desired outcomes for the organisation.<br><br><strong><a href="http://vimeo.com/258724867">WATCH NOW</a></strong></font></td>
 	
-<td><font size="4">Frequent restructuring and re-designing are disruptive. Hear from Amy Kates on how we can do periodic checks and make continual adjustments to support our strategic conditions.<br><br><br><br><strong><a href="http://vimeo.com/258724775">WATCH NOW</a></strong></font><br><br></td></tr>
+<td><font size="4">Frequent restructuring and re-designing are disruptive. Hear from Amy Kates on how we can do periodic checks and make continual adjustments to support our strategic conditions.<br><br><br><strong><a href="http://vimeo.com/258724775">WATCH NOW</a></strong></font><br><br></td></tr>
 	
 <tr>
 	
@@ -39,7 +39,7 @@ description: ""
 <tr>
 <td><font size="4">In practice, we cannot be too purist, and we need to adopt a range of tools and approaches across these three disciplines, where it's appropriate for the issue or opportunity we are intervening on. <br><br><strong><a href="https://vimeo.com/363214689/a1c3eaf3bd">WATCH NOW</a></strong></font></td>
 	
-<td><font size="4">Find out what Dr Naomi Stanford's views are on this question!<br><br><br><strong><a href="https://vimeo.com/363214359/8926a176fc">WATCH NOW</a></strong></font><br><br></td></tr>
+<td><font size="4">Find out what Dr Naomi Stanford's views are on this question!<br><br><br><br><strong><a href="https://vimeo.com/363214359/8926a176fc">WATCH NOW</a></strong></font><br><br></td></tr>
 	
 <tr>
 <td><h4>[Video]<br>What Advice Do You Have For Leaders Who Are Leading Organisation Design Efforts But Are Not Having An Easy Time Juggling With Multiple Considerations? </h4><strong>[Duration: 1.30 mins] </strong><br><br>

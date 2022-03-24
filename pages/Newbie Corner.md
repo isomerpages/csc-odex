@@ -16,17 +16,17 @@ permalink: /Newbie-Corner
 ### Attend this milestone programme in your first year as a practitioner
 
 ![](/images/business.png)
-## OD Practitioner Foundational Programme (MSOD101)
+#### OD Practitioner Foundational Programme (MSOD101)
 
 MSOD101 is a foundational milestone programme, that provides an overview of the OD practice field and the practitioner’s role in supporting organisational health and effectiveness. Equip yourself with the knowledge and application of the stages of the Action Research cycle and Systems Thinking.
 
 This programme is a pre-requisite for the following programmes:
 * CRDS101 (to confirm programme title)
-* OD Practitioner Intermediate Programme (MSIPOVL)
+* [OD Practitioner Intermediate Programme (MSIPOVL)](https://register.csc.gov.sg/course/msipovl)
 * ODC01 (to check for programme title) 
 
-This programme is also recommended for officers involved in the Public Service
-Transformation (PST), Organisational Excellence (OE) and organisational change.
+This programme is also recommended for officers ***involved in the Public Service Transformation (PST), Organisational Excellence (OE) and Organisational Change***.
+
 To register, click [here](https://register.csc.gov.sg/course/msod101). 
 
 ### Join our ODEx Community (for Singapore Public Service Officers only)

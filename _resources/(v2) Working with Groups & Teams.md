@@ -4,9 +4,10 @@ permalink: /resources/working-groups-teams
 description: ""
 ---
 <b>Odyssey Mary Ann: Attending to Group Dynamics in Teams</b>
-<table><div class="row"><div class="col is-5"><figure style="margin:0;"><img src="/images/Team%20Development.jpg" alt="employee engagement"></figure></div>
+<table><tr><div class="col is-5"><figure style="margin:0;"><img src="/images/Team%20Development.jpg" alt="employee engagement"></figure></div>
 <div class="col is-7"> <font size="4">As OD practitioners, understanding group dynamics is important to us as most work in organisations happen in teams.<br><br>Hear from Dr Mary Ann Rainey, as she shares some ways to observe group dynamics and help teams in your organisation to work better. <br><br><a href ="https://vimeo.com/130939928"><b>WATCH NOW</b></a></div>
-</div><br />
+</tr>
+<br />
 	
 	
 <b> An exclusive interview on effective teams with Dr Ruth Wageman </b>

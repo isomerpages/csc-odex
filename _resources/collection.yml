@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - (v3) Working.md
       - (v2) Working with Groups & Teams.md
       - Working with Groups and Teams .md
       - Change and Transitions.md

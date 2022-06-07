@@ -10,7 +10,7 @@ sections:
       title: ODEx Resource Portal
       background: /images/Header-01.jpg
       button: Contact Us
-      url: /Contact-us
+      url: contact-us
       key_highlights:
         - title: RESOURCES
           description: Curated Content

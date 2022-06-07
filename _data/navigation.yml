@@ -1,27 +1,8 @@
 logo: /images/ODEx Logo-bigV2.jpg
 links:
   - title: Resources
-    url: /resources
-    sublinks:
-      - title: Working with Groups and Teams
-        url: /resources/working-with-groups-and-teams
-      - title: Change and Transitions
-        url: /resources/change-and-transitions
-      - title: Organisation Design
-        url: /resources/organisation-design
-      - title: Employee Engagement
-        url: /resources/employee-engagement
-      - title: Organisation & Systems
-        url: /organisation-and-system
-      - title: "Resilience & Wellness "
-        url: /resources/resilience-and-wellness
-      - title: Others
-        url: /resources/others
-      - title: v2_Working
-        url: /working-groups-teams
+    collection: resources
   - title: Professional Development
     collection: professional-development
   - title: Newbie Corner
     url: /Newbie-Corner
-  - title: Resources v2
-    collection: resources

@@ -21,6 +21,9 @@ sections:
         - title: Newbies Corner
           description: New to OD? Find out more
           url: /Newbie-Corner
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: /folder/resources
   - infobar:
       title: What is ODEx Resource Portal?
       subtitle: hello there

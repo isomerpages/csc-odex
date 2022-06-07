@@ -11,4 +11,9 @@ contacts:
           portal? Submit your enquiry or feedback using this form <a
           href="https://go.gov.sg/odpt-enquiries">here</a>.
     title: Feedback
+  - content:
+      - phone: ""
+      - email: ""
+      - other: "Join our ODEx Community "
+    title: ""
 ---

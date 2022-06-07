@@ -6,7 +6,7 @@ agency_name: CSC-ILOD
 contacts:
   - content:
       - phone: +65 6874 1733
-      - email: cscollege_ilod@cscollege.gov.sg
-      - other: ""
+      - email: ""
+      - other: <ahref="https://go.gov.sg/odpt-enquiries">Enquires</a>
     title: Feedback
 ---

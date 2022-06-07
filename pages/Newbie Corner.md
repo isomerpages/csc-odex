@@ -10,12 +10,12 @@ permalink: /Newbie-Corner
 
 | ![](/images/Organisation%20Design.jpg) | ![](/images/Employee%20Engagement.jpg) | |
 | -------- | -------- | |
-| The OD Practitioner <br><br><strong><a href="https://vimeo.com/74434435"> WATCH NOW</a></strong>|Understanding OD and its Role <br><br><strong><a href="https://go.gov.sg/reachingouteveryday"> READ NOW</a></strong>|
+|The OD Practitioner <br><br><strong><a href="https://vimeo.com/74434435"> WATCH NOW</a></strong>|Understanding OD and its Role <br><br><strong><a href="https://go.gov.sg/reachingouteveryday"> READ NOW</a></strong>|
  ||
 
 ### Attend this milestone programme in your first year as a practitioner
 
-!!!![](/images/business.png)
+![](/images/business.png)
 #### OD Practitioner Foundational Programme (MSOD101)
 
 MSOD101 is a foundational milestone programme, that provides an overview of the OD practice field and the practitioner’s role in supporting organisational health and effectiveness. Equip yourself with the knowledge and application of the stages of the Action Research cycle and Systems Thinking.

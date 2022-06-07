@@ -2,10 +2,10 @@ collections:
   resources:
     output: true
     order:
-      - Others.md
-      - Resilience and Wellness .md
-      - Organisation & Systems.md
-      - Employee Engagement.md
-      - Organisation Design.md
-      - Change and Transitions.md
       - Working with Groups and Teams .md
+      - Change and Transitions.md
+      - Organisation Design.md
+      - Employee Engagement.md
+      - Organisation & Systems.md
+      - Resilience and Wellness .md
+      - Others.md

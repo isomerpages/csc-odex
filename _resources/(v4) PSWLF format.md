@@ -3,7 +3,7 @@ title: (v4) PSWLF format
 permalink: /resources/v4
 description: ""
 ---
- <table>
+<table>
        <col width="60%"> 
             <col width="40%"> 
 <tr> 
@@ -17,20 +17,13 @@ description: ""
      <img src="/images/Team%20Development.jpg">
     </td>
 </tr>
-
-<tr>
+	<tr> 
     <td>
-      <b>Building a Geospatial Ecosystem</b> <b><font color="darkviolet"> [FULL]</font></b>
-      <br>16 October 2020, 3.00pm – 5.00pm | Platform: Zoom
-      <br>       
-      <br>This session introduces Geospatial information and technology, and SLA’s role in driving Geospatial development in Singapore. <br>
-      <br>Learning outcomes:
-      <br>• Understand what geospatial information is and its uses.
-      <br>• Recognise how SLA drives geospatial awareness and capacity building for the government, people and industry.
-      <br>
-      <a href="https://www.eventbrite.sg/e/building-a-geospatial-ecosystem-tickets-117611092945">Click here to register.</a> 
+			<h5><b>An exclusive interview on effective teams with Dr Ruth Wageman</b> </h5>
+      <br>Why are teams lousy at creative tasks? What can a team do together and more importantly, when should they go solo? Find out more from Dr. Ruth Wageman, Visiting Scholar at the Department of Psychology at Harvard University and a globally recognised thought leader in the field of team effectiveness, as she shares on what makes effective teams.<br>
+			<br><br><a href ="https://vimeo.com/130939928"><b>WATCH NOW</b></a>
     </td>    
-	<td>
-     <img src="/images/geospatial.jpg">
+<td>
+     <img src="/images/Team%20Development.jpg">
     </td>
 </tr>

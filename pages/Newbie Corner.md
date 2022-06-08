@@ -15,6 +15,8 @@ permalink: /Newbie-Corner
 
 ### Attend this milestone programme in your first year as a practitioner
 
+<img src="/images/Team%20Development.jpg" alt="employee engagement" width=“150">
+
 ![](/images/business.png)
 #### OD Practitioner Foundational Programme (MSOD101)
 

@@ -3,30 +3,18 @@ title: (v4) PSWLF format
 permalink: /resources/v4
 description: ""
 ---
-#### <font color="darkorange"><b>1. Thinking Clearly and Making Sound Judgements</b></font> 
-<table>
-       <col width="70%"> 
-            <col width="30%"> 
+ <table>
+       <col width="60%"> 
+            <col width="40%"> 
 <tr> 
     <td>
-      <b>’Who Wants to Be a Health Millionaire?' Active Health Learning Journey Series </b> 
-      <br> 20 or 22 October 2020, 12.00pm - 1.00pm | Platform: Zoom
-      <br> 29 or 30 October 2020, 12.00pm - 1.00pm | Platform: Zoom
-      <br>       
-      <br>Learn practical Active Health tips and the science behind being a “Health Millionaire”.    Explore all 4 sessions to try simple fitness and health assessments, home-based exercises and unveil the secret behind habit formation and the power of routines in helping you work and live better!
-      <br>
-      <br>Learning Outcomes:
-      <br>• Learn practical Active Health tips and the science behind being a “Health Millionaire”
-      <br>• Try simple fitness and health assessments, home-based exercises
-      <br>• Unveil the secret behind habit formation and the power of routines in helping you work and live better!
-      <br>
-	 <a href="https://www.eventbrite.sg/e/active-health-learning-journey-1-mastering-your-environment-tickets-118429083577">Click here to register for 20 October session.</a> <br>
-	          <a href="https://www.eventbrite.sg/e/active-health-learning-journey-2-planning-your-routine-tickets-118430555981">Click here to register for 22 October session.</a> <br>   
-      <a href="https://www.eventbrite.sg/e/active-health-learning-journey-3-surviving-long-virtual-meetings-tickets-118431203919">Click here to register for 29 October session.</a> <br>
-      <a href="https://www.eventbrite.sg/e/active-health-learning-journey-4-harness-the-power-of-family-tickets-118431960181">Click here to register for 30 October session.</a>
+			<h5><b>Odyssey Mary Ann: Attending to Group Dynamics in Teams</b> </h5>
+      <br>As OD practitioners, understanding group dynamics is important to us as most work in organisations happen in teams.<br><br>Hear from Dr Mary Ann Rainey, as she shares some ways to observe group dynamics and help teams in your organisation to work better.
+      <br> 
+			<br><br><a href ="https://vimeo.com/130939928"><b>WATCH NOW</b></a>
     </td>    
 <td>
-     <img src="/images/health2.jpg">
+     <img src="/images/Team%20Development.jpg">
     </td>
 </tr>
 

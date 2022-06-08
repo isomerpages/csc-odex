@@ -2,12 +2,12 @@ collections:
   resources:
     output: true
     order:
+      - Change and Transitions.md
+      - Resilience and Wellness .md
+      - Employee Engagement.md
+      - Organisation Design.md
+      - Organisation & Systems.md
+      - Working with Groups and Teams .md
+      - Others.md
       - (v4) PSWLF format.md
       - (v2) Working.md
-      - Working with Groups and Teams .md
-      - Change and Transitions.md
-      - Organisation Design.md
-      - Employee Engagement.md
-      - Organisation & Systems.md
-      - Resilience and Wellness .md
-      - Others.md

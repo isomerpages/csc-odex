@@ -27,7 +27,7 @@ description: ""
 </td>
     </tr>
     <tr>
-      <td><img width="250" alt="employee engagement" src="/images/Team%20Development.jpg"></td>
+      <td><img width="80" alt="employee engagement" src="/images/Team%20Development.jpg"></td>
       <td><img width="250" alt="employee engagement" src="/images/Team%20Development.jpg"></td>
     </tr>
     <tr>

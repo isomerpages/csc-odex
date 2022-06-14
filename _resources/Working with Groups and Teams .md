@@ -21,7 +21,7 @@ When teams come together, they generally go through different stages of developm
 A good practice to have when you take over a team is to conduct a team launch. Here are some things you can do before, during and after a team launch, to help your team get off to a healthy start.<br><br><a href ="https://vimeo.com/115682514"><b>WATCH NOW</b></a></td> <td><img src="/images/team6.jpg"></td></tr>
   
 <tr><td><h5><b>How do I get my team to perform better than they already are?</b></h5>
-Now that your team understands how to work better with each other, how do you create conditions for the team to operate at its optimum? Learn how to sustain and enhance the effectiveness of the team to bring out the best in them.<br><br><a href ="https://vimeo.com/136700484"><b>WATCH NOW</b></a></td> <td><img src="/images/self6.jpg"></td></tr>
+Now that your team understands how to work better with each other, how do you create conditions for the team to operate at its optimum? Learn how to sustain and enhance the effectiveness of the team to bring out the best in them.<br><br><a href ="https://vimeo.com/136700484"><b>WATCH NOW</b></a></td> <td><img src="/images/team10.jpg"></td></tr>
   
   <tr><td><h5><b>How do I help my team to manage conflict in a healthy & constructive manner?</b></h5>
 In the storming stage of a team’s life cycle, friction may arise as members start to become aware of individual differences. Here are some tips on how to manage conflict in a healthy and constructive manner.<br><br><a href ="https://vimeo.com/120776728"><b>WATCH NOW</b></a></td> <td><img src="/images/engage2.jpg"></td></tr>

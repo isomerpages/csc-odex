@@ -1,6 +1,6 @@
 ---
 title: (v3) Working
-permalink: /resources/v4
+permalink: /archive-resources/v3 Working
 description: ""
 ---
 

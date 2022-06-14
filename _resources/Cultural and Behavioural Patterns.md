@@ -1,8 +1,10 @@
 ---
 title: Cultural and Behavioural Patterns
 permalink: /resources/cultural
-description: ""
+description: "Cultural and Behavioural Patterns"
 ---
+<table><col width="70%"><col width="30%">
+
 <tr><td><h5><b>Values Toolkit, 2016</b></h5><br>In  any  organisation,  leaders  set  the  direction  and  make  critical  decisions.  That  is  why  leaders  are  ultimately  responsible for organisational values. They need to live out these values and also bring staff along with them in living out the values. Whether you are a leader or staff looking to strengthen your organisational values, this guide outlines some basic building blocks to do so. <br><br><a href ="https://go.gov.sg/valuestoolkit2016"><b>LEARN MORE</b></a></td>    
 <td><img src="/images/toolkit1.jpg"></td></tr>
 

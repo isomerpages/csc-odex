@@ -56,3 +56,7 @@ The ADKAR model comprises 5 elements, each building on the previous, that are ne
   
 <tr><td><h5><b>Making Change Teams More Effective </b></h5><br>How can a change team work effectively for an organisation's change they are tasked to lead and manage? First, do a team launch to clarify roles and expectations. As the change team forms, storms, norms and performs, choose the correct intervention that would best improve the team’s effectiveness. Finally, do team maintainence, in the form of check-ins or debriefs. <br><br><a href ="https://go.gov.sg/makingchangeteamsmoreeffective"><b>LEARN MORE</b></a></td>    
 <td><img src="/images/team2.jpg"></td></tr>
+
+<tr><td><h5><b>What differentiates between organisation design, organisation development and change management? </b> </h5><br>
+Organisation design, Organisation development and Change management are 3 different disciplines but there are areas of intersections for us to be aware of. In practice, we need to adopt a range of tools and approaches across the 3 disciplines, and apply the appropriate one for the challenge/opportunity we are intervening on. <br><br><a href ="https://vimeo.com/363214689/a1c3eaf3bd"><b>WATCH NOW</b></a></td> <td><img src="/images/self2.jpg"></td></tr>
+  

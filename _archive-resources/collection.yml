@@ -1,0 +1,4 @@
+collections:
+  archive-resources:
+    output: true
+    order: []

@@ -51,10 +51,6 @@ sections:
       url: https://cscollege-test-staging.netlify.app/resources/electives-and-specialisations/design
       alt: Image alt text
       image: /images/Organisation%20Design.jpg
-  - resources:
-      title: Resources
-      subtitle: Learn more
-      button: View More
   - infobar:
       title: Mailing List
       subtitle: OD practitioners

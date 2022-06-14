@@ -52,3 +52,6 @@ description: "Change and Transition"
 
 <tr><td><h5><b>Why Does Change Management Matter?</b></h5><br>Managing change is a critical competency for any manager who wants their teams to thrive in the VUCA environment. Learn about the purpose of change management and the factors that contribute to successful change in an organisation.<br><br><a href ="https://vimeo.com/133955809"><b>WATCH NOW</b></a></td>    
 <td><img src="/images/lightbulb1.jpg"></td></tr>
+  
+<tr><td><h5><b>Making Change Teams More Effective </b></h5><br>How can a change team work effectively for an organisation's change they are tasked to lead and manage? First, do a team launch to clarify roles and expectations. As the change team forms, storms, norms and performs, choose the correct intervention that would best improve the team’s effectiveness. Finally, do team maintainence, in the form of check-ins or debriefs. <br><br><a href ="https://go.gov.sg/makingchangeteamsmoreeffective"><b>LEARN MORE</b></a></td>    
+<td><img src="/images/team2.jpg"></td></tr>

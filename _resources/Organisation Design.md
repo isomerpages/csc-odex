@@ -37,3 +37,6 @@ Typically, organisation design or organisation development sits in a HR function
 	
 <tr><td><h5><b>Who do we involve in the organisation design process?</b> </h5><br>
 In an organisation design process, we need both the leaders and people closer to the work to be involved. Find out why in this video!<br><br><a href ="https://vimeo.com/396844460/9ecf9c0555"><b>WATCH NOW</b></a></td> <td><img src="/images/lightbulb3.jpg"></td></tr>
+	
+<tr><td><h5><b>What differentiates between organisation design, organisation development and change management? </b> </h5><br>
+Organisation design, Organisation development and Change management are 3 different disciplines but there are areas of intersections for us to be aware of. In practice, we need to adopt a range of tools and approaches across the 3 disciplines, and apply the appropriate one for the challenge/opportunity we are intervening on. <br><br><a href ="https://vimeo.com/363214689/a1c3eaf3bd"><b>WATCH NOW</b></a></td> <td><img src="/images/self2.jpg"></td></tr>

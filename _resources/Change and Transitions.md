@@ -24,7 +24,7 @@ description: "Change and Transition"
 <td><img src="/images/lead1.jpg"></td></tr>
   
 <tr><td><h5><b>Lessons Learnt from the BBC Culture Change </b></h5><br>Hear from Dr Mee Yan Cheung-Judge about her insights from BBC culture change intervention, where she adopted Appreciative Inquiry approach, held the tension of the "in-between space", involved 17000 internal people in the massive change exercise, and eventually achieved the desired outcomes.<br><br><a href ="https://go.gov.sg/lessonslearntfromthebbc"><b>LEARN MORE</b></a></td>    
-<td><img src="/images/lightbulb1.jpg"></td></tr>
+<td><img src="/images/lightbulb2.jpg"></td></tr>
   
   <tr><td><h5><b>Odyssey Rhiannon Cooke: Structuring Your Change Management Efforts</b></h5><br>How might we orchestrate a successful change project in our organisations? Rhiannon Cooke highlights the key areas that practitioners should keep in mind when starting and maintaining a change project.<br><br><a href ="https://vimeo.com/153856393"><b>WATCH NOW</b></a></td>    
 <td><img src="/images/datastructure.jpg"></td></tr>

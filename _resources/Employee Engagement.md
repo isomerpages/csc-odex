@@ -15,10 +15,10 @@ Safety is the first condition of SPACE, and it happens when employees experience
 The second condition of SPACE is Purpose, and it refers to supporting your staff in finding meaning and significance in their work. How can you, as a manager, help your staff feel a sense of purpose at work?<br><br><a href ="https://vimeo.com/150634037"><b>WATCH NOW</b></a></td> <td><img src="/images/self2.jpg"></td></tr>
 	
 <tr><td><h5><b>EE: Creating SPACE for Engagement - Autonomy at Work</b> </h5><br>
-Autonomy is the 3rd condition to pay attention to for SPACE. It is the extent to which staff perceive that they have choice and control at work.<br><br><a href ="https://vimeo.com/151344957"><b>WATCH NOW</b></a></td> <td><img src="/images/self2.jpg"></td></tr>
+Autonomy is the 3rd condition to pay attention to for SPACE. It is the extent to which staff perceive that they have choice and control at work.<br><br><a href ="https://vimeo.com/151344957"><b>WATCH NOW</b></a></td> <td><img src="/images/selfsis.jpg"></td></tr>
 	
 <tr><td><h5><b>EE: Creating SPACE for Engagement - Connectedness at Work</b> </h5><br>
-The 4th condition of SPACE is Connectedness, and it refers to the sense of belonging and being part of a community. How can you support your staff in building and sustaining supportive and trusting relationships at work?<br><br><a href ="https://vimeo.com/152111011"><b>WATCH NOW</b></a></td> <td><img src="/images/self3.jpg"></td></tr>
+The 4th condition of SPACE is Connectedness, and it refers to the sense of belonging and being part of a community. How can you support your staff in building and sustaining supportive and trusting relationships at work?<br><br><a href ="https://vimeo.com/152111011"><b>WATCH NOW</b></a></td> <td><img src="/images/teamcontent.jpg"></td></tr>
 	
 <tr><td><h5><b>EE: Creating SPACE for Engagement - Expertise at Work</b> </h5><br>
 The final condition of SPACE is Expertise, and it reflects an employee's intrinsic need to master a skill. Find out how you can nurture the condition of expertise for your staff so that they feel confident to deliver what is required of them.<br><br><a href ="https://vimeo.com/153070914"><b>WATCH NOW</b></a></td> <td><img src="/images/self3.jpg"></td></tr>

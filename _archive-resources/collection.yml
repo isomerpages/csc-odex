@@ -2,6 +2,7 @@ collections:
   archive-resources:
     output: true
     order:
+      - (Archive) Working in Groups and Teams.md
       - (Archive) Organisational Design.md
       - (Archive) Cultural and Behavioural Patterns.md
       - (Archive) Employee Engagament.md

@@ -2,5 +2,6 @@ collections:
   archive-resources:
     output: true
     order:
+      - (Archive) Organisational Design.md
       - (Archive) Cultural and Behavioural Patterns.md
       - (Archive) Employee Engagament.md

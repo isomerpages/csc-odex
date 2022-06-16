@@ -3,33 +3,30 @@ title: Resources Content Page
 permalink: /resources-content
 description: ""
 ---
-
-
-
 <table>
-	<tr>
+	<tbody><tr>
 		<th><h3>Table of Contents</h3></th>
 	</tr>
 	<tr>
-		<td>Change and Transitions</td>
+		<td><a href="https://cscollege-test-staging.netlify.app/resources/change-and-transitions">Change and Transitions</a></td>
 	</tr>
 	<tr>
-		<td>Cultural and Behavioural Patterns</td></tr>
+		<td><a href="https://cscollege-test-staging.netlify.app/resources/cultural-and-behavioural-patterns">Cultural and Behavioural Patterns</a></td></tr>
 	<tr>
-		<td>Employee Engagement</td>
+		<td><a href="https://cscollege-test-staging.netlify.app/resources/employee-engagement">Employee Engagement</a></td>
 	</tr>
 	<tr>
-		<td>Organisation Design</td>
+		<td><a href="https://cscollege-test-staging.netlify.app/resources/organisation-design">Organisation Design</a></td>
 	</tr>
 	<tr>
-		<td>Organisation & Systems</td>
+		<td><a href="https://cscollege-test-staging.netlify.app/resources/organisation-&amp;-systems">Organisation &amp; Systems</a></td>
 	</tr>
 	<tr>
-		<td>Working with Groups and Teams</td>
+		<td><a href="https://cscollege-test-staging.netlify.app/resources/working-with-groups-and-team">Working with Groups and Teams</a></td>
 	</tr>
 	<tr>
-		<td>Others</td>
+		<td><a href="https://cscollege-test-staging.netlify.app/resources/others">Others</a></td>
 	</tr>
-	</table>
+	</tbody></table>
 	
 ![](/images/Unused%20Images/Employee%20Engagement.png)

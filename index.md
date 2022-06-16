@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: RESOURCES
           description: Curated Content
-          url: resources/content
+          url: resources-content
         - title: Professional Development
           description: Frameworks
           url: Professional-Development

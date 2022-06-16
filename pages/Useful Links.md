@@ -24,6 +24,7 @@ description: ""
 	<td>
 		<h5> OD Intranet Microsite</h5>
 		<br> The Institute of Leadership and Organisation (ILOD) provides assessment, consulting and training programmes in the areas of talent assessment, leadership development and organisation development. These products and services are informed by insights from ILOD's research cluster, based on data collected from the Singapore Public Service.
+		<br><br> Click <a href="https://go.gov.sg/9n0016">here</a> to access the research microsite (intranet access only) for more  information.
 	</td>
 </tr>
 

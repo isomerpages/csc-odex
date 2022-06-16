@@ -8,7 +8,7 @@ description: ""
 		<th><h3>Table of Contents</h3></th>
 	</tr>
 	<tr>
-		<td>Change and Transitions</td>
+		<td>[Change and Transitions](/resources/change-and-transitions)</td>
 	</tr>
 	<tr>
 		<td>Cultural and Behavioural Patterns</td></tr>

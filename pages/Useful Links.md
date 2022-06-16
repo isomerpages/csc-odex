@@ -15,7 +15,7 @@ description: ""
 <tr>
 	<td>
 		<h5>Civil Service College Singapore (CSC) - Programme Portal</h5>
-		<br> At Civil Service College (CSC), every single detail in our programme is carefully crafted and meticulously designed to deliver a seamless and integrated learning experience just for you. From data analytics and consumer insights to leadership and personal development, CSC has got you covered. 
+		<br> At Civil Service College (CSC), every single detail in each programme is carefully crafted and meticulously designed to deliver a seamless and integrated learning experience just for you. From data analytics and consumer insights to leadership and personal development, CSC has got you covered. 
 		<br><br>For more information, click <a href="https://register.csc.gov.sg">here</a> to explore the programme portal.
 	</td>
 </tr>

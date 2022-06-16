@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: RESOURCES
           description: Curated Content
-          url: https://cscollege-test-staging.netlify.app/resources/all
+          url: resources/content
         - title: Professional Development
           description: Frameworks
           url: Professional-Development

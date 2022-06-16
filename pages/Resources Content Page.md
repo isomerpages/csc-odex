@@ -11,7 +11,7 @@ description: ""
 		<td><a href="https://cscollege-test-staging.netlify.app/resources/change-and-transitions">Change and Transitions</a></td>
 	</tr>
 	<tr>
-		<td><a href="https://cscollege-test-staging.netlify.app/resources/cultural-and-behavioural-patterns">Cultural and Behavioural Patterns</a></td></tr>
+		<td><a href="https://cscollege-test-staging.netlify.app/resources/cultural">Cultural and Behavioural Patterns</a></td></tr>
 	<tr>
 		<td><a href="https://cscollege-test-staging.netlify.app/resources/employee-engagement">Employee Engagement</a></td>
 	</tr>
@@ -22,7 +22,7 @@ description: ""
 		<td><a href="https://cscollege-test-staging.netlify.app/resources/organisation-and-systems">Organisation &amp; Systems</a></td>
 	</tr>
 	<tr>
-		<td><a href="https://cscollege-test-staging.netlify.app/resources/working-with-groups-and-team">Working with Groups and Teams</a></td>
+		<td><a href="https://cscollege-test-staging.netlify.app/resources/working-with-groups-and-teams">Working with Groups and Teams</a></td>
 	</tr>
 	<tr>
 		<td><a href="https://cscollege-test-staging.netlify.app/resources/others">Others</a></td>

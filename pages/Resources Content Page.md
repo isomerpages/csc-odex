@@ -3,7 +3,7 @@ title: Resources Content Page
 permalink: /resources-content
 description: ""
 ---
-<table>
+<table align="center">
 	<tr>
 		<th><h3>Table of Contents</h3></th>
 	</tr>

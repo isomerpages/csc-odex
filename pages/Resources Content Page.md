@@ -3,7 +3,7 @@ title: Resources Content Page
 permalink: /resources-content
 description: ""
 ---
-<h3>Table of Contents</h3>
+<h2>Table of Contents</h2>
 
 1.  <a href="https://cscollege-test-staging.netlify.app/resources/change-and-transitions">Change and Transitions</a>
 <br>

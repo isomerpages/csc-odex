@@ -18,3 +18,5 @@ description: ""
 6. <a href="https://cscollege-test-staging.netlify.app/resources/working-with-groups-and-teams"> Working with Groups and Teams</a>
 <br>
 7. <a href="https://cscollege-test-staging.netlify.app/resources/others">Others</a>
+
+![](/images/Unused%20Images/employee.jpg)

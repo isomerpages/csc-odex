@@ -19,7 +19,7 @@ description: ""
 		<td><a href="https://cscollege-test-staging.netlify.app/resources/organisation-design">Organisation Design</a></td>
 	</tr>
 	<tr>
-		<td><a href="https://cscollege-test-staging.netlify.app/resources/organisation-&amp;-systems">Organisation &amp; Systems</a></td>
+		<td><a href="https://cscollege-test-staging.netlify.app/resources/organisation-and-systems">Organisation &amp; Systems</a></td>
 	</tr>
 	<tr>
 		<td><a href="https://cscollege-test-staging.netlify.app/resources/working-with-groups-and-team">Working with Groups and Teams</a></td>

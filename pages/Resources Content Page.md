@@ -18,4 +18,4 @@ description: ""
 <br>
 7. <a href="https://cscollege-test-staging.netlify.app/resources/others">Others</a>
 
-![](/images/Unused%20Images/employee.jpg)
+<img src="/images/employee.jpg">

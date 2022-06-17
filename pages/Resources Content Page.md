@@ -1,9 +1,10 @@
 ---
-title: Resources Content Page
+title: Our Resources
 permalink: /resources-content
 description: ""
 ---
-<h2>Table of Contents</h2>
+<h2>Curated Resources</h2>
+
 1.  <a href="/resources/change-and-transitions">Change and Transitions</a>
 <br>
 2. <a href="/resources/cultural">Cultural and Behavioural Patterns</a>

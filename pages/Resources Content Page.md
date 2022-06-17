@@ -4,7 +4,7 @@ permalink: /resources-content
 description: ""
 ---
 <h2>Table of Contents</h2>
-1.  <a href="https://cscollege-test-staging.netlify.app/resources/change-and-transitions">Change and Transitions</a>
+1.  <a href="/resources/change-and-transitions">Change and Transitions</a>
 <br>
 2. <a href="https://cscollege-test-staging.netlify.app/resources/cultural">Cultural and Behavioural Patterns</a>
 <br>

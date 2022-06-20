@@ -3,10 +3,8 @@ links:
   - title: Resources
     collection: resources
   - title: Professional Development
-    collection: professional-development
+    url: /professional-development
   - title: Newbie Corner
     url: /Newbie-Corner
   - title: Useful Links
     url: /useful-links
-  - title: Professional Development
-    url: /professional-development

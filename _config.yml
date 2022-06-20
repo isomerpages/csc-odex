@@ -52,3 +52,4 @@ plugins:
   - jekyll-remote-theme
 staging: https://cscollege-test-staging.netlify.app
 prod: https://cscollege-test-prod.netlify.app
+is_government: true

@@ -1,12 +1,12 @@
 ---
 title: Useful Links
 permalink: /useful-links
-description: "Useful Links"
+description: Useful Links
 ---
 <table>
 	<tr>
 		<td>
-			<h5>Civil Service College Singapore (CSC) - Official  Website</h5>
+			<h5>Civil Service College Singapore (CSC) Website</h5>
 		<br>The Civil Service College (CSC) was established as a statutory board under the Public Service Division in 2001. As the heart of learning for the Singapore Public Service, CSC delivers an innovative, inspiring and impactful learning experience for public officers. 
 			<br><br> For more information, click <a href="https://www.csc.gov.sg">here</a> to access the Official Website.
 		</td>

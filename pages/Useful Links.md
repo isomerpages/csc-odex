@@ -14,11 +14,11 @@ description: "Useful Links"
 
 <tr>
 	<td>
-		<h5>Civil Service College Singapore (CSC) - Programme Portal</h5>
-		<br> At Civil Service College (CSC), every single detail in each programme is carefully crafted and meticulously designed to deliver a seamless and integrated learning experience just for you. From data analytics and consumer insights to leadership and personal development, CSC has got you covered. 
-		<br><br>For more information, click <a href="https://register.csc.gov.sg">here</a> to explore the Programme Portal.
+		<h5>CSC Programme Portal</h5>
+		<br>Reskill and upskill yourself with the latest skills and capabilities for the future Public Service.
+		<br><br>For more information, click <a href="https://register.csc.gov.sg">here</a> to explore our programmes.
 	</td>
-</tr>
+</tr> 
 	
 <tr>
 	<td>

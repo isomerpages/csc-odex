@@ -24,8 +24,9 @@ sections:
   - infobar:
       title: What is ODEx Resource Portal?
       subtitle: hello there
-      description: A self-help platform that consolidates organisation development and
-        leadership resources developed or curated by ILOD.
+      description: "A self-help platform with resources developed or curated by the
+        Institute of Leadership and Organisation Development (ILOD), Civil
+        Service College (CSC). "
   - infopic:
       title: Employee Engagement
       description: " More than just about feeling satisfied or happy at work"

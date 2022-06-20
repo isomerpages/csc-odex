@@ -1,7 +1,7 @@
 ---
 title: Useful Links
 permalink: /useful-links
-description: ""
+description: "Useful Links"
 ---
 <table>
 	<tr>
@@ -26,6 +26,14 @@ description: ""
 		<br> The Institute of Leadership and Organisation (ILOD) provides assessment, consulting and training programmes in the areas of talent assessment, leadership development and organisation development. These products and services are informed by insights from ILOD's research cluster, based on data collected from the Singapore Public Service.
 		<br><br> For more resources, click <a href="https://go.gov.sg/9n0016">here</a> to access the Research Microsite (intranet access only).
 	</td>
+</tr>
+	
+<tr>
+		<td>
+			<h5>ODEx Community Telegram Channel</h5>
+		<br>The ODEx Community welcomes all OD practitioners and members who are interested to be a part of organisational development efforts in their agencies. 
+			<br><br>Join us <a href="https://go.gov.sg/odexcommunity">here</a>, where members of the community share resources, reflections and support each others' growth and challenges
+		</td>
 </tr>
 
 </table>

@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: ODEx
+title: Civil Service College
 description: A self-help resource portal is designed to support your OD practice.
 image: /images/isomer-logo.svg
 permalink: /
@@ -56,3 +56,4 @@ sections:
       button: Subscribe now
       url: mailto:cscollege_ilod@cscollege.gov.sg
 ---
+

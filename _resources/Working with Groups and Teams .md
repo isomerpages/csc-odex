@@ -1,12 +1,12 @@
 ---
-title: "Working with Groups and Teams"
+title: Working with Groups and Teams
 permalink: /resources/working-with-groups-and-teams
-description: "Working with Groups and Teams"
+description: Working with Groups and Teams
 ---
 <table><col width="70%"><col width="30%">
 
-<tr><td><h5><b>An exclusive interview on effective teams with Dr Ruth Wageman </b><b><font color="darkorange"> [Missing Link]</font></b></h5>
-Why are teams lousy at creative tasks? What can a team do together and more importantly, when should they go solo? Find out more from Dr. Ruth Wageman, a globally recognised thought leader in the field of team effectiveness, as she shares on what makes effective teams.<br><br><a href ="missinglink"><b>WATCH NOW</b></a></td> <td><img src="/images/team1.jpg"></td></tr>
+<tr><td><h5><b>An exclusive interview on effective teams with Dr Ruth Wageman </b></h5>
+Why are teams lousy at creative tasks? What can a team do together and more importantly, when should they go solo? Find out more from Dr. Ruth Wageman, a globally recognised thought leader in the field of team effectiveness, as she shares on what makes effective teams.<br><br><a href ="https://vimeo.com/39463182"><b>WATCH NOW</b></a></td> <td><img src="/images/team1.jpg"></td></tr>
 
 <tr><td><h5><b>Creating Effective Teams - CSC Position Paper</b></h5>
 Teams are common building blocks in organisations. They are increasingly important in the face of the Public Service’s ever-changing and unpredictable environment as leaders do not have all the answers and need to tap on distributed knowledge across the Service. Check out this position paper on 'Team Effectiveness' put together by the Institute of Leadership and Organisation Development, Civil Service College.<br><br><a href ="https://go.gov.sg/teameffectivenesspaper"><b>LEARN MORE</b></a></td> <td><img src="/images/team2.jpg"></td></tr>
@@ -37,4 +37,3 @@ As OD practitioners, understanding group dynamics is essential as most work in o
   
 <tr><td><h5><b>Team Development Toolkit</b></h5>
 Many of us work in teams, be it functional teams, project teams, cross-department teams or committees. To be effective, a team has to actively invest time, energy and efforts. This toolkit will help you navigate common situations you may face in your team(s).<br><br><a href ="https://go.gov.sg/teamtoolkit"><b>LEARN MORE</b></a></td> <td><img src="/images/toolkit1.jpg"></td></tr>
-  

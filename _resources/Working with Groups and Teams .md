@@ -11,8 +11,8 @@ Why are teams lousy at creative tasks? What can a team do together and more impo
 <tr><td><h5><b>Creating Effective Teams - CSC Position Paper</b></h5>
 Teams are common building blocks in organisations. They are increasingly important in the face of the Public Service’s ever-changing and unpredictable environment as leaders do not have all the answers and need to tap on distributed knowledge across the Service. Check out this position paper on 'Team Effectiveness' put together by the Institute of Leadership and Organisation Development, Civil Service College.<br><br><a href ="https://go.gov.sg/teameffectivenesspaper"><b>LEARN MORE</b></a></td> <td><img src="/images/team2.jpg"></td></tr>
   
-<tr><td><h5><b>Dr Ruth Wageman, a thought leader on team effectiveness, on how effective teams can be formed and managed</b><b><font color="darkorange"> [Missing Link]</font></b></h5>
-Dr. Ruth Wageman, Visiting Scholar at the Department of Psychology at Harvard University and a globally recognised thought leader in the field of team effectiveness, shares three key criteria to consider before forming a team.<br><br><a href ="missinglink"><b>WATCH NOW</b></a></td> <td><img src="/images/team5.jpg"></td></tr>
+<tr><td><h5><b>Dr Ruth Wageman, a thought leader on team effectiveness, on how effective teams can be formed and managed</b></h5>
+Dr. Ruth Wageman, Visiting Scholar at the Department of Psychology at Harvard University and a globally recognised thought leader in the field of team effectiveness, shares three key criteria to consider before forming a team.<br><br><a href ="https://vimeo.com/39463181"><b>WATCH NOW</b></a></td> <td><img src="/images/team5.jpg"></td></tr>
   
 <tr><td><h5><b>How do I create a great team at work?</b></h5>
 When teams come together, they generally go through different stages of development - forming, storming, norming, performing. Here are some useful steps on how to help your team to navigate each stage.<br><br><a href ="https://vimeo.com/114532603"><b>WATCH NOW</b></a></td> <td><img src="/images/team9.jpg"></td></tr>

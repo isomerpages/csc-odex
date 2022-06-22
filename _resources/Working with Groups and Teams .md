@@ -32,8 +32,8 @@ Meetings are an integral part of organisational life, it is crucial that meeting
 <tr><td><h5><b>Odyssey Dick Axelrod: Creating Productive Team Meeting Practices</b></h5>
 How do we create productive team meetings where work gets done and relationships are built? Hear from Dick Axelrod as he shares his Meeting Canoe framework to guide us in designing team meetings that achieve optimal team performance.<br><br><a href ="https://vimeo.com/133618248"><b>WATCH NOW</b></a></td> <td><img src="/images/lead1.jpg"></td></tr>
   
-<tr><td><h5><b>Odyssey Mary Ann: Attending to Group Dynamics in Teams </b><b><font color="darkorange"> [Missing Link]</font></b></h5>
-As OD practitioners, understanding group dynamics is essential as most work in organisations happen in teams. Hear from Dr Mary Ann Rainey on ways to observe group dynamics and help your teams to work better.<br><br><a href ="missinglink"><b>WATCH NOW</b></a></td> <td><img src="/images/team4.jpg"></td></tr>
+<tr><td><h5><b>Odyssey Mary Ann: Attending to Group Dynamics in Teams </b></h5>
+As OD practitioners, understanding group dynamics is essential as most work in organisations happen in teams. Hear from Dr Mary Ann Rainey on ways to observe group dynamics and help your teams to work better.<br><br><a href ="https://vimeo.com/130939928"><b>WATCH NOW</b></a></td> <td><img src="/images/team4.jpg"></td></tr>
   
 <tr><td><h5><b>Team Development Toolkit</b></h5>
 Many of us work in teams, be it functional teams, project teams, cross-department teams or committees. To be effective, a team has to actively invest time, energy and efforts. This toolkit will help you navigate common situations you may face in your team(s).<br><br><a href ="https://go.gov.sg/teamtoolkit"><b>LEARN MORE</b></a></td> <td><img src="/images/toolkit1.jpg"></td></tr>

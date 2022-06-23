@@ -1,7 +1,7 @@
 ---
 title: Change and Transitions
 permalink: /resources/change-and-transitions
-description: "Change and Transition"
+description: Change and Transition
 ---
 <table><col width="70%"><col width="30%">
 
@@ -27,10 +27,10 @@ The ADKAR model comprises 5 elements, each building on the previous, that are ne
 <tr><td><h5><b>Lessons Learnt from the BBC Culture Change </b></h5><br>Hear from Dr Mee Yan Cheung-Judge about her insights from BBC culture change intervention, where she adopted Appreciative Inquiry approach, held the tension of the "in-between space", involved 17000 internal people in the massive change exercise, and eventually achieved the desired outcomes.<br><br><a href ="https://go.gov.sg/lessonslearntfromthebbc"><b>LEARN MORE</b></a></td>    
 <td><img src="/images/lightbulb2.jpg"></td></tr>
   
-  <tr><td><h5><b>Odyssey Rhiannon Cooke: Structuring Your Change Management Efforts</b></h5><br>How might we orchestrate a successful change project in our organisations? Rhiannon Cooke highlights the key areas that practitioners should keep in mind when starting and maintaining a change project.<br><br><a href ="https://vimeo.com/153856393"><b>WATCH NOW</b></a></td>    
+  <tr><td><h5><b>Structuring Your Change Management Efforts</b></h5><br>How might we orchestrate a successful change project in our organisations? Rhiannon Cooke highlights the key areas that practitioners should keep in mind when starting and maintaining a change project.<br><br><a href ="https://vimeo.com/153856393"><b>WATCH NOW</b></a></td>    
 <td><img src="/images/datastructure.jpg"></td></tr>
   
-  <tr><td><h5><b>Odyssey: Creating the acceptance for change (Issue 6 Aug 10)</b></h5><br>Communicating change is an increasingly common practice in the Public Service. Take a closer look at the psychology of managing change and what we can do to foster ‘acceptance of the change’ by the affected stakeholders beyond simply 'informing' them. <br><br><a href ="https://go.gov.sg/creatingtheacceptanceforchange"><b>LEARN MORE</b></a></td>    
+  <tr><td><h5><b>Creating the acceptance for change</b></h5><br>Communicating change is an increasingly common practice in the Public Service. Take a closer look at the psychology of managing change and what we can do to foster ‘acceptance of the change’ by the affected stakeholders beyond simply 'informing' them. <br><br><a href ="https://go.gov.sg/creatingtheacceptanceforchange"><b>LEARN MORE</b></a></td>    
 <td><img src="/images/team1.jpg"></td></tr>
   
   <tr><td><h5><b>Odyssey: Deconstructing the desire for change (Issue 26 Nov 12)</b></h5><br>Kickstarting the desire for change involves an intricate understanding of human behaviour and psyche. To create the desire for change, people need to first see and feel the future that the change would bring. Then, send cues of normative behaviour for people to follow.  <br><br><a href ="https://go.gov.sg/deconstructingthedesireforchange"><b>LEARN MORE</b></a></td>    
@@ -59,4 +59,3 @@ The ADKAR model comprises 5 elements, each building on the previous, that are ne
 
 <tr><td><h5><b>What differentiates between organisation design, organisation development and change management? </b> </h5><br>
 Organisation design, Organisation development and Change management are 3 different disciplines but there are areas of intersections for us to be aware of. In practice, we need to adopt a range of tools and approaches across the 3 disciplines, and apply the appropriate one for the challenge/opportunity we are intervening on. <br><br><a href ="https://vimeo.com/363214689/a1c3eaf3bd"><b>WATCH NOW</b></a></td> <td><img src="/images/self2.jpg"></td></tr>
-  

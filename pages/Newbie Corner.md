@@ -26,7 +26,7 @@ This programme is a pre-requisite for the following programmes:
 * [OD Practitioner Intermediate Programme (MSIPOVL)](https://register.csc.gov.sg/course/msipovl)
 * OD Practitioner Certification Programme (MSODCP)
 
-This programme is also recommended for officers ***involved in the Public Service Transformation (PST), Organisational Excellence (OE) and Organisational Change***.
+This programme is recommended for officers ***involved in the Public Service Transformation (PST), Organisational Excellence (OE) and Organisational Change***.
 
 ### Join our ODEx Community (for Singapore Public Service Officers only)
 

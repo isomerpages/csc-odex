@@ -1,7 +1,7 @@
 ---
 title: Organisation Design
 permalink: /resources/organisation-design
-description: "Organisation Design"
+description: Organisation Design
 ---
 <table><col width="70%"><col width="30%">
 
@@ -32,11 +32,11 @@ There are 2 lenses to look at the role of an organisation design practitioner - 
 <tr><td><h5><b>What value can Organisation Design bring if it's done well?</b> </h5><br>
 The greatest value Organisation Design brings, if done well, is alignment. Hear from Amy why that is so.<br><br><a href ="http://vimeo.com/258724749"><b>WATCH NOW</b></a></td> <td><img src="/images/engage3.jpg"></td></tr>
 	
-<tr><td><h5><b>Where will the organisation design practitioner and the organisation design work be best situated in in a public service agency to maximise effectiveness? And how much formal assignment or mandate might be required?  </b> </h5><br>
+<tr><td><h5><b>Where should the Organisation Design practitioner and the Organisation Design work be best situated in in a public service agency to maximise effectiveness?</b> </h5><br>
 Typically, organisation design or organisation development sits in a HR function, but Dr Naomi Stanford recommends for it to better sit in the Strategy or Operations Planning functions. Key reasons are the "business vs people" narrative attributed by where it sits, and the more effective development and delivery of business strategies for the organisation.<br><br><a href ="https://vimeo.com/363214635/bf8847eb28"><b>WATCH NOW</b></a></td> <td><img src="/images/team6.jpg"></td></tr>
 	
 <tr><td><h5><b>Who do we involve in the organisation design process?</b> </h5><br>
 In an organisation design process, we need both the leaders and people closer to the work to be involved. Find out why in this video!<br><br><a href ="https://vimeo.com/396844460/9ecf9c0555"><b>WATCH NOW</b></a></td> <td><img src="/images/lightbulb3.jpg"></td></tr>
 	
-<tr><td><h5><b>What differentiates between organisation design, organisation development and change management? </b> </h5><br>
+<tr><td><h5><b>What differentiates between Organisation Design, Organisation Development and Change Management? </b> </h5><br>
 Organisation design, Organisation development and Change management are 3 different disciplines but there are areas of intersections for us to be aware of. In practice, we need to adopt a range of tools and approaches across the 3 disciplines, and apply the appropriate one for the challenge/opportunity we are intervening on. <br><br><a href ="https://vimeo.com/363214689/a1c3eaf3bd"><b>WATCH NOW</b></a></td> <td><img src="/images/self2.jpg"></td></tr>

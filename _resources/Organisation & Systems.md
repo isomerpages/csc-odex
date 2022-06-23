@@ -1,7 +1,7 @@
 ---
 title: Organisation & Systems
 permalink: /resources/organisation-and-systems
-description: "Organisation & Systems"
+description: Organisation & Systems
 ---
 <table><col width="70%"><col width="30%">
 
@@ -23,7 +23,7 @@ An insight on whether LOVE is an important aspect in organisations and the OD pr
 <tr><td><h5><b>Six Assertions for Succeeding in Organizations </b> </h5><br>
 This article by Geoffrey Bellman, is based on his book "THE BEAUTY OF THE BEAST: Breathing New Life into Organizations". When seeing the Beauty of the organisation, we discover what it is like to pursue life within the organisation, commiting to our plans despite the unknown, moving towards the future ready and eager to learn. While facing the Beast, it enables us to be renewed and have respect for the past, find the motivation to move towards change, and understand how to overcome reisstance to change. <br><br><a href ="https://go.gov.sg/sixassertions  "><b>LEARN MORE</b></a></td> <td><img src="/images/future.jpg"></td></tr>
   
-  <tr><td><h5><b>The Systems Thinker: What is your organization's core thoery of success? </b> </h5><br>
+  <tr><td><h5><b>The Systems Thinker: What is your organization's core theory of success? </b> </h5><br>
 In this article by Daniel H. Kim, he talks about how managers in today's organisations are continually confronted with new challenges and increased performance expectations while at the same time being bombarded by a bewldering array of management ideas, tools and methods. <br><br><a href ="https://go.gov.sg/systemthinker"><b>LEARN MORE</b></a></td> <td><img src="/images/toolkit1.jpg"></td></tr>
   
   <tr><td><h5><b>Total System Power </b> </h5><br>

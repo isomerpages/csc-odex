@@ -24,7 +24,7 @@ description: Useful Links
 	<td>
 		<h5>CSC-LnOD Insights</h5>
 		<br> The Institute of Leadership and Organisation (ILOD) provides assessment, consulting and training programmes in the areas of talent assessment, leadership development and organisation development. These products and services are informed by insights from ILOD's research cluster, based on data collected from the Singapore Public Service.
-		<br><br>For more resources, click <a href="https://gccprod.sharepoint.com/sites/CSC-LnODinsights">here</a> to access the page.
+		<br><br>For more resources, click <a href="https://gccprod.sharepoint.com/sites/CSC-LnODinsights">here</a> to access the Intranet Microsite (intranet access only).
 	</td>
 </tr>
 	

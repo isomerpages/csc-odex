@@ -29,10 +29,10 @@ In the storming stage of a team’s life cycle, friction may arise as members st
 <tr><td><h5><b>Managing Meeting Dynamics Practical Guide</b></h5>
 Meetings are an integral part of organisational life, it is crucial that meetings are managed well to maintain or improve organisational health. This practical guide explains what drives the group dynamics in a meeting and provides suggestions on actionable steps that you can implement to improve the dynamics at your next meeting.<br><br><a href ="https://go.gov.sg/meetingdynamicsguide"><b>LEARN MORE</b></a></td> <td><img src="/images/consulting.jpg"></td></tr>
   
-<tr><td><h5><b>Odyssey Dick Axelrod: Creating Productive Team Meeting Practices</b></h5>
+<tr><td><h5><b>Creating Productive Team Meeting Practices</b></h5>
 How do we create productive team meetings where work gets done and relationships are built? Hear from Dick Axelrod as he shares his Meeting Canoe framework to guide us in designing team meetings that achieve optimal team performance.<br><br><a href ="https://vimeo.com/133618248"><b>WATCH NOW</b></a></td> <td><img src="/images/lead1.jpg"></td></tr>
   
-<tr><td><h5><b>Odyssey Mary Ann: Attending to Group Dynamics in Teams </b></h5>
+<tr><td><h5><b>Attending to Group Dynamics in Teams </b></h5>
 As OD practitioners, understanding group dynamics is essential as most work in organisations happen in teams. Hear from Dr Mary Ann Rainey on ways to observe group dynamics and help your teams to work better.<br><br><a href ="https://vimeo.com/130939928"><b>WATCH NOW</b></a></td> <td><img src="/images/team4.jpg"></td></tr>
   
 <tr><td><h5><b>Team Development Toolkit</b></h5>

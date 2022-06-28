@@ -10,7 +10,7 @@ permalink: /Newbie-Corner
 
 | ![](/images/Organisation%20Design.jpg) | ![](/images/Employee%20Engagement.jpg) | |
 | -------- | -------- | |
-|The OD Practitioner <br><br><strong><a href="https://vimeo.com/74434435"> WATCH NOW</a></strong>|Understanding OD and its Role <br><br><strong><a href="https://go.gov.sg/reachingouteveryday"> READ NOW</a></strong>|
+|The OD Practitioner <br><br><strong><a href="https://vimeo.com/74434435" target="_blank"> WATCH NOW</a></strong>|Understanding OD and its Role <br><br><strong><a href="https://go.gov.sg/reachingouteveryday" target="_blank"> READ NOW</a></strong>|
  ||
 
 ### Attend this milestone programme in your first year as a practitioner
@@ -19,7 +19,7 @@ permalink: /Newbie-Corner
 
 MSOD101 is a foundational milestone programme, that provides an overview of the OD practice field and the practitioner’s role in supporting organisational health and effectiveness. Equip yourself with the knowledge and application of the stages of the Action Research cycle and Systems Thinking.
 
-To register, click [here](https://register.csc.gov.sg/course/msod101).
+To register, click <a href="https://register.csc.gov.sg/course/msod101" target="_blank">here</a>.
 
 This programme is a pre-requisite for the following programmes:
 * [OD Practitioner Intermediate Programme (MSIPOVL)](https://register.csc.gov.sg/course/msipovl)
@@ -33,9 +33,9 @@ This programme is recommended for officers ***involved in the Public Service Tra
 
 The ODEx Community welcomes all OD practitioners and members who are interested to be a part of organisational development efforts in their agencies.
 
-Join us through the telegram link ([here](https://go.gov.sg/odexcommunity)) where members of the community share resources, reflections and support each others' growth and challenges.
+Join us through the telegram link <a href="https://go.gov.sg/odexcommunity" target="_blank"> here</a> where members of the community share resources, reflections and support each others' growth and challenges.
 
 #### Update your Practitioner Profile here!
 
-Practitioners in our mailing list ([here](https://go.gov.sg/odpracmailinglist)) will gain access to ILOD's
+Practitioners in our mailing list <a href="https://go.gov.sg/odpracmailinglist" target="_blank">here</a> will gain access to ILOD's
 programmes, community-of-practice sessions, invitations to our events, and upcoming resource repository

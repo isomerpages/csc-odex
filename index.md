@@ -38,7 +38,7 @@ sections:
       title: Team Development
       description: Develop teams that work
       button: LEARN more
-      url: https://cscollege-test-staging.netlify.app/resources/electives-and-specialisations/team
+      url: /resources/working-with-groups-and-teams
       alt: Image alt text
       image: /images/Team%20Development.jpg
   - infopic:

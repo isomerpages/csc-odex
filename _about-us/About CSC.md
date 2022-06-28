@@ -11,6 +11,6 @@ By partnering with government agencies, we are able to offer opportunities to ne
 
 For more information, click <a href="https://www.csc.gov.sg/" target="_blank"> here</a> to access our corporate website. 
 
-To find out more about our programmes, click <a href="https://register.csc.gov.sg/" target="_blank"> here </a>to explore our programme portal.
+To find out more about our programmes, click <a href="https://register.csc.gov.sg/" target="_blank"> here </a> to explore our programme portal.
 
 ![](/images/cscbanner.jpg)

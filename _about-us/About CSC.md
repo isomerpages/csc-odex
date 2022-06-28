@@ -9,9 +9,8 @@ We are a future-oriented Centre of Learning committed to nurturing a learning mi
 
 By partnering with government agencies, we are able to offer opportunities to network and exchange views, build shared ethos and perspectives, in a rich and safe environment for dialogues, knowledge-sharing and learning.
 
-For more information, click <a href="https://www.csc.gov.sg/" target="_blank"> here</a>
-[here](https://www.csc.gov.sg/) to access our corporate website. 
+For more information, click <a href="https://www.csc.gov.sg/" target="_blank"> here</a> to access our corporate website. 
 
-To find out more about our programmes, [here](https://register.csc.gov.sg/) to explore our programme portal.
+To find out more about our programmes, click <a href="https://register.csc.gov.sg/" target="_blank"> here </a>to explore our programme portal.
 
 ![](/images/cscbanner.jpg)

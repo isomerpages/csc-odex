@@ -17,7 +17,7 @@ sections:
           url: resources-content
         - title: Professional Development
           description: Frameworks
-          url: Professional-Development
+          url: /professional-development
         - title: Newbies Corner
           description: New to OD? Find out more
           url: /Newbie-Corner

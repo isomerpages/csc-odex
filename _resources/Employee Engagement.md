@@ -9,7 +9,7 @@ description: ""
 In conversations with staff, asking effective questions help managers to create space for active listening and help foster deeper levels of understanding. Managers can help their staff to discover answers and take greater ownership at work by asking effective questions.<br><br><a href ="https://vimeo.com/179296396" target="_blank"><b>WATCH NOW</b></a></td> <td><img src="/images/consulting.jpg"></td></tr>
 	
 <tr><td><h5><b>Creating SPACE for Engagement - Safety at Work</b> </h5><br>
-Safety is the first condition of SPACE, and it happens when employees experience trust, respect and perceived fairness from their organisation or manager. Find out what are some actions you can take as a manager to create an environment that fosters psychological safety at the workplace.<br><br><a href ="https://vimeo.com/150138606 target="_blank""><b>WATCH NOW</b></a></td> <td><img src="/images/engage2.jpg"></td></tr>
+Safety is the first condition of SPACE, and it happens when employees experience trust, respect and perceived fairness from their organisation or manager. Find out what are some actions you can take as a manager to create an environment that fosters psychological safety at the workplace.<br><br><a href ="https://vimeo.com/150138606" target="_blank"><b>WATCH NOW</b></a></td> <td><img src="/images/engage2.jpg"></td></tr>
 	
 <tr><td><h5><b>Creating SPACE for Engagement - Purpose at Work</b> </h5><br>
 The second condition of SPACE is Purpose, and it refers to supporting your staff in finding meaning and significance in their work. How can you, as a manager, help your staff feel a sense of purpose at work?<br><br><a href ="https://vimeo.com/150634037" target="_blank"><b>WATCH NOW</b></a></td> <td><img src="/images/self2.jpg"></td></tr>

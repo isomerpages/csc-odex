@@ -46,7 +46,7 @@ sections:
       description: What are the two lenses to look at the role of an organisation
         design practitioner - informal and formal.
       button: LEARN more
-      url: https://cscollege-test-staging.netlify.app/resources/electives-and-specialisations/design
+      url: /resources/organisation-design
       alt: Image alt text
       image: /images/Organisation%20Design.jpg
   - infobar:

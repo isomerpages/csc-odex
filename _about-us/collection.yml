@@ -2,5 +2,5 @@ collections:
   about-us:
     output: true
     order:
-      - About ODEx.md
       - About CSC.md
+      - About ODEx.md

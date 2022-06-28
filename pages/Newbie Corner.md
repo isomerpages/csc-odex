@@ -14,8 +14,7 @@ permalink: /Newbie-Corner
  ||
 
 ### Attend this milestone programme in your first year as a practitioner
-
-![](/images/business.png)
+![](/images/business.jpg)
 #### OD Practitioner Foundational Programme (MSOD101)
 
 MSOD101 is a foundational milestone programme, that provides an overview of the OD practice field and the practitioner’s role in supporting organisational health and effectiveness. Equip yourself with the knowledge and application of the stages of the Action Research cycle and Systems Thinking.

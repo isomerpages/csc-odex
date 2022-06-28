@@ -6,7 +6,7 @@ description: Working with Groups and Teams
 <table><col width="70%"><col width="30%">
 
 <tr><td><h5><b>An exclusive interview on effective teams with Dr Ruth Wageman </b></h5>
-Why are teams lousy at creative tasks? What can a team do together and more importantly, when should they go solo? Find out more from Dr. Ruth Wageman, a globally recognised thought leader in the field of team effectiveness, as she shares on what makes effective teams.<br><br><a href ="https://vimeo.com/39463182"><b>WATCH NOW</b></a></td> <td><img src="/images/team1.jpg"></td></tr>
+Why are teams lousy at creative tasks? What can a team do together and more importantly, when should they go solo? Find out more from Dr. Ruth Wageman, a globally recognised thought leader in the field of team effectiveness, as she shares on what makes effective teams.<br><br><a href ="https://vimeo.com/39463182"><b>WATCH NOW</b></a><br><br>[Test NOW](a href ="https://vimeo.com/39463182")<b></b></a</td> <td><img src="/images/team1.jpg"></td></tr>
 
 <tr><td><h5><b>Creating Effective Teams - CSC Position Paper</b></h5>
 Teams are common building blocks in organisations. They are increasingly important in the face of the Public Service’s ever-changing and unpredictable environment as leaders do not have all the answers and need to tap on distributed knowledge across the Service. Check out this position paper on 'Team Effectiveness' put together by the Institute of Leadership and Organisation Development, Civil Service College.<br><br><a href ="https://go.gov.sg/teameffectivenesspaper"><b>LEARN MORE</b></a></td> <td><img src="/images/team2.jpg"></td></tr>

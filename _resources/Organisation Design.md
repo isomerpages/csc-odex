@@ -32,7 +32,7 @@ There are 2 lenses to look at the role of an organisation design practitioner - 
 <tr><td><h5><b>What value can Organisation Design bring if it's done well?</b> </h5><br>
 The greatest value Organisation Design brings, if done well, is alignment. Hear from Amy why that is so.<br><br><a href ="http://vimeo.com/258724749"><b>WATCH NOW</b></a></td> <td><img src="/images/engage3.jpg"></td></tr>
 	
-<tr><td><h5><b>Where should the Organisation Design practitioner and the Organisation Design work be best situated in in a public service agency to maximise effectiveness?</b> </h5><br>
+<tr><td><h5><b>Where should the Organisation Design practitioner and the Organisation Design work be best situated in a Public Service agency to maximise effectiveness?</b> </h5><br>
 Typically, organisation design or organisation development sits in a HR function, but Dr Naomi Stanford recommends for it to better sit in the Strategy or Operations Planning functions. Key reasons are the "business vs people" narrative attributed by where it sits, and the more effective development and delivery of business strategies for the organisation.<br><br><a href ="https://vimeo.com/363214635/bf8847eb28"><b>WATCH NOW</b></a></td> <td><img src="/images/team6.jpg"></td></tr>
 	
 <tr><td><h5><b>Who do we involve in the organisation design process?</b> </h5><br>

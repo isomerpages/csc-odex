@@ -1,5 +1,7 @@
 logo: /images/ODEx Logo-bigV2.jpg
 links:
+  - title: About Us
+    collection: about-us
   - title: Resources
     collection: resources
   - title: Professional Development
@@ -8,5 +10,3 @@ links:
     url: /Newbie-Corner
   - title: Useful Links
     url: /useful-links
-  - title: About Us
-    collection: about-us

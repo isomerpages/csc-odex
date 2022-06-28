@@ -19,7 +19,7 @@ permalink: /Newbie-Corner
 
 MSOD101 is a foundational milestone programme, that provides an overview of the OD practice field and the practitioner’s role in supporting organisational health and effectiveness. Equip yourself with the knowledge and application of the stages of the Action Research cycle and Systems Thinking.
 
-To register, click [here] (https://register.csc.gov.sg/course/msod101).
+To register, click [here](https://register.csc.gov.sg/course/msod101).
 
 This programme is a pre-requisite for the following programmes:
 * [OD Practitioner Intermediate Programme (MSIPOVL)](https://register.csc.gov.sg/course/msipovl)

@@ -41,6 +41,6 @@ Watch this video to get some tips on how to design a Large Group Intervention to
 Large Group Interventions (LGIs) are a way of bringing people together to co-construct solutions for a common, compelling purpose. Hear from Dr Mee-Yan Cheung-Judge on what practitioners should pay attention to when designing and facilitating LGIs for their organisations.<br><br><a href ="https://vimeo.com/137203292" target="_blank"><b>WATCH NOW</b></a></td>   
 <td><img src="/images/engage2.jpg"></td></tr>
   
-  <tr><td><h5><b>Use of Self as an Instrument of Changer</b><br></h5>
+  <tr><td><h5><b>Use of Self as an Instrument of Change</b><br></h5>
 What does the use of self mean in the OD context? Hear from Professor Jean-François Manzoni as he shares tips on how OD practitioners can build credibility and more effectively apply the use of self as an instrument of change.<br><br><a href ="https://vimeo.com/124890429" target="_blank"><b>WATCH NOW</b></a></td>   
 <td><img src="/images/self1.jpg"></td></tr>

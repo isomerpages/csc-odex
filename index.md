@@ -35,7 +35,7 @@ sections:
       image: /images/Employee%20Engagement.jpg
       alt: Image alt text
   - infopic:
-      title: Team Development
+      title: Working with Groups and Teams
       description: Develop teams that work
       button: LEARN more
       url: /resources/working-with-groups-and-teams

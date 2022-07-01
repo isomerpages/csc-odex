@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: ODEx Resource Portal
       background: /images/Header-01.jpg
       button: Contact Us
       url: contact-us

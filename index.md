@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Header-01.jpg
+      background: /images/ODEX_Banner.jpg
       button: Contact Us
       url: contact-us
       key_highlights:
@@ -20,7 +20,6 @@ sections:
         - title: Newbies Corner
           description: New to OD? Find out more
           url: /Newbie-Corner
-      title: ODEx Resource Portal
   - infobar:
       title: What is ODEx Resource Portal?
       subtitle: hello there
@@ -56,4 +55,3 @@ sections:
       button: Subscribe now
       url: https://go.gov.sg/odpracmailinglist
 ---
-

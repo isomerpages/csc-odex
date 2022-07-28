@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/ODEX_Banner.jpg
       key_highlights:
         - title: RESOURCES
           description: Curated Content

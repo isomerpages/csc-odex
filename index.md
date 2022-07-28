@@ -8,8 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/ODEX_Banner.jpg
-      button: Contact Us
-      url: contact-us
       key_highlights:
         - title: RESOURCES
           description: Curated Content

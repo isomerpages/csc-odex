@@ -17,6 +17,8 @@ sections:
         - title: Newbies Corner
           description: New to OD? Find out more
           url: /Newbie-Corner
+      background: /images/Header-01.jpg
+      title: Resource Portal
   - infobar:
       title: What is ODEx Resource Portal?
       subtitle: hello there

@@ -6,7 +6,7 @@ description: ""
 **1 Agreement - Terms**  
 All access of any area of ODEx Resource Portal [https://odex.csc.gov.sg/](https://odex.csc.gov.sg/)) (“The Website”) is governed by the terms and conditions below (“Terms”). If you do not agree to these terms and conditions, please do not access, browse or use The Website. Continue only if you accept these Terms.
 
-In these Terms, the words “we”, “our” and “us” refers to the Government of Singapore.
+In these Terms, the words “we”, “our” and “us” refers to the Civil Service College Singapore.
 
 **2 Access To The Website**  
 The accessibility and operation of The Website relies on technologies outside our control. We do not guarantee continuous accessibility or uninterrupted operation of The Website.
@@ -29,9 +29,7 @@ We reserve the right to change the URL of The Website.
 **6 Intellectual Property**  
 Materials, including source code, pages, documents and online graphics, audio and video in The Website are protected by law. 
 
-Illustrations are taken from 
-
-<a href="https://storyset.com/people">People illustrations by Storyset</a>
+Illustrations used are from [Storyset](https://storyset.com/people). We do not own the rights to the illustrations.
 
 Apart from any fair dealings for the purposes of private study, research, criticism or review, as permitted in law, no part of The Website may be reproduced or reused for any commercial purposes whatsoever without our prior written permission.
 
@@ -39,7 +37,7 @@ Apart from any fair dealings for the purposes of private study, research, critic
 We will not be liable for any loss or damage (i) that you may incur on account of using, visiting or relying on any statements, opinion, representation or information in The Website, (ii) resulting from any delay in operation or transmission, communications failure, Internet access difficulties or malfunctions in equipment or software, or (iii) the conduct or the views of any person who accesses or uses The Website.
 
 **8 Fees**  
-There are currently no fees for using any part of The Website.\] We reserve the right to introduce new fees from time to time. We are not responsible for any fees charged by any other Internet site (not provided by us).
+There are currently no fees for using any part of The Website. We reserve the right to introduce new fees from time to time. We are not responsible for any fees charged by any other Internet site (not provided by us).
 
 **9 Applicable Laws**  
 Use of The Website and these Terms are governed by the laws of Singapore. Any claim relating to use of The Website shall be heard by Singapore Courts.

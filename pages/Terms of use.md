@@ -4,7 +4,7 @@ permalink: /terms-of-use
 description: ""
 ---
 **1 Agreement - Terms**  
-All access of any area of ODEx Resource Portal [https://odex.csc.gov.sg/](https://odex.csc.gov.sg/)) (“The Website”) is governed by the terms and conditions below (“Terms”). If you do not agree to these terms and conditions, please do not access, browse or use The Website. Continue only if you accept these Terms.
+All access of any area of ODEx Resource Portal [https://odex.csc.gov.sg/](https://odex.csc.gov.sg/) (“The Website”) is governed by the terms and conditions below (“Terms”). If you do not agree to these terms and conditions, please do not access, browse or use The Website. Continue only if you accept these Terms.
 
 In these Terms, the words “we”, “our” and “us” refers to the Civil Service College Singapore.
 

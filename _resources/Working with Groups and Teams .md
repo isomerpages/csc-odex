@@ -37,3 +37,6 @@ As OD practitioners, understanding group dynamics is essential as most work in o
   
 <tr><td><h5><b>Team Development Toolkit</b></h5>
 Many of us work in teams, be it functional teams, project teams, cross-department teams or committees. To be effective, a team has to actively invest time, energy and efforts. This toolkit will help you navigate common situations you may face in your team(s).<br><br><a href ="https://go.gov.sg/teamtoolkit" target="_blank"><b>LEARN MORE</b></a></td> <td><img src="/images/toolkit1.jpg"></td></tr>
+  </table>
+  
+  <p><h7 style="font-size:0.8vw"><i>&nbsp;&nbsp;Illustrations used are from <a href ="https://storyset.com/people" target="_blank">Storyset</a></i></h7></p>

@@ -52,5 +52,6 @@ sections:
       description: Get updated with useful resources, upcoming events and programmes
       button: Subscribe now
       url: https://go.gov.sg/odpracmailinglist
+  - infobar:
+      description: Illustrations used are from Storyset.
 ---
-

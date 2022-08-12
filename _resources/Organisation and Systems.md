@@ -29,3 +29,6 @@ In this article by Daniel H. Kim, he talks about how managers in today's organis
   
   <tr><td><h5><b>Total System Power </b> </h5><br>
 What can each of us as Developers, Fixers, Integrators, and Validators do within our multiple roles as Tops, Middles, Bottoms and Customers to create a system with the outstanding capacity to survive and develop. <br><br><a href ="https://go.gov.sg/systempower" target="_blank"><b>LEARN MORE</b></a></td> <td><img src="/images/lightbulb1.jpg"></td></tr>
+  </table>
+  
+  <p><h7 style="font-size:0.8vw"><i>&nbsp;&nbsp;Illustrations used are from <a href ="https://storyset.com/people" target="_blank">Storyset</a></i></h7></p>

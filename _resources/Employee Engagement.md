@@ -54,3 +54,6 @@ Chua Mui Yim shares her thoughts on being an OD practitioner for over 24 years n
 	
 <tr><td><h5><b>Thinkpiece: Role of Manager's in Employee Engagement</b> </h5><br>
 As the Singapore Public Service constantly evolves to stay relevant and future-ready, we need engaged officers who are able to meet the challenges of new work demands, and go the extra mile to meet citizens’ needs. To strengthen staff engagement, managers need to effectively set goals, motivate, coach, and provide adequate training and learning opportunities for their troops. Check out the ideas and practical tips on how you, as a manager, can better engage your staff!<br><br><a href ="https://go.gov.sg/roleofmanagersinee" target="_blank"><b>LEARN MORE</b></a></td> <td><img src="/images/teamcontent.jpg"></td></tr>
+</table>
+
+<p><h7 style="font-size:0.8vw"><i>&nbsp;&nbsp;Illustrations used are from <a href ="https://storyset.com/people" target="_blank">Storyset</a></i></h7></p>

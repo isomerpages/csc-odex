@@ -58,6 +58,6 @@ The ADKAR model comprises 5 elements, each building on the previous, that are ne
 <td><img src="/images/team2.jpg"></td></tr>
 
 <tr><td><h5><b>What differentiates between Organisation Design, Organisation Development and Change Management? </b> </h5><br>
-Organisation design, Organisation development and Change management are 3 different disciplines but there are areas of intersections for us to be aware of. In practice, we need to adopt a range of tools and approaches across the 3 disciplines, and apply the appropriate one for the challenge/opportunity we are intervening on. <br><br><a href ="https://vimeo.com/363214689/a1c3eaf3bd" target="_blank"><b>WATCH NOW</b></a></td> <td><img src="/images/self2.jpg"></td></tr> <br>
+Organisation design, Organisation development and Change management are 3 different disciplines but there are areas of intersections for us to be aware of. In practice, we need to adopt a range of tools and approaches across the 3 disciplines, and apply the appropriate one for the challenge/opportunity we are intervening on. <br><br><a href ="https://vimeo.com/363214689/a1c3eaf3bd" target="_blank"><b>WATCH NOW</b></a></td> <td><img src="/images/self2.jpg"></td></tr> <br> </table>
 
  <br><i>llustrations used are from <a href ="https://storyset.com/people" target="_blank">Storyset</a>.</i>

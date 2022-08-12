@@ -17,7 +17,7 @@ sections:
         - title: Newbies Corner
           description: New to OD? Find out more
           url: /Newbie-Corner
-      background: /images/ODEX_Banner.jpg
+      background: /images/Banner.jpg
   - infobar:
       title: What is ODEx Resource Portal?
       subtitle: hello there
@@ -53,5 +53,3 @@ sections:
       button: Subscribe now
       url: https://go.gov.sg/odpracmailinglist
 ---
-
-

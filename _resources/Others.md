@@ -44,3 +44,6 @@ Large Group Interventions (LGIs) are a way of bringing people together to co-con
   <tr><td><h5><b>Use of Self as an Instrument of Change</b><br></h5>
 What does the use of self mean in the OD context? Hear from Professor Jean-François Manzoni as he shares tips on how OD practitioners can build credibility and more effectively apply the use of self as an instrument of change.<br><br><a href ="https://vimeo.com/124890429" target="_blank"><b>WATCH NOW</b></a></td>   
 <td><img src="/images/self1.jpg"></td></tr>
+  </table>
+  
+  <p><h7 style="font-size:0.8vw"><i>&nbsp;&nbsp;Illustrations used are from <a href ="https://storyset.com/people" target="_blank">Storyset</a></i></h7></p>

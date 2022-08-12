@@ -2,7 +2,7 @@
 layout: homepage
 title: Civil Service College - ODEx Resource Portal
 description: A self-help resource portal is designed to support your OD practice.
-image: /images/cscicon.jpg
+image: /images/CSClogo_col-01.png
 permalink: /
 notification: ""
 sections:
@@ -53,3 +53,4 @@ sections:
       button: Subscribe now
       url: https://go.gov.sg/odpracmailinglist
 ---
+

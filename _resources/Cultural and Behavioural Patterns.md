@@ -19,3 +19,5 @@ description: Cultural and Behavioural Patterns
 
 <tr><td><h5><b>Make Your Values Mean Something (by Patrick M. Lencioni)</b></h5><br>In this article, the author talked about four basic imperatives that companies followed in creating and implementing their organisation values. <br><br><a href ="https://hbr.org/2002/07/make-your-values-mean-something" target="_blank"><b>LEARN MORE</b></a></td>    
 <td><img src="/images/team8.jpg"></td></tr>
+  
+<p><h7 style="font-size:0.8vw"><i>&nbsp;&nbsp;Illustrations used are from <a href ="https://storyset.com/people" target="_blank">Storyset</a></i></h7></p>

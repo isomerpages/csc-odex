@@ -52,8 +52,4 @@ sections:
       description: Get updated with useful resources, upcoming events and programmes
       button: Subscribe now
       url: https://go.gov.sg/odpracmailinglist
-  - infobar:
-      description: Illustrations used are from Storyset.
-      button: Storyset
-      url: https://www.isomer.gov.sg/users/
 ---

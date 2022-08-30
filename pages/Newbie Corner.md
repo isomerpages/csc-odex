@@ -1,6 +1,6 @@
 ---
 title: Newbie Corner
-permalink: /Newbie-Corner
+permalink: /Newbie-Corner/
 ---
 # Hello OD practitioner! Welcome to our OD community. 
 
@@ -22,7 +22,7 @@ MSOD101 is a foundational milestone programme, that provides an overview of the 
 To register, click <a href="https://register.csc.gov.sg/course/msod101" target="_blank">here</a>.
 
 This programme is a pre-requisite for the following programmes:
-* [OD Practitioner Intermediate Programme (MSIPOVL)](https://register.csc.gov.sg/course/msipovl)
+* [Graduate Certificate in Organisation Development: Advanced OD Practitioner Programme (MSIPOVL)](https://register.csc.gov.sg/course/msipovl)
 * OD Practitioner Certification Programme (MSODCP)
 
 This programme is recommended for officers ***involved in the Public Service Transformation (PST), Organisational Excellence (OE) and Organisational Change***.

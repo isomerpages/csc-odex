@@ -60,17 +60,19 @@ The ADKAR model comprises 5 elements, each building on the previous, that are ne
 <tr><td><h5><b>What differentiates between Organisation Design, Organisation Development and Change Management? </b> </h5><br>
 Organisation design, Organisation development and Change management are 3 different disciplines but there are areas of intersections for us to be aware of. In practice, we need to adopt a range of tools and approaches across the 3 disciplines, and apply the appropriate one for the challenge/opportunity we are intervening on. <br><br><a href ="https://vimeo.com/363214689/a1c3eaf3bd" target="_blank"><b>WATCH NOW</b></a></td> <td><img src="/images/self2.jpg"></td></tr>
   
-  <tr><td><h5><b>First Takeaway from Prof. Peter Hawkins’ OD/TX Clinic: Be Purpose Led</b> </h5><br>
+<tr><td><h5><b>First Takeaway from Prof. Peter Hawkins’ OD/TX Clinic: Be Purpose Led</b> </h5><br>
 CSC’s Visiting Fellow, Professor Peter Hawkins conducted an Organisation Transformation Clinic for OD and Transformation practitioners. This is the first of three key takeaways from his session.<br><br>
 
-Be Purpose Led. As change practitioners, one question we can always ask ourselves is “what can our team/organisation do that is unique to our system?” There are 3 processes that organisations can adopt to incorporate purpose in our work; purpose knowledge, purpose internalisation, and purpose contribution. <br><br><a href ="https://go.gov.sg/ph1" target="_blank"><b>LEARN MORE</b></a></td> <td><img src="/images/self2.jpg"></td></tr>
+Be Purpose Led. As change practitioners, one question we can always ask ourselves is “what can our team/organisation do that is unique to our system?” There are 3 processes that organisations can adopt to incorporate purpose in our work; purpose knowledge, purpose internalisation, and purpose contribution. <br><br><a href ="https://go.gov.sg/ph1" target="_blank"><b>LEARN MORE</b></a></td> <td><img src="/images/self4.jpg"></td></tr>
   
-  <tr><td><h5><b>Second Takeaway from Prof. Peter Hawkins’ OD/TX Clinic: Partnering Up</b> </h5><br>
+<tr><td><h5><b>Second Takeaway from Prof. Peter Hawkins’ OD/TX Clinic: Partnering Up</b> </h5><br>
 CSC’s Visiting Fellow, Professor Peter Hawkins conducted an Organisation Transformation Clinic for OD and Transformation practitioners. This is the second of three key takeaways from his session.<br><br>
 
-Partnering Up. Ask ourselves, “what can we do differently to create value together?” By partnering with our employees, stakeholders, and community, we can widen the perspective that each is an opportunity for collaboration and growth. <br><br><a href ="https://go.gov.sg/ph2" target="_blank"><b>LEARN MORE</b></a></td> <td><img src="/images/self2.jpg"></td></tr>
+Partnering Up. Ask ourselves, “what can we do differently to create value together?” By partnering with our employees, stakeholders, and community, we can widen the perspective that each is an opportunity for collaboration and growth. <br><br><a href ="https://go.gov.sg/ph2" target="_blank"><b>LEARN MORE</b></a></td> <td><img src="/images/engage1.jpg"></td></tr>
   
-<tr><td><h5><b>What differentiates between Organisation Design, Organisation Development and Change Management? </b> </h5><br>
-Organisation design, Organisation development and Change management are 3 different disciplines but there are areas of intersections for us to be aware of. In practice, we need to adopt a range of tools and approaches across the 3 disciplines, and apply the appropriate one for the challenge/opportunity we are intervening on. <br><br><a href ="https://vimeo.com/363214689/a1c3eaf3bd" target="_blank"><b>WATCH NOW</b></a></td> <td><img src="/images/self2.jpg"></td></tr><br> </table>
+<tr><td><h5><b>Third Takeaway from Prof. Peter Hawkins’ OD/TX Clinic: Organisational Learning</b> </h5><br>
+CSC’s Visiting Fellow, Professor Peter Hawkins conducted an Organisation Transformation Clinic for OD and Transformation practitioners. This is the last of three key takeaways from his session.<br><br>
+
+Organisational Learning. In theory, OL should be greater or equal to the speed of the environment changing around us in order to meet demands for continuous growth and effectiveness. Take a look at some complementary practices that organisations with successful L&D programmes have used.<a href ="https://go.gov.sg/ph3" target="_blank"><b>LEARN MORE</b></a></td> <td><img src="/images/lightbulb3.jpg"></td></tr><br> </table>
 
 <p><h7 style="font-size:0.8vw"><i>&nbsp;&nbsp;Illustrations used are from <a href ="https://storyset.com/people" target="_blank">Storyset</a></i></h7></p>

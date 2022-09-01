@@ -73,6 +73,6 @@ Partnering Up. Ask ourselves, “what can we do differently to create value toge
 <tr><td><h5><b>Third Takeaway from Prof. Peter Hawkins’ OD/TX Clinic: Organisational Learning</b> </h5><br>
 CSC’s Visiting Fellow, Professor Peter Hawkins conducted an Organisation Transformation Clinic for OD and Transformation practitioners. This is the last of three key takeaways from his session.<br><br>
 
-Organisational Learning. In theory, OL should be greater or equal to the speed of the environment changing around us in order to meet demands for continuous growth and effectiveness. Take a look at some complementary practices that organisations with successful L&D programmes have used.<a href ="https://go.gov.sg/ph3" target="_blank"><b>LEARN MORE</b></a></td> <td><img src="/images/lightbulb3.jpg"></td></tr><br> </table>
+Organisational Learning. In theory, OL should be greater or equal to the speed of the environment changing around us in order to meet demands for continuous growth and effectiveness. Take a look at some complementary practices that organisations with successful L&D programmes have used.<br><br><a href ="https://go.gov.sg/ph3" target="_blank"><b>LEARN MORE</b></a></td> <td><img src="/images/lightbulb3.jpg"></td></tr><br> </table>
 
 <p><h7 style="font-size:0.8vw"><i>&nbsp;&nbsp;Illustrations used are from <a href ="https://storyset.com/people" target="_blank">Storyset</a></i></h7></p>

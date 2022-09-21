@@ -3,6 +3,11 @@ title: ODEx Perspectives
 permalink: /odex-perspectives/
 description: ""
 ---
+##### ODEx Perspectives Vol.4: Prioritisation & Leadership using the S.C.A.L.E. Framework
+
+Following our observations from the 2021 EES results, we explore how we can go about improving our prioritisation efforts using the S.C.A.L.E. Framework. 
+Click [here](https://go.gov.sg/odexperspectives-4) to read more.
+
 ##### ODEx Perspectives Vol.3: A View on Team Coaching
 
 Breaking down the mystery of team coaching by posing some useful questions and sharing tips/insights on how we an build our organisations more effectively. Click [here](https://go.gov.sg/odexperspectives-3) to read more.

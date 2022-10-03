@@ -1,0 +1,10 @@
+collections:
+  archive-resources:
+    output: true
+    order:
+      - (v2) Working.md
+      - (v3) Working.md
+      - (Archive) Working in Groups and Teams.md
+      - (Archive) Organisational Design.md
+      - (Archive) Cultural and Behavioural Patterns.md
+      - (Archive) Employee Engagament.md

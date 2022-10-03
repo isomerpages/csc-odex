@@ -1,0 +1,6 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - About CSC.md
+      - About ODEx.md

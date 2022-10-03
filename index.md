@@ -1,36 +1,55 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Civil Service College - ODEx Resource Portal
+description: A self-help resource portal is designed to support your OD practice.
+image: /images/CSClogo_col-01.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
-    - resources:
-        title: Media
-        subtitle: Learn more
-        button: View More
+  - hero:
+      key_highlights:
+        - title: RESOURCES
+          description: Curated Content
+          url: resources-content
+        - title: Professional Development
+          description: Frameworks
+          url: /professional-development
+        - title: Newbies Corner
+          description: New to OD? Find out more
+          url: /Newbie-Corner
+      background: /images/Banner.jpg
+  - infobar:
+      title: What is ODEx Resource Portal?
+      subtitle: hello there
+      description: "A self-help platform with resources developed or curated by the
+        Institute of Leadership and Organisation Development (ILOD), Civil
+        Service College (CSC). "
+  - infopic:
+      title: Employee Engagement
+      description: " More than just about feeling satisfied or happy at work"
+      button: Learn more
+      url: /resources/employee-engagement
+      image: /images/Employee%20Engagement.jpg
+      alt: Image alt text
+  - infopic:
+      title: Working with Groups and Teams
+      description: Develop teams that work
+      button: LEARN more
+      url: /resources/working-with-groups-and-teams
+      alt: Image alt text
+      image: /images/Team%20Development.jpg
+  - infopic:
+      title: Organisation Design
+      description: What are the two lenses to look at the role of an organisation
+        design practitioner - informal and formal.
+      button: LEARN more
+      url: /resources/organisation-design
+      alt: Image alt text
+      image: /images/Organisation%20Design.jpg
+  - infobar:
+      title: Mailing List
+      subtitle: OD practitioners
+      description: Get updated with useful resources, upcoming events and programmes
+      button: Subscribe now
+      url: https://go.gov.sg/odpracmailinglist
 ---
-

@@ -1,0 +1,11 @@
+collections:
+  resources:
+    output: true
+    order:
+      - Change and Transitions.md
+      - Cultural and Behavioural Patterns.md
+      - Employee Engagement.md
+      - Organisation Design.md
+      - Organisation and Systems.md
+      - Working with Groups and Teams .md
+      - Others.md

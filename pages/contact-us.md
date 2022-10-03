@@ -2,31 +2,20 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
-locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
-    operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+agency_name: CSC-ILOD
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: ""
+      - email: ""
+      - other: Have a question, feedback or something to contribute to ODEx resource
+          portal? Submit your enquiry or feedback using this form <a
+          href="https://go.gov.sg/odpt-enquiries" target="_blank">here</a>.
+    title: " "
+  - content:
+      - phone: ""
+      - email: ""
+      - other: Join our <a href="https://go.gov.sg/odexcommunity" target="_blank">ODEx
+          Community</a> (for Singapore Public Service Officers only) if you have
+          not done so.
+    title: " "
 ---

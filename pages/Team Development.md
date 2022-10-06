@@ -1,7 +1,16 @@
 ---
 title: Team Development
-permalink: /Team-Development
+permalink: /Team-Development/
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HS950GH8S6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-HS950GH8S6');
+</script>
 ### VIDEOS 
 * ##### Odyssey Mary Ann: Attending to Group Dynamics in Teams<br>
 As OD practitioners, understanding group dynamics is important to us as most work in organisations happen in teams. <br><br>

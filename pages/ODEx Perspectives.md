@@ -3,6 +3,15 @@ title: ODEx Perspectives
 permalink: /odex-perspectives/
 description: ""
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HS950GH8S6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-HS950GH8S6');
+</script>
 ##### ODEx Perspectives Vol.4: Prioritisation & Leadership using the S.C.A.L.E. Framework
 
 Following our observations from the 2021 EES results, we explore how we can go about improving our prioritisation efforts using the S.C.A.L.E. Framework. 

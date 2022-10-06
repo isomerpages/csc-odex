@@ -3,7 +3,7 @@ title: Testing template
 permalink: /testing-template/
 description: ""
 ---
-<!-- Google tag (gtag.js) --> <script async src="https://www.googletagmanager.com/gtag/js?id=G-HS950GH8S6"></script> <script> window.dataLayer = window.dataLayer || \[\]; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-HS950GH8S6'); </script>
+
 
 <table>
 <tr><td><h4>Odyssey: Reaching Out Everyday</h4>

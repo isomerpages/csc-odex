@@ -2,15 +2,6 @@
 title: Privacy Statement
 permalink: /privacy/
 ---
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-HS950GH8S6"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-HS950GH8S6');
-</script>
 ### **Government Agency Privacy Statement**
 
 1. This is a Government Agency website. We adopt the same principles relating to your privacy as other Government of Singapore websites.

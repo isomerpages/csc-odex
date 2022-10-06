@@ -1,8 +1,18 @@
 ---
 title: Our Resources
-permalink: /resources-content
+permalink: /resources-content/
 description: ""
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HS950GH8S6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-HS950GH8S6');
+</script>
+
 <h2>Curated Resources</h2>
 
 1.  <a href="/resources/change-and-transitions">Change and Transitions</a>

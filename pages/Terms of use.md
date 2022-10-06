@@ -3,15 +3,6 @@ title: Terms of use
 permalink: /terms-of-use/
 description: ""
 ---
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-HS950GH8S6"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-HS950GH8S6');
-</script>
 **1 Agreement - Terms**  
 All access of any area of ODEx Resource Portal [https://odex.csc.gov.sg/](https://odex.csc.gov.sg/) (“The Website”) is governed by the terms and conditions below (“Terms”). If you do not agree to these terms and conditions, please do not access, browse or use The Website. Continue only if you accept these Terms.
 

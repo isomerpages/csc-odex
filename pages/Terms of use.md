@@ -1,6 +1,6 @@
 ---
 title: Terms of use
-permalink: /terms-of-use
+permalink: /terms-of-use/
 description: ""
 ---
 **1 Agreement - Terms**  

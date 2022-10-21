@@ -1,6 +1,6 @@
 ---
 title: Team Development
-permalink: /Team-Development
+permalink: /Team-Development/
 ---
 ### VIDEOS 
 * ##### Odyssey Mary Ann: Attending to Group Dynamics in Teams<br>

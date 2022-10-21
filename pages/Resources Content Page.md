@@ -1,6 +1,6 @@
 ---
 title: Our Resources
-permalink: /resources-content
+permalink: /resources-content/
 description: ""
 ---
 <h2>Curated Resources</h2>

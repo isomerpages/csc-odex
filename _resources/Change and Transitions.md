@@ -3,9 +3,9 @@ title: Change and Transitions
 permalink: /resources/change-and-transitions/
 description: Change and Transition
 ---
-<br><table><colgroup><col width="70%"><col width="30%">
+<table><col width="70%"><col width="30%">
 
-</colgroup><tbody><tr><td><h5><b>ADKAR model</b> </h5><br>
+<tr><td><h5><b>ADKAR model</b> </h5><br>
 The ADKAR model comprises 5 elements, each building on the previous, that are necessary for change to be effective and sustainable. Check out the useful questions that managers can use when managing change transition with their staff.<br><br><a target="_blank" href="https://go.gov.sg/adkarmodel"><b>LEARN MORE</b></a></td>   
 <td><img src="/images/Teamarrow.jpg"></td></tr>
   
@@ -24,10 +24,10 @@ The ADKAR model comprises 5 elements, each building on the previous, that are ne
 <tr><td><h5><b>Lessons Learnt from the BBC Culture Change </b></h5><br>Hear from Dr Mee Yan Cheung-Judge about her insights from BBC culture change intervention, where she adopted Appreciative Inquiry approach, held the tension of the "in-between space", involved 17000 internal people in the massive change exercise, and eventually achieved the desired outcomes.<br><br><a target="_blank" href="https://go.gov.sg/lessonslearntfromthebbc"><b>LEARN MORE</b></a></td>    
 <td><img src="/images/lightbulb2.jpg"></td></tr>
   
-  <tr><td><h5><b>Structuring Your Change Management Efforts</b></h5><br>How might we orchestrate a successful change project in our organisations? Rhiannon Cooke highlights the key areas that practitioners should keep in mind when starting and maintaining a change project.<br><br><a target="_blank" href="https://vimeo.com/153856393"><b>WATCH NOW</b></a></td>    
+ <tr><td><h5><b>Structuring Your Change Management Efforts</b></h5><br>How might we orchestrate a successful change project in our organisations? Rhiannon Cooke highlights the key areas that practitioners should keep in mind when starting and maintaining a change project.<br><br><a target="_blank" href="https://vimeo.com/153856393"><b>WATCH NOW</b></a></td>    
 <td><img src="/images/datastructure.jpg"></td></tr>
   
-  <tr><td><h5><b>Creating the acceptance for change</b></h5><br>Communicating change is an increasingly common practice in the Public Service. Take a closer look at the psychology of managing change and what we can do to foster ‘acceptance of the change’ by the affected stakeholders beyond simply 'informing' them. <br><br><a target="_blank" href="https://go.gov.sg/creatingtheacceptanceforchange"><b>LEARN MORE</b></a></td>    
+ <tr><td><h5><b>Creating the acceptance for change</b></h5><br>Communicating change is an increasingly common practice in the Public Service. Take a closer look at the psychology of managing change and what we can do to foster ‘acceptance of the change’ by the affected stakeholders beyond simply 'informing' them. <br><br><a target="_blank" href="https://go.gov.sg/creatingtheacceptanceforchange"><b>LEARN MORE</b></a></td>    
 <td><img src="/images/team1.jpg"></td></tr>
   
   <tr><td><h5><b>Deconstructing the desire for change</b></h5><br>Kickstarting the desire for change involves an intricate understanding of human behaviour and psyche. To create the desire for change, people need to first see and feel the future that the change would bring. Then, send cues of normative behaviour for people to follow.  <br><br><a target="_blank" href="https://go.gov.sg/deconstructingthedesireforchange"><b>LEARN MORE</b></a></td>    
@@ -54,13 +54,15 @@ The ADKAR model comprises 5 elements, each building on the previous, that are ne
 <tr><td><h5><b>Making Change Teams More Effective </b></h5><br>How can a change team work effectively for an organisation's change they are tasked to lead and manage? First, do a team launch to clarify roles and expectations. As the change team forms, storms, norms and performs, choose the correct intervention that would best improve the team’s effectiveness. Finally, do team maintainence, in the form of check-ins or debriefs. <br><br><a target="_blank" href="https://go.gov.sg/makingchangeteamsmoreeffective"><b>LEARN MORE</b></a></td>    
 <td><img src="/images/team2.jpg"></td></tr>
 
-<tr><td><h5><b>What differentiates between Organisation Design, Organisation Development and Change Management? </b> </h5><br>
-Organisation design, Organisation development and Change management are 3 different disciplines but there are areas of intersections for us to be aware of. In practice, we need to adopt a range of tools and approaches across the 3 disciplines, and apply the appropriate one for the challenge/opportunity we are intervening on. <br><br><a target="_blank" href="https://vimeo.com/363214689/a1c3eaf3bd"><b>WATCH NOW</b></a></td> <td><img src="/images/self2.jpg"></td></tr>
+<tr><td><h5><b>What differentiates between Organisation Design, Organisation Development and Change Management? </b></h5><br>
+Organisation design, Organisation development and Change management are 3 different disciplines but there are areas of intersections for us to be aware of. In practice, we need to adopt a range of tools and approaches across the 3 disciplines, and apply the appropriate one for the challenge/opportunity we are intervening on. <br><br><a target="_blank" href="https://vimeo.com/363214689/a1c3eaf3bd"><b>WATCH NOW</b></a></td> 
+ <td><img src="/images/self2.jpg"></td></tr>
   
 <tr><td><h5><b>First Takeaway from Prof. Peter Hawkins’ OD/TX Clinic: Be Purpose Led</b> </h5><br>
 CSC’s Visiting Fellow, Professor Peter Hawkins conducted an Organisation Transformation Clinic for OD and Transformation practitioners. This is the first of three key takeaways from his session.<br><br>
 
-Be Purpose Led. As change practitioners, one question we can always ask ourselves is “what can our team/organisation do that is unique to our system?” There are 3 processes that organisations can adopt to incorporate purpose in our work; purpose knowledge, purpose internalisation, and purpose contribution. <br><br><a target="_blank" href="https://go.gov.sg/ph1"><b>LEARN MORE</b></a></td> <td><img src="/images/self4.jpg"></td></tr>
+Be Purpose Led. As change practitioners, one question we can always ask ourselves is “what can our team/organisation do that is unique to our system?” There are 3 processes that organisations can adopt to incorporate purpose in our work; purpose knowledge, purpose internalisation, and purpose contribution. <br><br><a target="_blank" href="https://go.gov.sg/ph1"><b>LEARN MORE</b></a></td> 
+  <td><img src="/images/self4.jpg"></td></tr>
   
 <tr><td><h5><b>Second Takeaway from Prof. Peter Hawkins’ OD/TX Clinic: Partnering Up</b> </h5><br>
 CSC’s Visiting Fellow, Professor Peter Hawkins conducted an Organisation Transformation Clinic for OD and Transformation practitioners. This is the second of three key takeaways from his session.<br><br>
@@ -70,6 +72,8 @@ Partnering Up. Ask ourselves, “what can we do differently to create value toge
 <tr><td><h5><b>Third Takeaway from Prof. Peter Hawkins’ OD/TX Clinic: Organisational Learning</b> </h5><br>
 CSC’s Visiting Fellow, Professor Peter Hawkins conducted an Organisation Transformation Clinic for OD and Transformation practitioners. This is the last of three key takeaways from his session.<br><br>
 
-Organisational Learning. In theory, OL should be greater or equal to the speed of the environment changing around us in order to meet demands for continuous growth and effectiveness. Take a look at some complementary practices that organisations with successful L&amp;D programmes have used.<br><br><a target="_blank" href="https://go.gov.sg/ph3"><b>LEARN MORE</b></a></td> <td><img src="/images/lightbulb3.jpg"></td></tr> </tbody></table>
+Organisational Learning. In theory, OL should be greater or equal to the speed of the environment changing around us in order to meet demands for continuous growth and effectiveness. Take a look at some complementary practices that organisations with success
+  ful L&amp;D programmes have used.<br><br><a target="_blank" href="https://go.gov.sg/ph3"><b>LEARN MORE</b></a></td> 
+  <td><img src="/images/lightbulb3.jpg"></td></tr> </tbody></table>
 
 <p><i>&nbsp;&nbsp;Illustrations used are from <a target="_blank" href="https://storyset.com/people">Storyset</a></i></p>

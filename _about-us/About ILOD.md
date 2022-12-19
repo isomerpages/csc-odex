@@ -13,3 +13,8 @@ We currently organise ourselves based on our key clients and domain practices. W
 
 Our domain specialities are Employee Engagement and Experience, Transformation and Change, Hybrid and Flexible Work Practices, Leadership Development in Public Service and Talent Assessment.
 
+##### CSC-ILODecoded
+
+The Institute of Leadership and Organisation (ILOD) provides assessment, consulting and training programmes in the areas of talent assessment, leadership development and organisation development. These products and services are informed by insights from ILOD's research cluster, based on data collected from the Singapore Public Service.
+
+For more resources, click <a href="https://gccprod.sharepoint.com/sites/CSC-LnODinsights" target="_blank"> here</a> to access the Intranet Microsite (intranet access only).

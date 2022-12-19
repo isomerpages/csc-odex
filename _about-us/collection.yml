@@ -2,6 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - About ILOD.md
       - About CSC.md
+      - About ILOD.md
       - About ODEx.md

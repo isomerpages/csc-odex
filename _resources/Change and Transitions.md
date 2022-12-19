@@ -74,6 +74,6 @@ CSC’s Visiting Fellow, Professor Peter Hawkins conducted an Organisation Trans
 
 Organisational Learning. In theory, OL should be greater or equal to the speed of the environment changing around us in order to meet demands for continuous growth and effectiveness. Take a look at some complementary practices that organisations with success
   ful L&amp;D programmes have used.<br><br><a target="_blank" href="https://go.gov.sg/ph3"><b>LEARN MORE</b></a></td> 
-  <td><img src="/images/lightbulb3.jpg"></td></tr> </tbody></table>
+  <td><img src="/images/lightbulb3.jpg"></td></tr></table>
 
 <p><i>&nbsp;&nbsp;Illustrations used are from <a target="_blank" href="https://storyset.com/people">Storyset</a></i></p>

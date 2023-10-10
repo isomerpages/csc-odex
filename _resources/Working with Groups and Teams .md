@@ -1,6 +1,6 @@
 ---
 title: Working with Groups and Teams
-permalink: /resources/working-with-groups-and-teams
+permalink: /resources/working-with-groups-and-teams/
 description: Working with Groups and Teams
 ---
 <table><col width="70%"><col width="30%">

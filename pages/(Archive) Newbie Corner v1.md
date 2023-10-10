@@ -1,6 +1,6 @@
 ---
 title: (Archive) Newbie Corner v1
-permalink: /permalink/newbie1
+permalink: /permalink/newbie1/
 description: ""
 ---
 # Hello OD practitioner! Welcome to our OD community. 

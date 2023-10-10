@@ -1,6 +1,6 @@
 ---
 title: Cultural and Behavioural Patterns
-permalink: /resources/cultural
+permalink: /resources/cultural/
 description: Cultural and Behavioural Patterns
 ---
 <table><col width="70%"><col width="30%">

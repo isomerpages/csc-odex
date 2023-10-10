@@ -1,6 +1,6 @@
 ---
 title: Newbie Corner
-permalink: /Newbie-Corner/
+permalink: /newbie-corner/
 ---
 # Hello OD practitioner! Welcome to our OD community. 
 

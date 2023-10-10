@@ -1,6 +1,6 @@
 ---
 title: (Archive) Employee Engagament
-permalink: /archive-resources/archive-employee-engagement
+permalink: /archive-resources/archive-employee-engagement/
 description: ""
 ---
 <table><tbody><tr><td><h4>[Video]<br>How can HR OD and SP Practitioners Better Support Their New Leaders During Changes of Leadership?</h4><strong>[Duration: 1.40 mins] </strong><br><br>

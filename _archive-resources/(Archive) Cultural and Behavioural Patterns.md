@@ -1,6 +1,6 @@
 ---
 title: (Archive) Cultural and Behavioural Patterns
-permalink: /archive-resources/archive-cultural
+permalink: /archive-resources/archive-cultural/
 description: ""
 ---
 <table cellpadding="1" cellspacing="1" border="0" width="200">

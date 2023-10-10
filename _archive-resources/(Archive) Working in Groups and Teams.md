@@ -1,6 +1,6 @@
 ---
 title: (Archive) Working in Groups and Teams
-permalink: /archive-resources/archive-working-groups
+permalink: /archive-resources/archive-working-groups/
 description: ""
 ---
 <h5>Odyssey Mary Ann: Attending to Group Dynamics in Teams</h5><strong>[Duration: 8 mins] </strong><br><br>

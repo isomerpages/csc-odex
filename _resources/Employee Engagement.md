@@ -1,6 +1,6 @@
 ---
 title: Employee Engagement
-permalink: /resources/employee-engagement
+permalink: /resources/employee-engagement/
 description: ""
 ---
 <table><col width="70%"><col width="30%">

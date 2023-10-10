@@ -8,7 +8,7 @@ permalink: /newbie-corner/
 
 
 
-| ![](/images/Organisation%20Design.jpg) | ![](/images/Employee%20Engagement.jpg) | |
+| ![](/images/organisation%20design.jpg) | ![](/images/employee%20engagement.jpg) | |
 | -------- | -------- | |
 |The OD Practitioner <br><br><strong><a href="https://vimeo.com/74434435" target="_blank"> WATCH NOW</a></strong>|Understanding OD and its Role <br><br><strong><a href="https://go.gov.sg/reachingouteveryday" target="_blank"> READ NOW</a></strong>|
  ||
@@ -29,7 +29,7 @@ This programme is recommended for officers ***involved in the Public Service Tra
 
 ### Join our ODEx Community (for Singapore Public Service Officers only)
 
-![](/images/Employee%20Engagement_transparent.png)
+![](/images/employee%20engagement_transparent.png)
 
 The ODEx Community welcomes all OD practitioners and members who are interested to be a part of organisational development efforts in their agencies.
 

@@ -16,7 +16,7 @@ description: ""
 			<br><br><a href ="https://vimeo.com/130939928"><b>WATCH NOW</b></a>
     </td>    
 <td>
-     <img src="/images/Team%20Development.jpg">
+     <img src="/images/team%20development.jpg">
     </td>
 </tr>
 	<tr> 
@@ -26,6 +26,6 @@ description: ""
 			<br><br><a href ="https://vimeo.com/130939928"><b>WATCH NOW</b></a>
     </td>    
 <td>
-     <img src="/images/Team%20Development.jpg">
+     <img src="/images/team%20development.jpg">
     </td>
 </tr>

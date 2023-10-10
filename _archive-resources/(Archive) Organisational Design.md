@@ -5,10 +5,10 @@ description: ""
 ---
 <table><tbody><tr>
 <td><h4>[Video]<br>How can HR OD and SP Practitioners Better Support Their New Leaders During Changes of Leadership?</h4><strong>[Duration: 1.40 mins] </strong><br><br>
-	<img src="/images/Organisation%20Design.jpg" alt="employee engagement" width="350"></td>
+	<img src="/images/organisation%20design.jpg" alt="employee engagement" width="350"></td>
 	
 <td><h4>[Video]<br>How Can We Check For Alignment of Our Organisation, Even When We Are Not Intending to Do a Re-design?</h4><strong>[Duration: 1.20 mins] </strong><br><br>
-	<img src="/images/Organisation%20Design.jpg" alt="employee engagement" width="350"><br></td></tr>
+	<img src="/images/organisation%20design.jpg" alt="employee engagement" width="350"><br></td></tr>
 	
 <tr>
 <td><font size="4">Change of leadership every few years is not unusual for all organisations. Find out how practitioners can support and coach their new leaders to look beyond their assessment of the strategy, culture and desired outcomes for the organisation.<br><br><strong><a href="http://vimeo.com/258724867">WATCH NOW</a></strong></font></td>
@@ -18,10 +18,10 @@ description: ""
 <tr>
 	
 <td><h4>[Video]<br>What Are The Respective Roles of Human Resource, Organisation Development and Strategic Planning In Organisation Design?</h4><strong>[Duration: 1.30 mins] </strong><br><br>
-	<img src="/images/Organisation%20Design.jpg" alt="employee engagement" width="350"></td>
+	<img src="/images/organisation%20design.jpg" alt="employee engagement" width="350"></td>
 	
 <td><h4>[Video]<br>What Is An Organisation Design Practitioner’s Core Responsibility? What Does He Need To Know and Be Able To Do? </h4><strong>[Duration: 1.30 mins] </strong><br><br>
-	<img src="/images/Organisation%20Design.jpg" alt="employee engagement" width="350"><br></td></tr>
+	<img src="/images/organisation%20design.jpg" alt="employee engagement" width="350"><br></td></tr>
 	
 <tr>
 	
@@ -31,10 +31,10 @@ description: ""
 		
 <tr>
 <td><h4>[Video]<br>What Differentiates Between Organisation Design, Organisation Development and Change Management? </h4><strong>[Duration: 3.30 mins] </strong><br><br>
-	<img src="/images/Organisation%20Design.jpg" alt="employee engagement" width="350"></td>
+	<img src="/images/organisation%20design.jpg" alt="employee engagement" width="350"></td>
 	
 <td><h4>[Video]<br>Do We Need Organisation Design Practitioners or Should the Skills Be Part of A Leader’s or A Manager’s Skill Set? </h4><strong>[Duration: 1.10 mins] </strong><br><br>
-	<img src="/images/Organisation%20Design.jpg" alt="employee engagement" width="350"><br></td></tr>
+	<img src="/images/organisation%20design.jpg" alt="employee engagement" width="350"><br></td></tr>
 
 <tr>
 <td><font size="4">In practice, we cannot be too purist, and we need to adopt a range of tools and approaches across these three disciplines, where it's appropriate for the issue or opportunity we are intervening on. <br><br><strong><a href="https://vimeo.com/363214689/a1c3eaf3bd">WATCH NOW</a></strong></font></td>
@@ -43,10 +43,10 @@ description: ""
 	
 <tr>
 <td><h4>[Video]<br>What Advice Do You Have For Leaders Who Are Leading Organisation Design Efforts But Are Juggling With Multiple Considerations? </h4><strong>[Duration: 1.30 mins] </strong><br><br>
-	<img src="/images/Organisation%20Design.jpg" alt="employee engagement" width="350"></td>
+	<img src="/images/organisation%20design.jpg" alt="employee engagement" width="350"></td>
 	
 <td><h4>[Video]<br>As A Practitioner In The Public Service, What Are Some Tensions You Encountered In Your Work With Leaders and Agencies? </h4><br><strong>[Duration: 2.50 mins] </strong><br><br>
-	<img src="/images/Organisation%20Design.jpg" alt="employee engagement" width="350"><br></td></tr>
+	<img src="/images/organisation%20design.jpg" alt="employee engagement" width="350"><br></td></tr>
 	
 <tr>
 <td><font size="4">Leaders have multiple responsibilities on a daily basis. Hear from Naomi on how a practitioner can still support their leader on design work even if there's a limitation to the leader's visibility in the organision design process.<br><br><strong><a href="https://vimeo.com/363214483/60664385a0">WATCH NOW</a></strong></font></td>
@@ -55,10 +55,10 @@ description: ""
 	
 <tr>
 <td><h4>[Video]<br>What Value Can Organisation Design Bring If It's Done Well? </h4><strong>[Duration: 1 min] </strong><br><br>
-	<img src="/images/Organisation%20Design.jpg" alt="employee engagement" width="350"></td>
+	<img src="/images/organisation%20design.jpg" alt="employee engagement" width="350"></td>
 	
 <td><h4>[Video]<br>Who Do We Involve In The Organisation Design Process? </h4><strong>[Duration: 1 min] </strong><br><br>
-	<img src="/images/Organisation%20Design.jpg" alt="employee engagement" width="350"><br></td></tr>
+	<img src="/images/organisation%20design.jpg" alt="employee engagement" width="350"><br></td></tr>
 	
 <tr>
 <td><font size="4">The greatest value Organisation Design brings, if done well, is alignment. Hear from Amy Kates why that is so.<br><br><strong><a href="http://vimeo.com/258724749">WATCH NOW</a></strong></font></td>

@@ -11,8 +11,8 @@ description: ""
 </td>
     </tr>
     <tr>
-      <td><img width="250" alt="employee engagement" src="/images/Team%20Development.jpg"></td>
-      <td><img width="250" alt="employee engagement" src="/images/Team%20Development.jpg"></td>
+      <td><img width="250" alt="employee engagement" src="/images/team%20development.jpg"></td>
+      <td><img width="250" alt="employee engagement" src="/images/team%20development.jpg"></td>
     </tr>
     <tr>
       <td><font size="4">As OD practitioners, understanding group dynamics is important to us as most work in organisations happen in teams. Hear from Dr Mary Ann Rainey, as she shares some ways to observe group dynamics and help teams in your organisation to work better.</font></td>
@@ -26,8 +26,8 @@ description: ""
 </td>
     </tr>
     <tr>
-      <td><img width="250" alt="employee engagement" src="/images/Team%20Development.jpg"></td>
-      <td><img width="250" alt="employee engagement" src="/images/Team%20Development.jpg"></td>
+      <td><img width="250" alt="employee engagement" src="/images/team%20development.jpg"></td>
+      <td><img width="250" alt="employee engagement" src="/images/team%20development.jpg"></td>
     </tr>
     <tr>
       <td><font size="4">As OD practitioners, understanding group dynamics is important to us as most work in organisations happen in teams. Hear from Dr Mary Ann Rainey, as she shares some ways to observe group dynamics and help teams in your organisation to work better.</font></td>
@@ -41,8 +41,8 @@ description: ""
 </td>
     </tr>
     <tr>
-      <td><img width="250" alt="employee engagement" src="/images/Team%20Development.jpg"></td>
-      <td><img width="250" alt="employee engagement" src="/images/Team%20Development.jpg"></td>
+      <td><img width="250" alt="employee engagement" src="/images/team%20development.jpg"></td>
+      <td><img width="250" alt="employee engagement" src="/images/team%20development.jpg"></td>
     </tr>
     <tr>
       <td><font size="4">As OD practitioners, understanding group dynamics is important to us as most work in organisations happen in teams. Hear from Dr Mary Ann Rainey, as she shares some ways to observe group dynamics and help teams in your organisation to work better.</font></td>

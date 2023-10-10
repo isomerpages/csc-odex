@@ -10,7 +10,7 @@ layout: post
 
 
 
-| ![Alt text for image on Isomer site](/images/Black.png) | ![Alt text for image on Isomer site](/images/Black.png) | ![Alt text for image on Isomer site](/images/Black.png)|
-|![Alt text for image on Isomer site](/images/Black.png)| ![Alt text for image on Isomer site](/images/Black.png) | ![Alt text for image on Isomer site](/images/Black.png) |
+| ![Alt text for image on Isomer site](/images/black.png) | ![Alt text for image on Isomer site](/images/black.png) | ![Alt text for image on Isomer site](/images/black.png)|
+|![Alt text for image on Isomer site](/images/black.png)| ![Alt text for image on Isomer site](/images/black.png) | ![Alt text for image on Isomer site](/images/black.png) |
 | Text     | Text     | Text     |
 

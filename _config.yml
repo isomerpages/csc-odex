@@ -50,8 +50,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://cscollege-odex-staging.netlify.app
-prod: https://cscollege-odex-prod.netlify.app
+staging: https://staging.dhsf4jne1n913.amplifyapp.com/
+prod: https://master.dhsf4jne1n913.amplifyapp.com/
 is_government: true
 shareicon: /images/CSClogo_col-01.png
 facebook-pixel: ""

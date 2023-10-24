@@ -1,6 +1,6 @@
 title: Civil Service College - ODEx Resource Portal
 url: https://odex.csc.gov.sg
-favicon: /images/CSClogo_col-01.png
+favicon: /images/csclogo_col-01.png
 colors:
   primary-color: "#fe8414"
   secondary-color: "#8b572a"
@@ -53,7 +53,7 @@ plugins:
 staging: https://staging.dhsf4jne1n913.amplifyapp.com/
 prod: https://master.dhsf4jne1n913.amplifyapp.com/
 is_government: true
-shareicon: /images/CSClogo_col-01.png
+shareicon: /images/csclogo_col-01.png
 facebook-pixel: ""
 google_analytics: G-W2HPHJ37D0
 linkedin-insights: ""

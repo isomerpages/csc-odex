@@ -1,6 +1,6 @@
 ---
 title: Organisation and Systems
-permalink: /resources/organisation-and-systems
+permalink: /resources/organisation-and-systems/
 description: Organisation & Systems
 ---
 

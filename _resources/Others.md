@@ -1,6 +1,6 @@
 ---
 title: Others
-permalink: /resources/others
+permalink: /resources/others/
 description: ""
 ---
 <table><col width="70%"><col width="30%">

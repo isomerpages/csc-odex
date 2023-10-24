@@ -2,7 +2,7 @@
 layout: homepage
 title: Civil Service College - ODEx Resource Portal
 description: A self-help resource portal is designed to support your OD practice.
-image: /images/CSClogo_col-01.png
+image: /images/csclogo_col-01.png
 permalink: /
 notification: ""
 sections:
@@ -17,7 +17,7 @@ sections:
         - title: Newbies Corner
           description: New to OD? Find out more
           url: /Newbie-Corner
-      background: /images/Banner.jpg
+      background: /images/banner.jpg
   - infobar:
       title: What is ODEx Resource Portal?
       subtitle: hello there
@@ -29,7 +29,7 @@ sections:
       description: " More than just about feeling satisfied or happy at work"
       button: Learn more
       url: /resources/employee-engagement
-      image: /images/Employee%20Engagement.jpg
+      image: /images/employee%20engagement.jpg
       alt: Image alt text
   - infopic:
       title: Working with Groups and Teams
@@ -37,7 +37,7 @@ sections:
       button: LEARN more
       url: /resources/working-with-groups-and-teams
       alt: Image alt text
-      image: /images/Team%20Development.jpg
+      image: /images/team%20development.jpg
   - infopic:
       title: Organisation Design
       description: What are the two lenses to look at the role of an organisation
@@ -45,7 +45,7 @@ sections:
       button: LEARN more
       url: /resources/organisation-design
       alt: Image alt text
-      image: /images/Organisation%20Design.jpg
+      image: /images/organisation%20design.jpg
   - infobar:
       title: Mailing List
       subtitle: OD practitioners

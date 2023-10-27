@@ -1,0 +1,59 @@
+title: Civil Service College - ODEx Resource Portal
+url: https://odex.csc.gov.sg
+favicon: /images/csclogo_col-01.png
+colors:
+  primary-color: "#fe8414"
+  secondary-color: "#8b572a"
+  media-colors:
+    - title: media-color-one
+      color: "#49759a"
+    - title: media-color-two
+      color: "#744d9f"
+    - title: media-color-three
+      color: "#00838f"
+    - title: media-color-four
+      color: "#00838f"
+    - title: media-color-five
+      color: "#00838f"
+resources_name: resource
+description: A self-help resource portal is designed to support your OD practice.
+permalink: none
+baseurl: ""
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+paginate: 12
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+staging: https://staging.dhsf4jne1n913.amplifyapp.com/
+prod: https://master.dhsf4jne1n913.amplifyapp.com/
+is_government: true
+shareicon: /images/csclogo_col-01.png
+facebook-pixel: ""
+google_analytics: G-W2HPHJ37D0
+linkedin-insights: ""

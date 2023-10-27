@@ -1,0 +1,14 @@
+logo: /images/csc_logo.jpg
+links:
+  - title: About Us
+    collection: about-us
+  - title: Resources
+    collection: resources
+  - title: Professional Development
+    url: /professional-development
+  - title: Newbie Corner
+    url: /newbie-corner
+  - title: ODEx Perspectives
+    url: /odex-perspectives/
+  - title: Contact Us
+    url: /contact-us

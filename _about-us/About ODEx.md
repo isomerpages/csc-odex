@@ -10,8 +10,8 @@ the work spans between functions and across organisational systems but
 also because the work of an OD practitioner is nothing short of being extraordinarily
 complex and challenging.</p>
 <p>CSC-ILOD is dedicated to the capability development of OD practitioners,
-so that <strong>Agency organisations have the internal capacity to address and adapt to continual challenges</strong>,
-and <strong>OD practitioners have the ability to support their leaders in building future-fit, healthy and sustainable organisations.</strong>
+so that 1) <strong>Agency organisations have the internal capacity to address and adapt to continual challenges</strong>,
+and 2) <strong>OD practitioners have the ability to support their leaders in building future-fit, healthy and sustainable organisations.</strong>
 </p>
 <p>We want to support practitioners who undertake the OD journey (<strong><em>ode</em></strong>)
 to make extraordinary (<strong><em>x</em></strong>) impact to the organisations

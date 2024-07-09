@@ -16,17 +16,17 @@ sections:
           url: /professional-development
         - title: Newbies Corner
           description: New to OD? Find out more
-          url: /Newbie-Corner
+          url: /newbie-corner
       background: /images/banner.jpg
   - infobar:
       title: What is ODEx Resource Portal?
       subtitle: hello there
-      description: "A self-help platform with resources developed or curated by the
+      description: A self-help platform with resources developed or curated by the
         Institute of Leadership and Organisation Development (ILOD), Civil
-        Service College (CSC). "
+        Service College (CSC).
   - infopic:
       title: Employee Engagement
-      description: " More than just about feeling satisfied or happy at work"
+      description: More than just about feeling satisfied or happy at work
       button: Learn more
       url: /resources/employee-engagement
       image: /images/employee%20engagement.jpg

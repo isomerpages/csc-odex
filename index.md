@@ -32,18 +32,18 @@ sections:
       image: /images/employee%20engagement.jpg
       alt: Image alt text
   - infopic:
-      title: Working with Groups and Teams
-      description: Develop teams that work
+      title: Organisational Citizenship Behaviour
+      description: OCB is something we all have and should practice in the workplace.
       button: LEARN more
-      url: /resources/working-with-groups-and-teams
+      url: http://go.gov.sg/ocb-learn
       alt: Image alt text
       image: /images/team%20development.jpg
   - infopic:
-      title: Organisation Design
-      description: What are the two lenses to look at the role of an organisation
-        design practitioner - informal and formal.
+      title: Nurturing Team Well-being
+      description: This 4-part micro-learning series delves into targeted strategies
+        bolstering well-being at our workplace.
       button: LEARN more
-      url: /resources/organisation-design
+      url: https://go.gov.sg/twml-series
       alt: Image alt text
       image: /images/organisation%20design.jpg
   - infobar:

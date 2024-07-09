@@ -28,7 +28,7 @@ sections:
       title: Learning Products
       description: Make learning interesting.
       button: Learn more
-      url: /resources/employee-engagement
+      url: /learning-products/
       image: /images/employee%20engagement.jpg
       alt: Image alt text
   - infopic:

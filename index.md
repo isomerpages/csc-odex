@@ -25,8 +25,8 @@ sections:
         Institute of Leadership and Organisation Development (ILOD), Civil
         Service College (CSC).
   - infopic:
-      title: Employee Engagement
-      description: More than just about feeling satisfied or happy at work
+      title: Learning Products
+      description: Make learning interesting.
       button: Learn more
       url: /resources/employee-engagement
       image: /images/employee%20engagement.jpg

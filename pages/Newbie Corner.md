@@ -22,6 +22,8 @@ MSOD101 is a foundational milestone programme, that provides an overview of the 
 To register, click <a href="https://register.csc.gov.sg/course/msod101" target="_blank">here</a>.
 
 This programme is a pre-requisite for the following programmes:
+* <a href="https://register.csc.gov.sg/registration?courseId=307872&amp;classNum=0" target="_blank">Graduate Certificate in Organisation Development (MSGCOD)</a>
+* <a href="https://register.csc.gov.sg/registration?courseId=307899&amp;classNum=0" target="_blank">Executive Certification for OD Professionals (MSCODP)</a>
 * [Graduate Certificate in Organisation Development (MSGCOD)](https://register.csc.gov.sg/registration?courseId=307872&amp;classNum=0)
 * [Executive Certification for OD Professionals (MSCODP)](https://register.csc.gov.sg/registration?courseId=307899&amp;classNum=0) 
 

@@ -32,4 +32,6 @@ discussions, encourage active listening, and strengthen interpersonal connection
 among team members.</p>
 <p>Grab a cup of <em>Kopi</em> and <em>Jio</em> your team mates and begin having
 meaningful conversations together!</p>
+<p>For some product pictures and FAQs, click <a href="https://go.gov.sg/kopijio-info" rel="noopener noreferrer nofollow" target="_blank">here.</a>
+</p>
 <p>&nbsp;</p>

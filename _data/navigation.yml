@@ -1,4 +1,4 @@
-logo: /images/CSC_logo.jpg
+logo: /images/csc_logo.jpg
 links:
   - title: About Us
     collection: about-us
@@ -7,7 +7,7 @@ links:
   - title: Professional Development
     url: /professional-development
   - title: Newbie Corner
-    url: /Newbie-Corner
+    url: /newbie-corner
   - title: ODEx Perspectives
     url: /odex-perspectives/
   - title: Contact Us

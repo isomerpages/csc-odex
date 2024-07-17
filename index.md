@@ -2,7 +2,7 @@
 layout: homepage
 title: Civil Service College - ODEx Resource Portal
 description: A self-help resource portal is designed to support your OD practice.
-image: /images/CSClogo_col-01.png
+image: /images/csclogo_col-01.png
 permalink: /
 notification: ""
 sections:
@@ -16,36 +16,36 @@ sections:
           url: /professional-development
         - title: Newbies Corner
           description: New to OD? Find out more
-          url: /Newbie-Corner
-      background: /images/Banner.jpg
+          url: https://odex.csc.gov.sg/newbie-corner/
+      background: /images/banner.jpg
   - infobar:
       title: What is ODEx Resource Portal?
       subtitle: hello there
-      description: "A self-help platform with resources developed or curated by the
+      description: A self-help platform with resources developed or curated by the
         Institute of Leadership and Organisation Development (ILOD), Civil
-        Service College (CSC). "
+        Service College (CSC).
   - infopic:
-      title: Employee Engagement
-      description: " More than just about feeling satisfied or happy at work"
+      title: Learning Products
+      description: Make learning interesting.
       button: Learn more
-      url: /resources/employee-engagement
-      image: /images/Employee%20Engagement.jpg
+      url: /learning-products/
+      image: /images/employee%20engagement.jpg
       alt: Image alt text
   - infopic:
-      title: Working with Groups and Teams
-      description: Develop teams that work
+      title: Organisational Citizenship Behaviour
+      description: OCB is something we all have and should practice in the workplace.
       button: LEARN more
-      url: /resources/working-with-groups-and-teams
+      url: http://go.gov.sg/ocb-learn
       alt: Image alt text
-      image: /images/Team%20Development.jpg
+      image: /images/team%20development.jpg
   - infopic:
-      title: Organisation Design
-      description: What are the two lenses to look at the role of an organisation
-        design practitioner - informal and formal.
+      title: Nurturing Team Well-being
+      description: This 4-part micro-learning series delves into targeted strategies
+        bolstering well-being at our workplace.
       button: LEARN more
-      url: /resources/organisation-design
+      url: https://go.gov.sg/twml-series
       alt: Image alt text
-      image: /images/Organisation%20Design.jpg
+      image: /images/organisation%20design.jpg
   - infobar:
       title: Mailing List
       subtitle: OD practitioners

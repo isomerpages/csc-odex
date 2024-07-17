@@ -1,6 +1,6 @@
 ---
 title: About CSC
-permalink: /about-us/csc
+permalink: /about-us/csc/
 description: ""
 ---
 The Civil Service College Singapore has been redefining learning in the Public Service since 2001. 

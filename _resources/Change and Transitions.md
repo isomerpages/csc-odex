@@ -7,7 +7,7 @@ description: Change and Transition
 
 <tr><td><h5><b>ADKAR model</b> </h5><br>
 The ADKAR model comprises 5 elements, each building on the previous, that are necessary for change to be effective and sustainable. Check out the useful questions that managers can use when managing change transition with their staff.<br><br><a target="_blank" href="https://go.gov.sg/adkarmodel"><b>LEARN MORE</b></a></td>   
-<td><img src="/images/Teamarrow.jpg"></td></tr>
+<td><img src="/images/teamarrow.jpg"></td></tr>
   
 <tr><td><h5><b>Bridges' Transition Model</b></h5><br>Check out this infographic on William Bridges’ Transition Model that illustrates the psychological transitions that occur during times of change and what a manager can do at each stage. As an OD practitioner, you can share this infographic with your managers as a way to support them too!<br><br><a target="_blank" href="https://go.gov.sg/bridgestransitionmodel"><b>LEARN MORE</b></a></td>    
 <td><img src="/images/datamodel.jpg"></td></tr> 

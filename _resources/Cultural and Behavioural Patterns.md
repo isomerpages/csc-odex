@@ -27,7 +27,7 @@ Playbook, brought to you by the PST-People Experience Our Culture Sub-committee.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h5><strong>ligning Action and Values (by Jim Collins)</strong></h5>
+<h5><strong>Aligning Action and Values (by Jim Collins)</strong></h5>
 <p>Creating alignment is a two-part process. The first is identifying and
 correcting misalignments. The second is creating new alignments, or what
 I call “mechanisms with teeth.” In this article, Jim Collins discussed

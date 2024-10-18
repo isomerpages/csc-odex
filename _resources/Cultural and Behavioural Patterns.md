@@ -17,6 +17,7 @@ variant: tiptap
 Playbook, brought to you by the PST-People Experience Our Culture Sub-committee.
 <br>
 <br><strong><a href="https://hbr.org/2002/07/make-your-values-mean-something" rel="noopener noreferrer nofollow" target="_blank">LEARN MORE</a></strong>
+<br><strong><a href="https://go.gov.sg/cultureplaybook" rel="noopener nofollow" target="_blank">View the Playbook</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">

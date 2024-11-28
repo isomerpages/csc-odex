@@ -13,11 +13,14 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <h5><strong>New Norms for Public Service Playbook</strong></h5>
-<p>Transforming Organisational Culture with the New Norms for Public Service
+<p>Transform your Organisational Culture with the New Norms for Public Service
 Playbook, brought to you by the PST-People Experience Our Culture Sub-committee.
 <br>
-<br><strong><a href="https://hbr.org/2002/07/make-your-values-mean-something" rel="noopener noreferrer nofollow" target="_blank">LEARN MORE</a></strong>
-<br><strong><a href="https://go.gov.sg/cultureplaybook" rel="noopener nofollow" target="_blank">View the Playbook</a></strong>
+</p>
+<p><strong><a href="https://go.gov.sg/aboutcultureplaybook" rel="noopener nofollow" target="_blank">LEARN MORE</a></strong>
+<br><strong><a href="https://go.gov.sg/cultureplaybookpdf" rel="noopener nofollow" target="_blank">Access the Playbook in PDF</a> </strong>
+<br><strong><a href="https://go.gov.sg/cultureplaybook" rel="noopener nofollow" target="_blank">Access the Playbook on-the-go</a></strong>
+<br><strong><a href="https://go.gov.sg/cultureplaybooktemplate" rel="noopener nofollow" target="_blank">Download the Playbook Template</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">

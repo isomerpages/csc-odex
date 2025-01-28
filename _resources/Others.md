@@ -7,7 +7,7 @@ variant: markdown
 <table><colgroup><col width="70%"><col width="30%">
 
 </colgroup><tbody>
-<tr><td><h5><b>Applying OD in a Line Function</b> </h5><br> An interview with Alyssa Goh as she shares her insights on how Organisation Development can look like in an Operational Line Function. She discusses the practical applications of OD within her team, driven by principles and values, and offers advice to other leaders and OD practitioners in the public service who are keen to enhance team performance and functionality.<br><br><a href="[https://vimeo.com/204823742](https://vimeo.com/204823742)" target="_blank"><b>WATCH NOW</b></a></td>   
+<tr><td><h5><b>Applying OD in a Line Function</b> </h5><br> An interview with Alyssa Goh as she shares her insights on how Organisation Development can look like in an Operational Line Function. She discusses the practical applications of OD within her team, driven by principles and values, and offers advice to other leaders and OD practitioners in the public service who are keen to enhance team performance and functionality.<br><br><a href="https://vimeo.com/204823742" target="_blank"><b>WATCH NOW</b></a></td>   
 <td><img src="/images/engage4.jpg"></td></tr>
 	
 <tr><td><h5><b>Building Consensus in Collaborative Decision Making</b> </h5><br> Hear from Dr Sam Kaner, Executive Director at Community at Work as he shares practical tips on when to use collaborative decision making and how to build consensus effectively among different stakeholders.<br><br><a href="https://vimeo.com/185457746" target="_blank"><b>WATCH NOW</b></a></td>   

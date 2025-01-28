@@ -55,7 +55,7 @@ creating alignment with purpose and goals.
 successful collaboration - leadership, experience and time, and how cooperation
 isn't the same as collaboration.
 <br>
-<br><strong><a href="[https://vimeo.com/178561197](https://vimeo.com/178561197)" rel="noopener noreferrer nofollow" target="_blank">WATCH NOW</a></strong>
+<br><strong><a href="https://vimeo.com/178561197" rel="noopener noreferrer nofollow" target="_blank">WATCH NOW</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">

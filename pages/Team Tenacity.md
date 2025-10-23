@@ -8,5 +8,35 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Team Tenacity" src="/images/photo_6289416131512568596_x__1_.jpg">
 </div>
-<p><strong>Team TenaCity is a serious game crafted to enhance team relationships and resilience within intact teams across the Singapore Public Service. To achieve victory, players must work together to construct all buildings shown on the Location cards, while engaging in conversations to foster better understanding of one another.</strong>
+<p><strong>Team TenaCity </strong>is a serious game crafted to enhance team
+relationships and resilience within intact teams across the Singapore Public
+Service. To achieve victory, players must work together to construct all
+buildings shown on the Location cards, while engaging in conversations
+to foster better understanding of one another.</p>
+<p><strong>Resources:</strong>
+</p>
+<p><strong>🤖 AI Game Guide</strong> Need help getting started or have questions
+about gameplay? Our intelligent chatbot provides step-by-step guidance,
+rule clarifications, and strategic tips to enhance your Team Tenacity experience.
+[Access AI Guide] (your chatbot link here)</p>
+<p><strong>🎥 Video Demonstration</strong> Watch our comprehensive video tutorial
+to see Team Tenacity in action. Learn the rules, observe gameplay strategies,
+and discover how to facilitate meaningful discussions during and after
+play. [Watch Demo Video] (your video link here)</p>
+<p><strong>📚 Research Foundation</strong> Explore the scientific research
+and positive psychology principles that inform Team Tenacity's design.
+Understand how the game mechanics translate psychological concepts into
+practical, engaging activities. [View Research] (your research link here)</p>
+<p><strong>🎲 Community Gameplay &amp; Innovation</strong> Notice there's
+a dice included with your game? That's intentional! Whilst our core gameplay
+doesn't require the dice, we've included it to spark your creativity and
+encourage new ways to play. We believe the best innovations come from the
+community, and we're excited to see how you'll incorporate the dice—or
+any other creative elements—into your Team Tenacity experience.</p>
+<p>Have you discovered a brilliant new rule variation? Developed an innovative
+way to use the dice? Created a fresh gameplay mode that enhances team building?
+We want to hear from you! Share your creative gameplay ideas with us, and
+the most engaging contributions will be featured right here on our website
+for the entire Team Tenacity community to enjoy.</p>
+<p><strong>Submit Your Ideas:</strong>  <a href="https://go.gov.sg/tt-ideas" rel="noopener noreferrer nofollow" target="_blank">[Contact/Submission Form] (your submission link here)</a>
 </p>

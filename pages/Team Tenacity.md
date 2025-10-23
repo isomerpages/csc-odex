@@ -12,7 +12,26 @@ description: ""
 relationships and resilience within intact teams across the Singapore Public
 Service. To achieve victory, players must work together to construct all
 buildings shown on the Location cards, while engaging in conversations
-to foster better understanding of one another.</p>
+to foster better understanding of one another. Whether used in educational
+settings, corporate training, or casual play, Team Tenacity transforms
+learning about resilience into an interactive and enjoyable experience
+that brings people together whilst building essential life skills.</p>
+<p><strong>Key Features:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Interactive gameplay that promotes teamwork and problem-solving</p>
+</li>
+<li>
+<p>Evidence-based mechanics grounded in positive psychology principles</p>
+</li>
+<li>
+<p>Suitable for various group sizes and settings</p>
+</li>
+<li>
+<p>Learn about team resilience</p>
+</li>
+</ul>
 <p></p>
 <p></p>
 <p><strong>Resources:</strong>
@@ -20,6 +39,8 @@ to foster better understanding of one another.</p>
 <p><strong>🤖 AI Game Guide</strong> Need help getting started or have questions
 about gameplay? Our intelligent chatbot provides step-by-step guidance,
 rule clarifications, and strategic tips to enhance your Team Tenacity experience.
+Explore a growing library of community-contributed gameplay variants, house
+rules, and creative adaptations that expand your Team Tenacity experience.
 <br><strong><a href="https://aibots.gov.sg/chats/team-tenacity-guru" rel="noopener nofollow" target="_blank">Access AI Guide (GSIB only)</a></strong>
 </p>
 <p><strong>🎥 Gameplay Demonstration</strong> Watch our comprehensive gameplay

@@ -18,15 +18,21 @@ to foster better understanding of one another.</p>
 <p><strong>🤖 AI Game Guide</strong> Need help getting started or have questions
 about gameplay? Our intelligent chatbot provides step-by-step guidance,
 rule clarifications, and strategic tips to enhance your Team Tenacity experience.
-[Access AI Guide] (your chatbot link here)</p>
-<p><strong>🎥 Video Demonstration</strong> Watch our comprehensive video tutorial
-to see Team Tenacity in action. Learn the rules, observe gameplay strategies,
-and discover how to facilitate meaningful discussions during and after
-play. [Watch Demo Video] (your video link here)</p>
+<br><strong><a href="https://aibots.gov.sg/chats/team-tenacity-guru" rel="noopener nofollow" target="_blank">Access AI Guide (GSIB only)</a></strong>
+</p>
+<p><strong>🎥 Gameplay Demonstration</strong> Watch our comprehensive gameplay
+tutorial to see Team Tenacity in action. Learn the rules, observe gameplay
+strategies, and discover how to facilitate meaningful discussions during
+and after play.
+<br><strong><a href="https://go.gov.sg/tt-walkthrough" rel="noopener nofollow" target="_blank">View Game Walkthrough</a></strong>
+</p>
 <p><strong>📚 Research Foundation</strong> Explore the scientific research
 and positive psychology principles that inform Team Tenacity's design.
 Understand how the game mechanics translate psychological concepts into
-practical, engaging activities. [View Research] (your research link here)</p>
+practical, engaging activities.
+<br><strong><a href="https://go.gov.sg/team-tenacity" rel="noopener nofollow" target="_blank">[View Research]</a></strong>
+</p>
+<p></p>
 <p><strong>🎲 Community Gameplay &amp; Innovation</strong> Notice there's
 a dice included with your game? That's intentional! Whilst our core gameplay
 doesn't require the dice, we've included it to spark your creativity and
@@ -37,6 +43,6 @@ any other creative elements—into your Team Tenacity experience.</p>
 way to use the dice? Created a fresh gameplay mode that enhances team building?
 We want to hear from you! Share your creative gameplay ideas with us, and
 the most engaging contributions will be featured right here on our website
-for the entire Team Tenacity community to enjoy.</p>
-<p><strong>Submit Your Ideas:</strong>  <a href="https://go.gov.sg/tt-ideas" rel="noopener noreferrer nofollow" target="_blank">[Contact/Submission Form] (your submission link here)</a>
+for the entire Team Tenacity community to enjoy.
+<br><strong><a href="https://go.gov.sg/tt-ideas" rel="noopener nofollow" target="_blank">[Submit Your Ideas]</a></strong>
 </p>

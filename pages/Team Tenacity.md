@@ -14,6 +14,7 @@ Service. To achieve victory, players must work together to construct all
 buildings shown on the Location cards, while engaging in conversations
 to foster better understanding of one another.</p>
 <p></p>
+<p></p>
 <p><strong>Resources:</strong>
 </p>
 <p><strong>🤖 AI Game Guide</strong> Need help getting started or have questions

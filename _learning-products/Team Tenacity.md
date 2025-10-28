@@ -4,3 +4,4 @@ permalink: /team-tenacity/
 variant: tiptap
 description: ""
 ---
+<p></p>

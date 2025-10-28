@@ -4,19 +4,19 @@ permalink: /team-tenacity/
 variant: tiptap
 description: ""
 ---
-<p><strong>Team TenaCity </strong>is a Serious Game crafted to enhance team
-resilience</p>
+<p><strong>Team TenaCity is a Serious Game Crafted to Enhance Team Resilience</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Team Tenacity" src="/images/photo_6289416131512568596_x__1_.jpg">
 </div>
-<p><strong>Team TenaCity </strong>is a serious game crafted to enhance team
-relationships and resilience within intact teams across the Singapore Public
-Service. To achieve victory, players must work together to construct all
-buildings shown on the Location cards, while engaging in conversations
-to foster better understanding of one another. Whether used in educational
-settings, corporate training, or casual play, Team Tenacity transforms
-learning about resilience into an interactive and enjoyable experience
-that brings people together whilst building essential life skills.</p>
+<p>Team TenaCity is a serious game crafted to enhance team relationships
+and resilience within intact teams across the Singapore Public Service.
+To achieve victory, players must work together to construct all buildings
+shown on the Location cards, while engaging in conversations to foster
+better understanding of one another. Whether used in educational settings,
+corporate training, or casual play, Team Tenacity transforms learning about
+resilience into an interactive and enjoyable experience that brings people
+together whilst building essential life skills.</p>
 <p><strong>Key Features:</strong>
 </p>
 <ul data-tight="true" class="tight">

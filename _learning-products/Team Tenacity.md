@@ -4,7 +4,8 @@ permalink: /team-tenacity/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<p><strong>Team TenaCity </strong>is a Serious Game crafted to enhance team
+resilience</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Team Tenacity" src="/images/photo_6289416131512568596_x__1_.jpg">
 </div>

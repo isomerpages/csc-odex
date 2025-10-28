@@ -1,0 +1,4 @@
+collections:
+  learning-products:
+    output: true
+    order: []

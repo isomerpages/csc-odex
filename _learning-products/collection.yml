@@ -1,4 +1,5 @@
 collections:
   learning-products:
     output: true
-    order: []
+    order:
+      - Learning Products.md

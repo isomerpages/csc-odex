@@ -12,7 +12,7 @@ sections:
           description: Explore other ways to learn!
           url: /kopi-jio/
         - title: Professional Development
-          description: Frameworks
+          description: OD Competency Framework
           url: /professional-development
         - title: Newbies Corner
           description: New to OD? Find out more

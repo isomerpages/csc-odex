@@ -8,9 +8,9 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: RESOURCES
-          description: Curated Content
-          url: resources-content
+        - title: Learning Products
+          description: Explore other ways to learn!
+          url: learning-products
         - title: Professional Development
           description: Frameworks
           url: /professional-development

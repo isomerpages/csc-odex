@@ -50,8 +50,8 @@ sections:
       image: /images/organisation%20design.jpg
   - infobar:
       title: Mailing List
-      subtitle: OD practitioners
-      description: Get updated with useful resources, upcoming events and programmes
+      subtitle: OD Practitioners
+      description: Get updated with useful resources, upcoming events and programmes.
       button: Subscribe now
       url: https://go.gov.sg/odpracmailinglist
 ---

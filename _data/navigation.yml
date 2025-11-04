@@ -4,13 +4,11 @@ links:
     collection: about-us
   - title: Resources
     collection: resources
+  - title: Learning Products
+    collection: learning-products
   - title: Professional Development
     url: /professional-development
   - title: Newbie Corner
     url: /newbie-corner
-  - title: ODEx Perspectives
-    url: /odex-perspectives/
-  - title: Learning Products
-    collection: learning-products
   - title: Contact Us
     url: /contact-us

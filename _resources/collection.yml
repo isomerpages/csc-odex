@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - ODEx Perspectives.md
       - Change and Transitions.md
       - Cultural and Behavioural Patterns.md
       - Employee Engagement.md

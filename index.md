@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: Learning Products
           description: Explore other ways to learn!
-          url: learning-products
+          url: /kopi-jio/
         - title: Professional Development
           description: Frameworks
           url: /professional-development

@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: Learning Products
           description: Explore other ways to learn!
-          url: /kopi-jio/
+          url: https://odex.csc.gov.sg/kopi-jio/
         - title: Professional Development
           description: OD Competency Framework
           url: /professional-development

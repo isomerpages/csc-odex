@@ -33,7 +33,9 @@ sections:
       alt: Image alt text
   - infopic:
       title: Organisational Citizenship Behaviour
-      description: OCB is something we all have and should practice in the workplace.
+      description: Ever wondered what makes workplaces energising and supportive? It's
+        the people! Explore OCB - the invisible superpower behind thriving
+        teams.
       button: LEARN more
       url: http://go.gov.sg/ocb-learn
       alt: Image alt text

@@ -5,12 +5,12 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>Advancing Systems Thinking Beyond Traditional Training</strong></h4>
-<p>The College has developed an innovative <a href="https://aibots.gov.sg/chats/systemsthinkinggpt" rel="noopener nofollow" target="_blank">Systems Thinking AI Bot – Deep-Thinking Edition (FY25)</a> to
+<p>The College has developed <a href="https://aibots.gov.sg/chats/systemsthinkinggpt" rel="noopener nofollow" target="_blank">Systems Thinking AI Companion – Deep-Thinking Edition (FY25)</a> to
 revolutionise how Public Service Officers learn and apply systems thinking
 concepts. This custom GPT, built using GovTech's AI Bot platform, provides
 year-round coaching to help officers deepen their understanding of systems
 thinking and test their knowledge against real-world challenges.</p>
-<h4><strong>What Is the Systems Thinking AI Bot?</strong></h4>
+<h4><strong>What is the Systems Thinking AI Companion?</strong></h4>
 <p>This AI-powered coaching tool represents the College's commitment to advancing
 systems thinking education beyond traditional training programmes and eLearning
 modules. The bot serves as an interactive learning companion that officers
@@ -55,7 +55,7 @@ earlier beta version launched in FY24, incorporating user feedback and
 enhanced capabilities to better serve officers' learning needs.</p>
 <hr>
 <p><em>Ready to enhance your systems thinking capabilities? Access the Systems Thinking AI Bot: </em>
-<a href="https://aibots.gov.sg/chats/systemsthinkinggpt" rel="noopener nofollow" target="_blank">Systems Thinking AI Bot – Deep-Thinking Edition (FY25)</a>
+<a href="https://aibots.gov.sg/chats/systemsthinkinggpt" rel="noopener nofollow" target="_blank">Systems Thinking AI Companion – Deep-Thinking Edition (FY25)</a>
 </p>
 <p></p>
 <p></p>

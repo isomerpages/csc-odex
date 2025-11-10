@@ -54,5 +54,8 @@ across diverse user groups.</p>
 earlier beta version launched in FY24, incorporating user feedback and
 enhanced capabilities to better serve officers' learning needs.</p>
 <hr>
-<p><em>Ready to enhance your systems thinking capabilities? Access the Systems Thinking AI Bot through the GovTech AI Bots Community site and begin your journey towards more effective problem-solving and strategic thinking.</em>
+<p><em>Ready to enhance your systems thinking capabilities? Access the Systems Thinking AI Bot: </em>
+<a href="https://aibots.gov.sg/chats/systemsthinkinggpt" rel="noopener nofollow" target="_blank">Systems Thinking AI Bot – Deep-Thinking Edition (FY25)</a>
 </p>
+<p></p>
+<p></p>

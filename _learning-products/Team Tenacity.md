@@ -77,6 +77,7 @@ for the entire Team TenaCity community to enjoy.
 <p><strong>📚 Research Foundation</strong> Explore the scientific research
 and positive psychology principles that inform Team TenaCity's design.
 Understand how the game mechanics translate psychological concepts into
-practical, engaging activities. <strong><a href="https://go.gov.sg/team-tenacity" rel="noopener nofollow" target="_blank">View Research</a></strong>
+practical, engaging activities.
+<br><strong><a href="https://go.gov.sg/team-tenacity" rel="noopener nofollow" target="_blank">View Research</a></strong>
 </p>
 <p></p>

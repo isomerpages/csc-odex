@@ -27,7 +27,6 @@ College in November 2025. We developed Team TenaCity to give teams an easy,
 engaging way to foster stronger relationships, build resilience, and learn
 problem-solving strategies (all inspired from positive psychology research)
 that improve both performance and wellbeing at work.</p>
-<p></p>
 <p><strong>Key Features:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -44,7 +43,7 @@ that improve both performance and wellbeing at work.</p>
 <p>Learn about team resilience</p>
 </li>
 </ul>
-<p>To buy your own set(s) of Team Tenacity, click <a href="go.gov.sg/tt-order" rel="noopener nofollow" target="_blank">here!</a>
+<p>To buy your own set(s) of Team Tenacity, click <a href="go.gov.sg/tt-order" rel="noopener nofollow" target="_blank">here<u>.</u></a>
 </p>
 <p><strong>Resources:</strong>
 <br><strong>🤖 AI Game Guide</strong> Need help getting started or have questions

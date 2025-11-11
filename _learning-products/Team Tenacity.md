@@ -43,6 +43,7 @@ that improve both performance and wellbeing at work.</p>
 <p>Learn about team resilience</p>
 </li>
 </ul>
+<p></p>
 <p>To buy your own set(s) of Team Tenacity, click <a href="go.gov.sg/tt-order" rel="noopener nofollow" target="_blank">here<u>.</u></a>
 </p>
 <p><strong>Resources:</strong>

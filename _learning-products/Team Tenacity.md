@@ -70,12 +70,13 @@ any other creative elements, into your Team TenaCity experience.</p>
 way to use the dice? Created a fresh gameplay mode that enhances team building?
 We want to hear from you! Share your creative gameplay ideas with us, and
 the most engaging contributions will be featured right here on our website
-for the entire Team TenaCity community to enjoy.</p>
+for the entire Team TenaCity community to enjoy.
+<br><strong><a href="https://go.gov.sg/tt-ideas" rel="noopener nofollow" target="_blank">Share Your Ideas</a></strong>
+</p>
 <p></p>
 <p><strong>📚 Research Foundation</strong> Explore the scientific research
 and positive psychology principles that inform Team TenaCity's design.
 Understand how the game mechanics translate psychological concepts into
 practical, engaging activities.
 <br><strong><a href="https://go.gov.sg/team-tenacity" rel="noopener nofollow" target="_blank">[View Research]</a></strong>
-<br><strong><a href="https://go.gov.sg/tt-ideas" rel="noopener nofollow" target="_blank">[Share Your Ideas]</a></strong>
 </p>

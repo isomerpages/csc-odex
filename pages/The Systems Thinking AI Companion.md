@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>Advancing Systems Thinking Beyond Traditional Training</strong></h4>
-<p>The College has developed <a href="https://aibots.gov.sg/chats/systemsthinkinggpt" rel="noopener nofollow" target="_blank">Systems Thinking AI Companion – Deep-Thinking Edition (FY25)</a> to
+<p>ILOD has developed <a href="https://aibots.gov.sg/chats/systemsthinkinggpt" rel="noopener nofollow" target="_blank">Systems Thinking AI Companion – Deep-Thinking Edition (FY25)</a> to
 revolutionise how Public Service Officers learn and apply systems thinking
 concepts. This custom GPT, built using GovTech's AI Bot platform, provides
 year-round coaching to help officers deepen their understanding of systems

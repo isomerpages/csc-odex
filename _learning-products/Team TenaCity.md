@@ -1,5 +1,5 @@
 ---
-title: Team Tenacity
+title: Team TenaCity
 permalink: /team-tenacity/
 variant: tiptap
 description: ""
@@ -7,7 +7,7 @@ description: ""
 <p><strong>Team TenaCity is a Board Game Crafted to Enhance Team Resilience</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Team Tenacity" src="/images/photo_6289416131512568596_x__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo_6098268212572130110_y.jpg">
 </div>
 <p></p>
 <p><strong>Team TenaCity</strong>&nbsp;is a board game crafted to enhance
@@ -26,7 +26,7 @@ the Institute of Leadership &amp; Organisation Development, Civil Service
 College in November 2025. We developed Team TenaCity to give teams an easy,
 engaging way to foster stronger relationships, build resilience, and learn
 problem-solving strategies (all inspired from positive psychology research)
-that improve both performance and wellbeing at work.</p>
+that improve both performance and well-being at work.</p>
 <p><strong>Key Features:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -44,10 +44,34 @@ that improve both performance and wellbeing at work.</p>
 </li>
 </ul>
 <p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cards_and_board_img.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo_6098268212572130107_y.jpg">
 </div>
-<p>To buy your own set(s) of Team Tenacity, click <a href="go.gov.sg/tt-order" rel="noopener nofollow" target="_blank">here<u>.</u></a>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo_6098268212572130108_y.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo_6098268212572130109_y.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p>To buy your own set(s) of Team Tenacity, click <a href="https://go.gov.sg/tt-order" rel="noopener nofollow" target="_blank">here.</a>
 </p>
 <p><strong>Resources:</strong>
 <br><strong>🤖 AI Game Guide</strong> Need help getting started or have questions
@@ -84,5 +108,6 @@ Understand how the game mechanics translate psychological concepts into
 practical, engaging activities.
 <br><strong><a href="https://go.gov.sg/team-tenacity" rel="noopener nofollow" target="_blank">View Research</a></strong>
 </p>
+<p></p>
 <p></p>
 <p></p>

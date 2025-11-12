@@ -26,7 +26,7 @@ the Institute of Leadership &amp; Organisation Development, Civil Service
 College in November 2025. We developed Team TenaCity to give teams an easy,
 engaging way to foster stronger relationships, build resilience, and learn
 problem-solving strategies (all inspired from positive psychology research)
-that improve both performance and wellbeing at work.</p>
+that improve both performance and well-being at work.</p>
 <p><strong>Key Features:</strong>
 </p>
 <ul data-tight="true" class="tight">

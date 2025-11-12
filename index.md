@@ -25,8 +25,7 @@ sections:
         Institute of Leadership and Organisation Development (ILOD), Civil
         Service College (CSC).
   - infopic:
-      title: Learning Products
-      description: Make learning interesting.
+      title: The Systems Thinking AI Companion
       button: Learn more
       url: /learning-products/
       image: /images/employee%20engagement.jpg

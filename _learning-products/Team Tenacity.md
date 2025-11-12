@@ -71,7 +71,7 @@ that improve both performance and wellbeing at work.</p>
 </tr>
 </tbody>
 </table>
-<p>To buy your own set(s) of Team Tenacity, click <a href="go.gov.sg/tt-order" rel="noopener nofollow" target="_blank">here<u>.</u></a>
+<p>To buy your own set(s) of Team Tenacity, click <a href="https://go.gov.sg/tt-order" rel="noopener nofollow" target="_blank">here.</a>
 </p>
 <p><strong>Resources:</strong>
 <br><strong>🤖 AI Game Guide</strong> Need help getting started or have questions

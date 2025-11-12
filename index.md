@@ -27,7 +27,7 @@ sections:
   - infopic:
       title: The Systems Thinking AI Companion
       button: Learn more
-      url: /learning-products/
+      url: /systems-thinking-ai/
       image: /images/employee%20engagement.jpg
       alt: Image alt text
   - infopic:

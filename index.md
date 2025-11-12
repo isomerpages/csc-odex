@@ -8,11 +8,11 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: RESOURCES
-          description: Curated Content
-          url: resources-content
+        - title: Learning Products
+          description: Explore other ways to learn!
+          url: https://odex.csc.gov.sg/kopi-jio/
         - title: Professional Development
-          description: Frameworks
+          description: OD Competency Framework
           url: /professional-development
         - title: Newbies Corner
           description: New to OD? Find out more
@@ -25,15 +25,16 @@ sections:
         Institute of Leadership and Organisation Development (ILOD), Civil
         Service College (CSC).
   - infopic:
-      title: Learning Products
-      description: Make learning interesting.
+      title: The Systems Thinking AI Companion
       button: Learn more
-      url: /learning-products/
+      url: /systems-thinking-ai/
       image: /images/employee%20engagement.jpg
       alt: Image alt text
   - infopic:
       title: Organisational Citizenship Behaviour
-      description: OCB is something we all have and should practice in the workplace.
+      description: Ever wondered what makes workplaces energising and supportive? It's
+        the people! Explore OCB - the invisible superpower behind thriving
+        teams.
       button: LEARN more
       url: http://go.gov.sg/ocb-learn
       alt: Image alt text
@@ -48,8 +49,8 @@ sections:
       image: /images/organisation%20design.jpg
   - infobar:
       title: Mailing List
-      subtitle: OD practitioners
-      description: Get updated with useful resources, upcoming events and programmes
+      subtitle: OD Practitioners
+      description: Get updated with useful resources, upcoming events and programmes.
       button: Subscribe now
       url: https://go.gov.sg/odpracmailinglist
 ---

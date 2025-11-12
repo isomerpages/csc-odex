@@ -1,0 +1,6 @@
+collections:
+  learning-products:
+    output: true
+    order:
+      - Kopi Jio.md
+      - Team Tenacity.md

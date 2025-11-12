@@ -1,6 +1,6 @@
 ---
-title: Learning Products
-permalink: /learning-products/
+title: Kopi Jio
+permalink: /kopi-jio/
 variant: tiptap
 description: ""
 ---

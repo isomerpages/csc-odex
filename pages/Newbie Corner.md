@@ -32,8 +32,3 @@ This programme is recommended for officers ***involved in the Public Service Tra
 The ODEx Community welcomes all OD practitioners and members who are interested to be a part of organisational development efforts in their agencies.
 
 Join us through the telegram link <a href="https://go.gov.sg/odexcommunity" target="_blank"> here</a> where members of the community share resources, reflections and support each others' growth and challenges.
-
-#### Update your Practitioner Profile here!
-
-Practitioners in our mailing list <a href="https://go.gov.sg/odpracmailinglist" target="_blank">here</a> will gain access to ILOD's
-programmes, community-of-practice sessions, invitations to our events, and upcoming resource repository
